@@ -28,6 +28,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Aleph Zero - https://hack.alephzero.org/ - JAN 10
 - [ ] 0
 - [ ] 0
+- [ ] -
 
   
   
