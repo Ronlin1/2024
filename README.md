@@ -39,7 +39,11 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 
 
 ## Tech Events
-- [ ] 
+
+## Reads
+- [ ] https://www.free-ebooks.net/poetry/The-Woman
+- [ ] https://www.free-ebooks.net/excerpt/Becoming-Your-Best-Self
+- [ ] https://www.free-ebooks.net/psychology/Failed-Intellect-Successful-Criminality-Doomed-Humanity
 
 
 ## Ambassadorships
