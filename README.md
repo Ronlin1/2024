@@ -26,7 +26,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] No-Code Hackathon - https://no-code-hackathon.devpost.com/ - FEB 18
 - [ ] Web5: Building the Decentralized Web - https://web5.devpost.com/ - JAN 10
 - [ ] Aleph Zero - https://hack.alephzero.org/ - JAN 10
-- [ ] 0
+- [ ] Imagine Cup - 24th JAN
 - [ ] 0
 - [ ] -
 - [ ] 
@@ -50,4 +50,9 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 
 
 ## Ambassadorships
+- [ ]  Don Lavoie Fellowship - https://shorturl.at/qyRY0 15 APRIL
+- [ ]  Millenium Fellowship - 30 JAN
+- [ ]  CYMG - 17TH JAN
+- [ ]  
+
 
