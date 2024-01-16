@@ -57,4 +57,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ]  CYMG - 17TH JAN
 - [ ]  AWS Community Builder - https://pulse.aws/application/ZDVCOXKA 28th JAN
 
+££ Reading
+- [ ] State of Mobile 2024 report - https://shorturl.at/JS239 
+
 
