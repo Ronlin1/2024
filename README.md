@@ -55,6 +55,6 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ]  Don Lavoie Fellowship - https://shorturl.at/qyRY0 15 APRIL
 - [ ]  Millenium Fellowship - 30 JAN
 - [ ]  CYMG - 17TH JAN
-- [ ]  
+- [ ]  AWS Community Builder - https://pulse.aws/application/ZDVCOXKA 28th JAN
 
 
