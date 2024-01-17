@@ -38,7 +38,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 
 
 ## Jobs & Gigs
-- [ ]  
+- [ ]   
 
 
 ## Tech Events
