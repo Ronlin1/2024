@@ -27,7 +27,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Web5: Building the Decentralized Web - https://web5.devpost.com/ - JAN 10
 - [ ] Aleph Zero - https://hack.alephzero.org/ - JAN 10
 - [ ] Imagine Cup - 24th JAN
-- [ ] 0
+- [ ] GitLab Innovation Pitch Competition - https://gitlab.devpost.com/ Feb 27th
 - [ ] -
 - [ ] 
 
