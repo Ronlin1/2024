@@ -43,6 +43,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 
 ## Tech Events
 - [ ] AWS EMEA re:Invent re:Cap https://emea-reinvent-recap.virtual.awsevents.com/ 24th JAN
+
 - [ ] 
 
 ## Reads
