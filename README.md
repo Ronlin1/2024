@@ -28,7 +28,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Aleph Zero - https://hack.alephzero.org/ - JAN 10
 - [x] Imagine Cup - 24th JAN
 - [ ] GitLab Innovation Pitch Competition - https://gitlab.devpost.com/ Feb 27th
-- [ ] -
+- [ ] Learn it Global H - https://learn-it-global-hackathon.devpost.com/ - Feb 19th
 - [ ] 
 
 - [ ] 
