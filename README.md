@@ -29,6 +29,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [x] Imagine Cup - 24th JAN
 - [ ] GitLab Innovation Pitch Competition - https://gitlab.devpost.com/ Feb 27th
 - [ ] Learn it Global H - https://learn-it-global-hackathon.devpost.com/ - Feb 19th
+- [ ] MIT Solver - APRIL 18 https://news.mak.ac.ug/2024/02/mit-solves-2024-global-challenges/
 - [ ] 
 
 - [ ] 
@@ -57,6 +58,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ]  CYMG - 17TH JAN
 - [ ]  AWS Community Builder - https://pulse.aws/application/ZDVCOXKA 28th JAN
 - [ ]  UPG Fellow - https://unitedpeople.global/sustainability/upg-sustainability-leader-application/ SEPT 1
+- [ ]  
 
 ££ Reading
 - [ ] State of Mobile 2024 report - https://shorturl.at/JS239 
