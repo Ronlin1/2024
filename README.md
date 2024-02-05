@@ -30,7 +30,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] GitLab Innovation Pitch Competition - https://gitlab.devpost.com/ Feb 27th
 - [ ] Learn it Global H - https://learn-it-global-hackathon.devpost.com/ - Feb 19th
 - [ ] MIT Solver - APRIL 18 https://news.mak.ac.ug/2024/02/mit-solves-2024-global-challenges/
-- [ ] 
+- [ ] AEUMP -  https://indico.ictp.it/event/10494 8 Jul 2024
 
 - [ ] 
 
