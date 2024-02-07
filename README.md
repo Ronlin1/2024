@@ -31,6 +31,18 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Learn it Global H - https://learn-it-global-hackathon.devpost.com/ - Feb 19th
 - [ ] MIT Solver - APRIL 18 https://news.mak.ac.ug/2024/02/mit-solves-2024-global-challenges/
 - [ ] AEUMP -  https://indico.ictp.it/event/10494 8 Jul 2024
+- [ ]  https://www.usaid.gov/digital-development/digital-invest
+- [ ]  https://grants.mfa.no/#call/3441/details
+- [ ]  https://social.yecommunity.com/page/onboarding-ye-community
+- [ ]  https://iyfglobal.bamboohr.com/careers/29
+- [ ]  https://matching.turing.com/job-interest/xCPDV6DaiQ9lRFas5f-X8ASJe
+- [ ]  https://opportunitiesandcareers.com/2024/02/02/oecd-internship-programme/
+- [ ]  https://opportunitiesandcareers.com/2024/02/02/oecd-internship-programme/
+- [ ]  https://www.unesco.org/en/articles/unesco-opens-call-ipdc-project-proposals-2024
+- [ ]  https://grants.mfa.no/#call/3441/details
+- [ ]  https://www.linkedin.com/jobs/view/3822723212/?trackingId=2vm4Cr3PQ8%2BaoNsIaJpEkg%3D%3D&refId=JveF0rfiQB2S4W6bUikkxA%3D%3D&midToken=AQGkWQbe8VG1Rw&midSig=2VjopNhTAD9r81&trk=eml-jobs_jymbii_digest-job_card-0-jobcard_body&trkEmail=eml-jobs_jymbii_digest-job_card-0-jobcard_body-null-72dmsi~ls8s03du~ho-null-null&eid=72dmsi-ls8s03du-ho&otpToken=MTYwNzE5ZTIxNzI2Y2NjN2I0MjQwNGVkNDYxOWU2YjY4N2NmZDE0NTljYTk4YTYxNzBjMDAwNjc0YTVmNWVmM2ZlZDRkZmI5NWJjOGVhZTU0MWE0ZWQ5YjIzOTM1YzczNTgwYjE2Y2Q3ZjUxMWFiODQzNjc0ZSwxLDE%3D
+- [ ]  https://indico.ictp.it/event/10494
+- [ ]  
 
 - [ ] 
 
