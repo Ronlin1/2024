@@ -42,9 +42,25 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ]  https://grants.mfa.no/#call/3441/details
 - [ ]  https://www.linkedin.com/jobs/view/3822723212/?trackingId=2vm4Cr3PQ8%2BaoNsIaJpEkg%3D%3D&refId=JveF0rfiQB2S4W6bUikkxA%3D%3D&midToken=AQGkWQbe8VG1Rw&midSig=2VjopNhTAD9r81&trk=eml-jobs_jymbii_digest-job_card-0-jobcard_body&trkEmail=eml-jobs_jymbii_digest-job_card-0-jobcard_body-null-72dmsi~ls8s03du~ho-null-null&eid=72dmsi-ls8s03du-ho&otpToken=MTYwNzE5ZTIxNzI2Y2NjN2I0MjQwNGVkNDYxOWU2YjY4N2NmZDE0NTljYTk4YTYxNzBjMDAwNjc0YTVmNWVmM2ZlZDRkZmI5NWJjOGVhZTU0MWE0ZWQ5YjIzOTM1YzczNTgwYjE2Y2Q3ZjUxMWFiODQzNjc0ZSwxLDE%3D
 - [ ]  https://indico.ictp.it/event/10494
+- [ ]  https://www.afox.ox.ac.uk/afox-catalyst-grants
 - [ ]  
 
-- [ ] 
+- [ ] https://hackp.ac/address MLH SWAG
+- [ ] Chegg student Award https://varkeyfoundation.awardsplatform.com/ - 25th APRIL
+- [ ] Annual Student Research Symposium https://abctstudent.wixsite.com/abct-student-special/general-9 25MARCH
+- [ ] Venture 4Climate Tech - MAR 1 YOUNOODLE
+- [ ] CALTECH - MARCH 1 YOUNOODLE
+- [ ] IGNITE CUP 2024 FEB 16 YOUNOODLE
+- [ ] STARTUP AFRICA FEB 16 YOUNOODLE
+- [ ] UNESCO - 15TH FEB https://shorturl.at/lERV8
+- [ ] MEST - 18th March 2024 https://mest.submittable.com/submit
+- [ ] Africa Business Concept Challenge 5MARCH - https://gbsn.org/africachallenge/
+- [ ] LEAD 2030 - https://www.oneyoungworld.com/lead2030/23-24/challenge-sdg6-reckitt - 10MAR
+- [ ] TEFCONNECT - 25 FEB - https://www.tefconnect.com/
+- [ ] USAID’s Digital Invest Program - 10TH APRIL https://www.usaid.gov/digital-development/digital-invest
+- [ ] Oxford Catalyst Grant - https://webportalapp.com/sp/home/afox-travel-grant-2020 17th May
+- [ ] Keeling Curve Prize  -http://kcurveprize.org/apply FEB11
+- [ ] Planet Media -https://www.thisisplaneted.org/blog/planet-media-call-for-pitches  
 
   
   
@@ -73,6 +89,8 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ]  
 
 ££ Reading
-- [ ] State of Mobile 2024 report - https://shorturl.at/JS239 
+- [ ] State of Mobile 2024 report - https://shorturl.at/JS239
+- [ ] WHATSAPP SCRAPER - https://github.com/situmorang-com/Whatsapp-Group-Contacts-Scraper
+- [ ] 
 
 
