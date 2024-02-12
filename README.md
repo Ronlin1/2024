@@ -60,18 +60,47 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] USAID’s Digital Invest Program - 10TH APRIL https://www.usaid.gov/digital-development/digital-invest
 - [ ] Oxford Catalyst Grant - https://webportalapp.com/sp/home/afox-travel-grant-2020 17th May
 - [ ] Keeling Curve Prize  -http://kcurveprize.org/apply FEB11
-- [ ] Planet Media -https://www.thisisplaneted.org/blog/planet-media-call-for-pitches  
+- [ ] Planet Media -https://www.thisisplaneted.org/blog/planet-media-call-for-pitches
+- [ ] Google Summer of CODE: https://summerofcode.withgoogle.com/ 18TH MAR
+- [ ] IFRC Limitless Academy - https://limitless.solferinoacademy.com/academy FEB 20
+- [ ] EAUMP-ICTP School on the Mathematics of AI - 01/04/2024 https://indico.ictp.it/event/10494
+- [ ] Global Youth Dialogue
+- [ ] Open Society AI in Journalism - https://www.opensocietyfoundations.org/focus/open-society-ai-in-journalism-futures Feb 23
+- [ ] JEDI SCHOLARSHIP - https://ases.org/conference/jedischolarship/ - Feb 15
+- [ ] DHC+ Student Awards - https://www.judgify.me/dhcplus-student-awards 14 FEB
+- [ ] RES4Africa Academy
+- [ ] YCJF - Communication Manager - https://forms.gle/cQYq4yuKZFkuABzj7 FEB 14
+- [ ] ECOSOC Youth Forum - https://lnkd.in/dBa8AVX3 FEB 14
+- [ ] Net Zero Scholars - https://www.oneyoungworld.com/scholarships/net-zero/2024 - 1 April
+- [ ] OC FELLOWSHIP - https://ocimpact.com/oc-global/ocfellowships/ FEB 12
+- [ ] Australia Awards Scholarship - https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships 15 APRIL
+- [ ] OECD Intern - https://www.oecd.org/careers/internship-programme/
+- [ ] UNICEF Internships - https://shorturl.at/zAIV1 - 19th FEB
+- [ ] UNECA International Internships -
+- [ ] Chatham House Internship Program
+- [ ] Goldman Sachs Internships -  https://goldmansachs.tal.net/vx/lang-en-GB/system-51/candidate
+- [ ] FAO Internship - https://jobs.fao.org/careersection/fao_external/jobsearch.ftl?lang=en JUL 10
+- [ ] Digital Africa Talent 4 - https://talent4startups.digital-africa.co/ 25th FEB
+- [ ] Bank of America https://campus.bankofamerica.com/opportunities.html
+- [ ] EE 30 Under 30 - WEBINAR FEB 21 - https://naaee.org/programs/ee-30-under-30 March 25
+- [ ] WBG Youth Summit 2024 Pitch Competition - 30 MAR - https://shorturl.at/hrA02
+- [ ] SID INITIATIVE CALL FOR APPLICATION: TRAINING FOR WOMEN IN MEDIA  - https://shorturl.at/wAMS4
+- [ ] 
 
   
   
 
 
 ## Jobs & Gigs
-- [ ]   
+- [ ] UNHCR
+- [ ] https://morganstanley.tal.net/vx/candidate/apply/15935
+- [ ] Digital Africa Talent 4 Startups - https://talent4startups.digital-africa.co/ - 20th FEB
+- [ ] 
 
 
 ## Tech Events
 - [ ] AWS EMEA re:Invent re:Cap https://emea-reinvent-recap.virtual.awsevents.com/ 24th JAN
+- [ ] CARP Webinar 7: Policy Advocacy for a Climate Resilient Africa https://shorturl.at/EGP09
 - [ ] 
 
 ## Reads
