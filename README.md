@@ -85,6 +85,10 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] EE 30 Under 30 - WEBINAR FEB 21 - https://naaee.org/programs/ee-30-under-30 March 25
 - [ ] WBG Youth Summit 2024 Pitch Competition - 30 MAR - https://shorturl.at/hrA02
 - [ ] SID INITIATIVE CALL FOR APPLICATION: TRAINING FOR WOMEN IN MEDIA  - https://shorturl.at/wAMS4
+- [ ] DATA EMPOWERMENT FUND - https://dataempowerment.fund/wp-content/uploads/2023/12/DEF_Open_Call.pdf?v=2 5 MAR
+- [ ] ASHINAGA Interns: https://www.ashinaga.org/en/support-us/interns-volunteers/intern-with-ashinaga/ 25th FEB
+- [ ] ASHINAGA https://eu.jotform.com/app/231641683033451/23
+- [ ] 2024 Aspire Leaders Program https://www.aspireleaders.org/
 - [ ] 
 
   
