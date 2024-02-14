@@ -47,14 +47,14 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 
 - [ ] https://hackp.ac/address MLH SWAG
 - [ ] Chegg student Award https://varkeyfoundation.awardsplatform.com/ - 25th APRIL
-- [ ] Annual Student Research Symposium https://abctstudent.wixsite.com/abct-student-special/general-9 25MARCH
+- [ ] Annual Student Research Symposium https://abctstudent.wixsite.com/abct-student-special/general-9 25 MARCH
 - [ ] Venture 4Climate Tech - MAR 1 YOUNOODLE
 - [ ] CALTECH - MARCH 1 YOUNOODLE
 - [ ] IGNITE CUP 2024 FEB 16 YOUNOODLE
 - [ ] STARTUP AFRICA FEB 16 YOUNOODLE
 - [ ] UNESCO - 15TH FEB https://shorturl.at/lERV8
 - [ ] MEST - 18th March 2024 https://mest.submittable.com/submit
-- [ ] Africa Business Concept Challenge 5MARCH - https://gbsn.org/africachallenge/
+- [ ] Africa Business Concept Challenge 5 MARCH - https://gbsn.org/africachallenge/
 - [ ] LEAD 2030 - https://www.oneyoungworld.com/lead2030/23-24/challenge-sdg6-reckitt - 10MAR
 - [ ] TEFCONNECT - 25 FEB - https://www.tefconnect.com/
 - [ ] USAID’s Digital Invest Program - 10TH APRIL https://www.usaid.gov/digital-development/digital-invest
