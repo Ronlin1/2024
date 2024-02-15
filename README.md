@@ -89,6 +89,8 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] ASHINAGA Interns: https://www.ashinaga.org/en/support-us/interns-volunteers/intern-with-ashinaga/ 25th FEB
 - [ ] ASHINAGA https://eu.jotform.com/app/231641683033451/23
 - [ ] 2024 Aspire Leaders Program https://www.aspireleaders.org/
+- [ ] 2024 GLOBAL LEARNING CHALLENGE MIT https://shorturl.at/demJS 15 APRIL
+- [ ] TEDx - https://tedx-apply.ted.com/licenses/new?tags=University
 - [ ] 
 
   
