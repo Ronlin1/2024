@@ -91,6 +91,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] 2024 Aspire Leaders Program https://www.aspireleaders.org/
 - [ ] 2024 GLOBAL LEARNING CHALLENGE MIT https://shorturl.at/demJS 15 APRIL
 - [ ] TEDx - https://tedx-apply.ted.com/licenses/new?tags=University
+- [ ] ACGEM Youth Essay Competition - https://t.ly/AtRpV JUNE 25TH
 - [ ] 
 
   
