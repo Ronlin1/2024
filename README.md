@@ -90,9 +90,17 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] ASHINAGA https://eu.jotform.com/app/231641683033451/23
 - [ ] 2024 Aspire Leaders Program https://www.aspireleaders.org/
 - [ ] 2024 GLOBAL LEARNING CHALLENGE MIT https://shorturl.at/demJS 15 APRIL
-- [ ] TEDx - https://tedx-apply.ted.com/licenses/new?tags=University
+- [ ] TEDx - https://tedx-apply.ted.com/licenses/new?tags=University 26 FEB
 - [ ] ACGEM Youth Essay Competition - https://t.ly/AtRpV JUNE 25TH
 - [ ] STARTHUB FOOD SECURITY - https://starthubafrica.org/foodsecurity/ 24TH FEB
+- [ ] YECOPRENEUR - http://tinyurl.com/r2ps4ejb 20 MAR
+- [ ] INGSA2024 https://www.ingsa2024.com/submit 25FEB
+- [ ] GrewWATER SanTech - http://tinyurl.com/pkd6ucen 22FEB
+- [ ] World Bank 2024 Pitch Competition - https://youthsummit24.wufoo.com/forms/zr587641ladlrn/ 27th FEB
+- [ ] Next Humanitarian Fellowship - https://generationnextfellowship.org/apply/ 
+- [ ] UN Internships - https://unitednationsinternships.com/
+- [ ] Global Student Innovation Challenge - http://tinyurl.com/2muzbzbt - 10th MAY
+- [ ] YALI FELLOW https://www.yalieastafrica.org/ 28 FEB
 - [ ] 
 
   
