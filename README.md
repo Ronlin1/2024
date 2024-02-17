@@ -101,6 +101,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] UN Internships - https://unitednationsinternships.com/
 - [ ] Global Student Innovation Challenge - http://tinyurl.com/2muzbzbt - 10th MAY
 - [ ] YALI FELLOW https://www.yalieastafrica.org/ 28 FEB
+- [ ] University Innovation Fellows - https://www.tfaforms.com/4867213 APRIL 25
 - [ ] 
 
   
