@@ -102,6 +102,18 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Global Student Innovation Challenge - http://tinyurl.com/2muzbzbt - 10th MAY
 - [ ] YALI FELLOW https://www.yalieastafrica.org/ 28 FEB
 - [ ] University Innovation Fellows - https://www.tfaforms.com/4867213 APRIL 25
+- [ ] Student of Vision Abie Award https://anitab.org/awards-grants/abie-awards/student-of-vision/
+- [ ] I am The Code - 
+- [ ] Acumen Fellows - https://fellowship.acumenacademy.org/east-africa
+- [ ] IDEX Fellows - https://graymatterscap.com/idex-global-fellowship/
+- [ ] POSTMAN ACADEMY 10MAR - http://tinyurl.com/39fer5rp
+- [ ] POSTMAN LEADER - https://www.postman.com/student-program/student-leader/
+- [ ] GITEX PITCH - https://gitexafrica.com/africa-supernova-challenge 5 APRIL
+- [ ] UiPath - https://community.uipath.com/get-involved/start-a-chapter/ 5 MAR
+- [ ] GitKraken Ambassadors - https://www.gitkraken.com/ambassador 15 JULY
+- [ ] CYBER TALENTS = 25TH FEB - https://www.linkedin.com/company/cybertalent/posts/?feedView=all
+- [ ] NOTION CAMPUS - http://tinyurl.com/yc89nbbv - 5TH APRIL
+- [ ] LIGHTENING AI - https://lightning.ai/ambassador-program/ 20TH APRIL
 - [ ] 
 
   
