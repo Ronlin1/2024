@@ -114,6 +114,10 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] CYBER TALENTS = 25TH FEB - https://www.linkedin.com/company/cybertalent/posts/?feedView=all
 - [ ] NOTION CAMPUS - http://tinyurl.com/yc89nbbv - 5TH APRIL
 - [ ] LIGHTENING AI - https://lightning.ai/ambassador-program/ 20TH APRIL
+- [ ] AWS CLUB - https://pulse.aws/application/NZNKXXTP?p=0 21 FEB
+- [ ] OneAPI Intel - http://tinyurl.com/5n6hjcdu  15MAR
+- [ ] REACH OUT TO https://yuriachermann.com/ 25TH FEB
+- [ ] UNDERGRADUATE AWARDS - https://undergraduateawards.com/submit 20 MAY
 - [ ] 
 
   
