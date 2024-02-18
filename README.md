@@ -124,7 +124,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] UNHCR
 - [ ] https://morganstanley.tal.net/vx/candidate/apply/15935
 - [ ] Digital Africa Talent 4 Startups - https://talent4startups.digital-africa.co/ - 20th FEB
-- [ ] 
+- [ ] UN Cyber Sec JOB http://tinyurl.com/ydp66hbv  5MAR
 
 
 ## Tech Events
