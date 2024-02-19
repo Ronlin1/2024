@@ -118,6 +118,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] OneAPI Intel - http://tinyurl.com/5n6hjcdu  15MAR
 - [ ] REACH OUT TO https://yuriachermann.com/ 25TH FEB
 - [ ] UNDERGRADUATE AWARDS - https://undergraduateawards.com/submit 20 MAY
+- [ ] Max Campus Brand Manager = http://tinyurl.com/ys7a44u7   10MAR
 - [ ] 
 
   
@@ -150,9 +151,11 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ]  UPG Fellow - https://unitedpeople.global/sustainability/upg-sustainability-leader-application/ SEPT 1
 - [ ]  
 
-££ Reading
+## Reading
 - [ ] State of Mobile 2024 report - https://shorturl.at/JS239
 - [ ] WHATSAPP SCRAPER - https://github.com/situmorang-com/Whatsapp-Group-Contacts-Scraper
-- [ ] 
+
+## WEBSITES TO COPY
+- [ ] https://tribevibe.live/campus-ambassador.php
 
 
