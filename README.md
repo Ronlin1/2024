@@ -119,8 +119,12 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] REACH OUT TO https://yuriachermann.com/ 25TH FEB
 - [ ] UNDERGRADUATE AWARDS - https://undergraduateawards.com/submit 20 MAY
 - [ ] Max Campus Brand Manager = http://tinyurl.com/ys7a44u7   10MAR
+- [ ] HackWithInfy http://tinyurl.com/3tyzbmwz -15 MAR
+- [ ] FACIA AI - http://tinyurl.com/5erdvsyz 20 MAR
+- [ ] CIEE CAMPUS - http://tinyurl.com/3b2u8pkz SEPT 10
+- [ ] iNeuBytes - http://tinyurl.com/uyek6xf2 15 MAR
+- [ ] Emertxe’s Campus Ambassador  - http://tinyurl.com/565apmjs 11 MAR
 - [ ] 
-
   
   
 
