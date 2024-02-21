@@ -62,7 +62,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Keeling Curve Prize  -http://kcurveprize.org/apply FEB11
 - [ ] Planet Media -https://www.thisisplaneted.org/blog/planet-media-call-for-pitches
 - [ ] Google Summer of CODE: https://summerofcode.withgoogle.com/ 18TH MAR
-- [ ] IFRC Limitless Academy - https://limitless.solferinoacademy.com/academy FEB 20
+- [ ] IFRC Limitless Academy - https://limitless.solferinoacademy.com/academy FEB 22
 - [ ] EAUMP-ICTP School on the Mathematics of AI - 01/04/2024 https://indico.ictp.it/event/10494
 - [ ] Global Youth Dialogue
 - [ ] Open Society AI in Journalism - https://www.opensocietyfoundations.org/focus/open-society-ai-in-journalism-futures Feb 23
@@ -95,7 +95,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] STARTHUB FOOD SECURITY - https://starthubafrica.org/foodsecurity/ 24TH FEB
 - [ ] YECOPRENEUR - http://tinyurl.com/r2ps4ejb 20 MAR
 - [ ] INGSA2024 https://www.ingsa2024.com/submit 25FEB
-- [ ] GrewWATER SanTech - http://tinyurl.com/pkd6ucen 22FEB
+- [ ] GreyWATER SanTech - http://tinyurl.com/pkd6ucen 22FEB
 - [ ] World Bank 2024 Pitch Competition - https://youthsummit24.wufoo.com/forms/zr587641ladlrn/ 27th FEB
 - [ ] Next Humanitarian Fellowship - https://generationnextfellowship.org/apply/ 
 - [ ] UN Internships - https://unitednationsinternships.com/
@@ -114,7 +114,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] CYBER TALENTS = 25TH FEB - https://www.linkedin.com/company/cybertalent/posts/?feedView=all
 - [ ] NOTION CAMPUS - http://tinyurl.com/yc89nbbv - 5TH APRIL
 - [ ] LIGHTENING AI - https://lightning.ai/ambassador-program/ 20TH APRIL
-- [ ] AWS CLUB - https://pulse.aws/application/NZNKXXTP?p=0 21 FEB
+- [ ] AWS CLUB - https://pulse.aws/application/NZNKXXTP?p=0 22 FEB
 - [ ] OneAPI Intel - http://tinyurl.com/5n6hjcdu  15MAR
 - [ ] REACH OUT TO https://yuriachermann.com/ 25TH FEB
 - [ ] UNDERGRADUATE AWARDS - https://undergraduateawards.com/submit 20 MAY
