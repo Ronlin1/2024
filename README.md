@@ -94,8 +94,8 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] ACGEM Youth Essay Competition - https://t.ly/AtRpV JUNE 25TH
 - [ ] STARTHUB FOOD SECURITY - https://starthubafrica.org/foodsecurity/ 24TH FEB
 - [ ] YECOPRENEUR - http://tinyurl.com/r2ps4ejb 20 MAR
-- [ ] INGSA2024 https://www.ingsa2024.com/submit 25FEB
-- [ ] GreyWATER SanTech - http://tinyurl.com/pkd6ucen 22FEB
+- [ ] INGSA2024 https://www.ingsa2024.com/submit 25 FEB
+- [ ] GreyWATER SanTech - http://tinyurl.com/pkd6ucen 24 FEB
 - [ ] World Bank 2024 Pitch Competition - https://youthsummit24.wufoo.com/forms/zr587641ladlrn/ 27th FEB
 - [ ] Next Humanitarian Fellowship - https://generationnextfellowship.org/apply/ 
 - [ ] UN Internships - https://unitednationsinternships.com/
@@ -129,6 +129,10 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] XRP https://xrpl.org/ambassadors.html 25 FEB
 - [ ] Nexo - https://nexo.com/ambassadors 05 MAR
 - [ ] Skill Squad https://www.skillsquad.io/campus-ambassador  05 MAR
+- [ ] FACIA.AI - https://facia.ai/campus-ambassador-programme/#form-campus-ambassador-programme 15 MAR
+- [ ] HULT PRIZE - https://www.hultprize.org/startup-pre-registration-is-now-open/ 25 FEB
+- [ ] 
+- [ ] 
   
   
 
