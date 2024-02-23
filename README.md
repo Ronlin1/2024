@@ -144,6 +144,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] AFRIKA KOMMT https://afrika-kommt.de/become-a-fellow/ 20 MAR
 - [ ] UNFCCC Internship http://tinyurl.com/3mkacrv6 3 MAR
 - [ ] Global Student Innovation Challenge - 20 MAY
+- [ ] AirDrop labs http://tinyurl.com/mryah2hh - 04 MAR
 - [ ] 
   
   
