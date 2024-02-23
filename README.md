@@ -103,7 +103,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] YALI FELLOW https://www.yalieastafrica.org/ 28 FEB
 - [ ] University Innovation Fellows - https://www.tfaforms.com/4867213 APRIL 25
 - [ ] Student of Vision Abie Award https://anitab.org/awards-grants/abie-awards/student-of-vision/
-- [ ] I am The Code - 
+- [ ] I am The Code - http://tinyurl.com/mr3wbvme 18 MAR
 - [ ] Acumen Fellows - https://fellowship.acumenacademy.org/east-africa
 - [ ] IDEX Fellows - https://graymatterscap.com/idex-global-fellowship/
 - [ ] POSTMAN ACADEMY 10MAR - http://tinyurl.com/39fer5rp
@@ -131,7 +131,19 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Skill Squad https://www.skillsquad.io/campus-ambassador  05 MAR
 - [ ] FACIA.AI - https://facia.ai/campus-ambassador-programme/#form-campus-ambassador-programme 15 MAR
 - [ ] HULT PRIZE - https://www.hultprize.org/startup-pre-registration-is-now-open/ 25 FEB
-- [ ] 
+- [ ] WIPO Global Awards - https://www.wipo.int/global-awards/en/ 25 MAR
+- [ ] World Habitat Awards 2025 - https://world-habitat.org/world-habitat-awards/ - 28 FEB
+- [ ] LEP - CYP http://tinyurl.com/2s3jz2pr 27 FEB
+- [ ] UPG Champions  - https://unitedpeople.global/specialapply/ 
+- [ ] Leading Minds Fellowship - http://tinyurl.com/4x7pe67e 05 MAR
+- [ ] AIG Public Leaders - https://www.aigimoukhuedefoundation.org/leaders-programme 20 APRIL
+- [ ] ALX http://tinyurl.com/2sy32kpt - 27 FEB
+- [ ] UNCCD Land Heroes - http://tinyurl.com/bdhvzm5r 27 FEB
+- [ ] UN Foundation intern - https://unfoundation.org/careers/
+- [ ] Small Business Champions - http://tinyurl.com/4wxnk4f7 - 20 APRIL
+- [ ] AFRIKA KOMMT https://afrika-kommt.de/become-a-fellow/ 20 MAR
+- [ ] UNFCCC Internship http://tinyurl.com/3mkacrv6 3 MAR
+- [ ] Global Student Innovation Challenge - 20 MAY
 - [ ] 
   
   
