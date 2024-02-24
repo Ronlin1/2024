@@ -174,7 +174,8 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ]  CYMG - 17TH JAN
 - [ ]  AWS Community Builder - https://pulse.aws/application/ZDVCOXKA 28th JAN
 - [ ]  UPG Fellow - https://unitedpeople.global/sustainability/upg-sustainability-leader-application/ SEPT 1
-- [ ]  
+- [ ]  Commonwealth Distance Learning Scholarship
+- [ ]  Yale Young Global Scholars Fellowship  https://apply.globalscholars.yale.edu/
 
 ## Reading
 - [ ] State of Mobile 2024 report - https://shorturl.at/JS239
