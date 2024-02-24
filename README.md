@@ -56,7 +56,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] MEST - 18th March 2024 https://mest.submittable.com/submit
 - [ ] Africa Business Concept Challenge 5 MARCH - https://gbsn.org/africachallenge/
 - [ ] LEAD 2030 - https://www.oneyoungworld.com/lead2030/23-24/challenge-sdg6-reckitt - 10MAR
-- [ ] TEFCONNECT - 25 FEB - https://www.tefconnect.com/
+- [ ] TEFCONNECT - 28 FEB - https://www.tefconnect.com/
 - [ ] USAID’s Digital Invest Program - 10TH APRIL https://www.usaid.gov/digital-development/digital-invest
 - [ ] Oxford Catalyst Grant - https://webportalapp.com/sp/home/afox-travel-grant-2020 17th May
 - [ ] Keeling Curve Prize  -http://kcurveprize.org/apply FEB11
