@@ -83,7 +83,6 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Digital Africa Talent 4 - https://talent4startups.digital-africa.co/ 25th FEB
 - [ ] Bank of America https://campus.bankofamerica.com/opportunities.html
 - [ ] EE 30 Under 30 - WEBINAR FEB 21 - https://naaee.org/programs/ee-30-under-30 March 25
-- [ ] WBG Youth Summit 2024 Pitch Competition - 30 MAR - https://shorturl.at/hrA02
 - [ ] SID INITIATIVE CALL FOR APPLICATION: TRAINING FOR WOMEN IN MEDIA  - https://shorturl.at/wAMS4
 - [ ] DATA EMPOWERMENT FUND - https://dataempowerment.fund/wp-content/uploads/2023/12/DEF_Open_Call.pdf?v=2 5 MAR
 - [ ] ASHINAGA Interns: https://www.ashinaga.org/en/support-us/interns-volunteers/intern-with-ashinaga/ 25th FEB
@@ -96,7 +95,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] YECOPRENEUR - http://tinyurl.com/r2ps4ejb 20 MAR
 - [ ] INGSA2024 https://www.ingsa2024.com/submit 25 FEB
 - [ ] GreyWATER SanTech - http://tinyurl.com/pkd6ucen 24 FEB
-- [ ] World Bank 2024 Pitch Competition - https://youthsummit24.wufoo.com/forms/zr587641ladlrn/ 27th FEB
+- [ ] World Bank 2024 Pitch Competition - https://youthsummit24.wufoo.com/forms/zr587641ladlrn/ 28 FEB
 - [ ] Next Humanitarian Fellowship - https://generationnextfellowship.org/apply/ 
 - [ ] UN Internships - https://unitednationsinternships.com/
 - [ ] Global Student Innovation Challenge - http://tinyurl.com/2muzbzbt - 10th MAY
