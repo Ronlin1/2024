@@ -6,7 +6,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] UPCOMING - https://mlh.io/seasons/2024/events
 - [ ] UPCOMING - https://devpost.com/hackathons
 
-- [ ] --------------
+- [ ] ---------------
  
 - [ ] Story3 Hackathon - https://story3.hackerearth.com/ - 27th JAN
 - [ ] UNBS ARSO Essay - 29th FEB
