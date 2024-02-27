@@ -149,11 +149,22 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
   
 
 
-## Jobs & Gigs
+## Jobs & Gigs & Internships
 - [ ] UNHCR
 - [ ] https://morganstanley.tal.net/vx/candidate/apply/15935
 - [ ] Digital Africa Talent 4 Startups - https://talent4startups.digital-africa.co/ - 20th FEB
 - [ ] UN Cyber Sec JOB http://tinyurl.com/ydp66hbv  5MAR
+- [ ] Internships with FES Uganda https://uganda.fes.de/about/internships-with-fes-uganda
+- [ ] MINISTRY OF GENDER, LABOUR AND SOCIAL DEVELOMENT INTERNS - https://mglsd.go.ug/internship/
+- [ ] UBOS - https://www.ubos.org/internship/
+- [ ] UN Careers - https://uncareer.net/country/Uganda/city/Kampala
+- [ ] BOA - https://boauganda.com/service/jobs-and-internships-application/
+- [ ] Total Energies - https://totalenergies.ug/internships
+- [ ] UWEZO - https://uwezouganda.org/careers/internships/
+- [ ] URA Internships - https://ura.go.ug/en/opportunities/careers/internships/
+- [ ] REACH 4 UGANDA - https://reachforuganda.org/getinvolved/internships/
+- [ ] UNESCO - https://unesco-uganda.ug/internship/
+- [ ] 
 
 
 ## Tech Events
