@@ -144,7 +144,9 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] UNFCCC Internship http://tinyurl.com/3mkacrv6 3 MAR
 - [ ] Global Student Innovation Challenge - 20 MAY
 - [ ] AirDrop labs http://tinyurl.com/mryah2hh - 04 MAR
-- [ ] 
+- [ ] CIEE UNHCR Student Challenge - https://www.globalinternshipconference.com/2024/student-challenge
+- [ ] CIOB Global Student Challenge - https://gsc.ciob.org/enter/
+- [ ] Inchainge https://inchainge.com/news-events/flagship/gsc/
   
   
 
@@ -164,6 +166,9 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] URA Internships - https://ura.go.ug/en/opportunities/careers/internships/
 - [ ] REACH 4 UGANDA - https://reachforuganda.org/getinvolved/internships/
 - [ ] UNESCO - https://unesco-uganda.ug/internship/
+- [ ] GO OVERSEAS - https://www.gooverseas.com/internships-abroad/uganda
+- [ ] UNDP - http://www.undp.org/internships/
+- [ ] Ashoka - https://www.ashoka.org/
 - [ ] 
 
 
