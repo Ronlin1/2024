@@ -155,6 +155,8 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] INNOVATE THE FUTURE http://tinyurl.com/ra3du2jp MAR 20
 - [ ] Challenge for Zero Hunger - http://tinyurl.com/34df2ec7
 - [ ] IEEE - http://tinyurl.com/pxvfav4f
+- [ ] The Leadership Advancement Programme (LAP) - https://unifog.org/
+- [ ] 
   
   
 
