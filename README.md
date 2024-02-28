@@ -147,6 +147,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] CIEE UNHCR Student Challenge - https://www.globalinternshipconference.com/2024/student-challenge
 - [ ] CIOB Global Student Challenge - https://gsc.ciob.org/enter/
 - [ ] Inchainge https://inchainge.com/news-events/flagship/gsc/
+- [ ] FM STUDENT CHALLENGE - https://pages.ifma.org/wweu24studentchallenge
   
   
 
