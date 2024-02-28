@@ -148,6 +148,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] CIOB Global Student Challenge - https://gsc.ciob.org/enter/
 - [ ] Inchainge https://inchainge.com/news-events/flagship/gsc/
 - [ ] FM STUDENT CHALLENGE - https://pages.ifma.org/wweu24studentchallenge
+- [ ] Generation Connect Young Leadership - http://tinyurl.com/2s37c3r5 20 March 2024
   
   
 
