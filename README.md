@@ -149,6 +149,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Inchainge https://inchainge.com/news-events/flagship/gsc/
 - [ ] FM STUDENT CHALLENGE - https://pages.ifma.org/wweu24studentchallenge
 - [ ] Generation Connect Young Leadership - http://tinyurl.com/2s37c3r5 20 March 2024
+- [ ] The Commonwealth Awards  https://www.thecommonwealth.io/awards/#key-objectives
   
   
 
