@@ -150,6 +150,8 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] FM STUDENT CHALLENGE - https://pages.ifma.org/wweu24studentchallenge
 - [ ] Generation Connect Young Leadership - http://tinyurl.com/2s37c3r5 20 March 2024
 - [ ] The Commonwealth Awards  https://www.thecommonwealth.io/awards/#key-objectives
+- [ ] WUR - 2024 Food Systems Innovation Challenge - http://tinyurl.com/3828pysd 05 MAR
+- [ ] 
   
   
 
