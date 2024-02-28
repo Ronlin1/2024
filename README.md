@@ -151,7 +151,10 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Generation Connect Young Leadership - http://tinyurl.com/2s37c3r5 20 March 2024
 - [ ] The Commonwealth Awards  https://www.thecommonwealth.io/awards/#key-objectives
 - [ ] WUR - 2024 Food Systems Innovation Challenge - http://tinyurl.com/3828pysd 05 MAR
-- [ ] 
+- [ ] The Spring 2024 Social Innovation Challenge - http://tinyurl.com/5hdp5m3m 1 APRIL
+- [ ] INNOVATE THE FUTURE http://tinyurl.com/ra3du2jp MAR 20
+- [ ] Challenge for Zero Hunger - http://tinyurl.com/34df2ec7
+- [ ] IEEE - http://tinyurl.com/pxvfav4f
   
   
 
