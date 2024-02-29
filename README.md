@@ -156,6 +156,11 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Challenge for Zero Hunger - http://tinyurl.com/34df2ec7
 - [ ] IEEE - http://tinyurl.com/pxvfav4f
 - [ ] The Leadership Advancement Programme (LAP) - https://unifog.org/
+- [ ] Youth4Climate - http://tinyurl.com/2p96e2eh  15 MAY
+- [ ] MLSA AI Project - http://tinyurl.com/4evay8ky 03 MAR
+- [ ] TOSHIBA INTERNS - https://careers.commerce.toshiba.com/en/openings/internship
+- [ ] 
+- [ ] WSA Young Innovators - https://wsa-global.org/wsa_categories/wsa-young-innovators/
 - [ ] 
   
   
