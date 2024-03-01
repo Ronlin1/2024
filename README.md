@@ -188,6 +188,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] UNDP - http://www.undp.org/internships/
 - [ ] Ashoka - https://www.ashoka.org/
 - [ ] UNFCC - https://unfccc.int/secretariat/employment/recruitment 20 MAR
+- [ ] TRON 6 - https://trons6.devpost.com/ 15 APRIL
 - [ ] 
 
 
@@ -210,6 +211,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ]  UPG Fellow - https://unitedpeople.global/sustainability/upg-sustainability-leader-application/ SEPT 1
 - [ ]  Commonwealth Distance Learning Scholarship
 - [ ]  Yale Young Global Scholars Fellowship  https://apply.globalscholars.yale.edu/
+- [ ]  GDSC LEAD - https://developers.google.com/community/gdsc/leads  25 MAR
 
 ## Reading
 - [ ] State of Mobile 2024 report - https://shorturl.at/JS239
