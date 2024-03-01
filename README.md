@@ -161,6 +161,9 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] TOSHIBA INTERNS - https://careers.commerce.toshiba.com/en/openings/internship
 - [ ] 
 - [ ] WSA Young Innovators - https://wsa-global.org/wsa_categories/wsa-young-innovators/
+- [ ] The Deep Learning Indaba - https://deeplearningindaba.com/2024/ MAR 17
+- [ ] Young Champions of the Earth - https://www.unep.org/youngchampions/ 1 APRIL
+- [ ] Team up for climate - https://tinyurl.com/2r89jztk 15 MAR
 - [ ] 
   
   
@@ -184,6 +187,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] GO OVERSEAS - https://www.gooverseas.com/internships-abroad/uganda
 - [ ] UNDP - http://www.undp.org/internships/
 - [ ] Ashoka - https://www.ashoka.org/
+- [ ] UNFCC - https://unfccc.int/secretariat/employment/recruitment 20 MAR
 - [ ] 
 
 
