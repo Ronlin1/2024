@@ -146,14 +146,14 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] AirDrop labs http://tinyurl.com/mryah2hh - 04 MAR
 - [ ] CIEE UNHCR Student Challenge - https://www.globalinternshipconference.com/2024/student-challenge
 - [ ] CIOB Global Student Challenge - https://gsc.ciob.org/enter/
-- [ ] Inchainge https://inchainge.com/news-events/flagship/gsc/
+- [ ] Inchainge https://inchainge.com/news-events/flagship/gsc/ MAR 12
 - [ ] FM STUDENT CHALLENGE - https://pages.ifma.org/wweu24studentchallenge
 - [ ] Generation Connect Young Leadership - http://tinyurl.com/2s37c3r5 20 March 2024
 - [ ] The Commonwealth Awards  https://www.thecommonwealth.io/awards/#key-objectives
 - [ ] WUR - 2024 Food Systems Innovation Challenge - http://tinyurl.com/3828pysd 05 MAR
 - [ ] The Spring 2024 Social Innovation Challenge - http://tinyurl.com/5hdp5m3m 1 APRIL
 - [ ] INNOVATE THE FUTURE http://tinyurl.com/ra3du2jp MAR 20
-- [ ] Challenge for Zero Hunger - http://tinyurl.com/34df2ec7
+- [ ] Challenge for Zero Hunger - http://tinyurl.com/34df2ec7 - 30 MAR
 - [ ] IEEE - http://tinyurl.com/pxvfav4f
 - [ ] The Leadership Advancement Programme (LAP) - https://unifog.org/
 - [ ] Youth4Climate - http://tinyurl.com/2p96e2eh  15 MAY
@@ -164,6 +164,11 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] The Deep Learning Indaba - https://deeplearningindaba.com/2024/ MAR 17
 - [ ] Young Champions of the Earth - https://www.unep.org/youngchampions/ 1 APRIL
 - [ ] Team up for climate - https://tinyurl.com/2r89jztk 15 MAR
+- [X] The 2024 Yunus & Youth Global Fellowship -  https://tinyurl.com/43hp65d3 MAR 7
+- [ ] FM STUDENT CHALLENGE 2025 https://pages.ifma.org/wweu24studentchallenge
+- [ ] 2024 CIEE UNHCR Student Challenge -DONE
+- [ ] The Xylem Global Student Innovation Challenge - https://tinyurl.com/9pyhmt7y - MAR 15TH
+- [ ] 
 - [ ] 
   
   
@@ -189,7 +194,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Ashoka - https://www.ashoka.org/
 - [ ] UNFCC - https://unfccc.int/secretariat/employment/recruitment 20 MAR
 - [ ] TRON 6 - https://trons6.devpost.com/ 15 APRIL
-- [ ] 
+- [ ] Green Check Interns https://www.greencheck.earth/solidarity-academy MAR 12
 
 
 ## Tech Events
