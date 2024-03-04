@@ -168,7 +168,27 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] FM STUDENT CHALLENGE 2025 https://pages.ifma.org/wweu24studentchallenge
 - [ ] 2024 CIEE UNHCR Student Challenge -DONE
 - [ ] The Xylem Global Student Innovation Challenge - https://tinyurl.com/9pyhmt7y - MAR 15TH
-- [ ] 
+- [ ] Holcim 1 YOUNG WORLD - https://tinyurl.com/mry3pkn5 3RD APRIL
+- [ ] HEY Ambassador - https://tinyurl.com/4aeswy98 13 MAR
+- [ ] AWID AWARDS - https://opportunitydesk.org/2024/02/29/awid-awards-2024/ MAR 9
+- [ ] Africa Impact Finance Innitiative https://tinyurl.com/tzmf4xnx - APRIL 6
+- [ ] WYA CTP - https://tinyurl.com/5yas5mfh  https://form.jotform.com/240530397031448 6 MAR
+- [ ] The Netherlands and Uganda - https://tinyurl.com/yn8sd5kp 05TH APRIL
+- [ ] LOLA Fellowship - https://tinyurl.com/4wbt9fsn - MAR 15TH 
+- [ ] WHO Internship Programme - https://www.who.int/careers/internship-programme MAR 11
+- [ ] Theirworld’s Global Youth Ambassador - https://theirworld.org/global-youth-ambassador/ MAR 10
+- [ ] Data-Pop Alliance Intern - https://www.globalsouthopportunities.com/2024/03/03/dpa/ MAR 7
+- [ ] AGYLE Young Leaders - https://tinyurl.com/bd42zn44 APRIL 1
+- [ ] LLDC3 Young Storytellers - https://www.un.org/en/landlocked/fellows MAR 7
+- [ ] The Club of Rome Communications Fellowship - https://tinyurl.com/3msf8xnv APRIL 3
+- [ ] CCES - https://tinyurl.com/49rfj7y5 14 MAR
+- [ ] EEP Africa - https://eepafrica.org/financing/2024-call-for-proposals/ 13 MAR
+- [ ] ICYF International - https://tinyurl.com/bdcrsr47 20 MAR
+- [ ] One Young World Audi Environmental - https://tinyurl.com/3yxk6s8z MAR 16
+- [ ] WISE Prize - https://wise-qatar.awardsplatform.com/ 14 MAR
+- [ ] African Leadership Centre WOMEN - https://tinyurl.com/mr9kawaw - 15 APRIL
+- [ ] THE IRIS PRIZE - https://theirisproject.org/ 25 APRIL
+- [ ] MILEAD Fellows Program WOMEN - https://moremiinitiative.org/milead-2024-announcement/ MAR 20
 - [ ] 
   
   
@@ -195,12 +215,26 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] UNFCC - https://unfccc.int/secretariat/employment/recruitment 20 MAR
 - [ ] TRON 6 - https://trons6.devpost.com/ 15 APRIL
 - [ ] Green Check Interns https://www.greencheck.earth/solidarity-academy MAR 12
+- [ ] Global Greengrants Fund - https://www.globalsouthopportunities.com/2024/03/01/greengrants-2/ MAR 9
+- [ ] FAO INTERNS - https://jobs.fao.org/
+- [ ] Land Accelerator - https://tinyurl.com/2hx8m2mn  March 13
+- [ ] Regional hubs for climate change and health https://tinyurl.com/27cey8sn 1 APRIL
+- [ ] UWSE https://uwse.edu.gh/call-for-abstract/ March 20
+- [ ] GCA Global Hub Call - https://tinyurl.com/34x3e2py
+- [ ] African Plant Nutrition Scholar - https://www.apni.net/scholar-apply/ 25th APRIL
+- [ ] Utidia Ambassador - https://tinyurl.com/44jpacs3 23 MAR
+- [ ] INTERN, GLOBAL HEALTH COMMUNICATIONS - https://tinyurl.com/4p9946rx - 06 MAR
+- [ ] UNSS INTERN - https://tinyurl.com/4p59nxkx 17 MAR
+- [ ] Regional Higher Education Insights Manager SSA - https://tinyurl.com/572yt2k6 - 04 MAR
+- [ ] GIST Internship - https://ipa.gist.ac.kr/ipa/html/sub03/030101.html MAR 7
+- [ ] IDEA DEV https://tinyurl.com/2xrb6h2e 7 MAR
+- [ ] Mozida Foundation Scholarship Program
 
 
 ## Tech Events
 - [ ] AWS EMEA re:Invent re:Cap https://emea-reinvent-recap.virtual.awsevents.com/ 24th JAN
 - [ ] CARP Webinar 7: Policy Advocacy for a Climate Resilient Africa https://shorturl.at/EGP09
-- [ ] 
+- [ ] ACEP NextGen Program
 
 ## Reads
 - [ ] https://www.free-ebooks.net/poetry/The-Woman
