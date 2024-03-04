@@ -235,6 +235,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] AWS EMEA re:Invent re:Cap https://emea-reinvent-recap.virtual.awsevents.com/ 24th JAN
 - [ ] CARP Webinar 7: Policy Advocacy for a Climate Resilient Africa https://shorturl.at/EGP09
 - [ ] ACEP NextGen Program
+- [ ] Microsoft Responsible AI training workshop - Kampala, Uganda - https://lu.ma/qb75ezjb 23 MAR
 
 ## Reads
 - [ ] https://www.free-ebooks.net/poetry/The-Woman
