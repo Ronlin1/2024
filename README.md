@@ -124,7 +124,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] iNeuBytes - http://tinyurl.com/uyek6xf2 15 MAR
 - [ ] Emertxe’s Campus Ambassador  - http://tinyurl.com/565apmjs 11 MAR
 - [ ] Only Office 11 MAR
-- [ ] Yellow Card - http://tinyurl.com/bdh6fba6 05 MAR
+- [ ] Yellow Card - http://tinyurl.com/bdh6fba6 11 MAR
 - [ ] XRP https://xrpl.org/ambassadors.html 25 FEB
 - [ ] Nexo - https://nexo.com/ambassadors 05 MAR
 - [ ] Skill Squad https://www.skillsquad.io/campus-ambassador  05 MAR
