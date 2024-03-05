@@ -189,6 +189,8 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] African Leadership Centre WOMEN - https://tinyurl.com/mr9kawaw - 15 APRIL
 - [ ] THE IRIS PRIZE - https://theirisproject.org/ 25 APRIL
 - [ ] MILEAD Fellows Program WOMEN - https://moremiinitiative.org/milead-2024-announcement/ MAR 20
+- [ ] 2024 Venture For ClimateTech Global Innovation Challenge - https://tinyurl.com/dsw2anxt 08 MAR
+- [ ] VR H - http://tinyurl.com/3nu6b3zj MAR 13
 - [ ] 
   
   
@@ -229,6 +231,10 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] GIST Internship - https://ipa.gist.ac.kr/ipa/html/sub03/030101.html MAR 7
 - [ ] IDEA DEV https://tinyurl.com/2xrb6h2e 7 MAR
 - [ ] Mozida Foundation Scholarship Program
+- [ ] Data Collection on Innovations that Engender Meaningful - https://tinyurl.com/3ja9jhf4
+- [ ] IFRC Limitless YouthInnovation Academy Water Prize - https://tinyurl.com/n7bn4dz4
+- [ ] AISEC- https://aiesec.org/search?earliest_start_date=2024-03-05&programmes=8
+- [ ] 
 
 
 ## Tech Events
