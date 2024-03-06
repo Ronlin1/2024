@@ -191,6 +191,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] MILEAD Fellows Program WOMEN - https://moremiinitiative.org/milead-2024-announcement/ MAR 20
 - [ ] 2024 Venture For ClimateTech Global Innovation Challenge - https://tinyurl.com/dsw2anxt 08 MAR
 - [ ] VR H - http://tinyurl.com/3nu6b3zj MAR 13
+- [ ] YOUTH ENERGY SUMMIT - https://tinyurl.com/yc3ed7ve 20 APRIL
 - [ ] 
   
   
@@ -234,7 +235,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Data Collection on Innovations that Engender Meaningful - https://tinyurl.com/3ja9jhf4
 - [ ] IFRC Limitless YouthInnovation Academy Water Prize - https://tinyurl.com/n7bn4dz4
 - [ ] AISEC- https://aiesec.org/search?earliest_start_date=2024-03-05&programmes=8
-- [ ] 
+- [ ] APRI - https://tinyurl.com/2fuppery 14 MAR
 
 
 ## Tech Events
