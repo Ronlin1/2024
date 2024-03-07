@@ -192,6 +192,20 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] 2024 Venture For ClimateTech Global Innovation Challenge - https://tinyurl.com/dsw2anxt 08 MAR
 - [ ] VR H - http://tinyurl.com/3nu6b3zj MAR 13
 - [ ] YOUTH ENERGY SUMMIT - https://tinyurl.com/yc3ed7ve 20 APRIL
+- [ ] EEP Africa 2024 - https://eepafrica.org/financing/2024-call-for-proposals/ 08 MAR
+- [ ] Climate Conf - https://tinyurl.com/5cwzpwfz MAR 11
+- [ ] Global Internship - SOUTH - https://scholarshipscorner.website/global-internship-program-south-korea/ MAR 8
+- [ ] Africa Business Heroes Competition - https://tinyurl.com/mrx2vd9u
+- [ ] IEEE PES & IAS PowerAfrica - https://ieee-powerafrica.org/call-for-papers/ 10TH APR
+- [ ] WTO Young Professionals  https://tinyurl.com/yjnvhu7e 26 MAR
+- [ ] UN Youth Delegate https://tinyurl.com/4md4y9f2 15 MAR
+- [ ] Africa Fellows in Education Program - https://tinyurl.com/2jut99tw 29 MAR
+- [ ] World Food Forum- https://tinyurl.com/4dhhywh2 MAR 20
+- [ ] Halcyon Fellowship - https://halcyon.submittable.com/submit MAR 20
+- [ ] WAYFINDER - https://tinyurl.com/5awdk7j2 APR 10
+- [ ] START Facility  https://www.start.go.ug/welcome 18 MAR
+- [ ] IEEE Volunteer- https://tinyurl.com/2v7vmuz9 MAR 25
+- [ ] INODA BioSec Fellow - https://disarmament.unoda.org/youth4biosec-fellowship-2023/ 2 APR
 - [ ] 
   
   
@@ -236,6 +250,11 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] IFRC Limitless YouthInnovation Academy Water Prize - https://tinyurl.com/n7bn4dz4
 - [ ] AISEC- https://aiesec.org/search?earliest_start_date=2024-03-05&programmes=8
 - [ ] APRI - https://tinyurl.com/2fuppery 14 MAR
+- [ ] Reunification Coordinator https://www.globalsouthopportunities.com/2024/03/04/global-9/ 15 MAR
+- [ ] Program Intern AFRIPOLI - https://tinyurl.com/2fuppery 13 MAR
+- [ ] SENIOR ASSISTANT - CLIMATE FINANCE https://tinyurl.com/yc3v9yyf 21 MAR
+- [ ] MANAGER- CALL CENTER - https://tinyurl.com/vrb2s9yb 17 MAR
+- [ ] 
 
 
 ## Tech Events
