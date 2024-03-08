@@ -184,7 +184,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] CCES - https://tinyurl.com/49rfj7y5 14 MAR
 - [ ] EEP Africa - https://eepafrica.org/financing/2024-call-for-proposals/ 13 MAR
 - [ ] ICYF International - https://tinyurl.com/bdcrsr47 20 MAR
-- [ ] One Young World Audi Environmental - https://tinyurl.com/3yxk6s8z MAR 16
+- [ ] One Young World Audi Environmental - https://tinyurl.com/3yxk6s8z MAR 15
 - [ ] WISE Prize - https://wise-qatar.awardsplatform.com/ 14 MAR
 - [ ] African Leadership Centre WOMEN - https://tinyurl.com/mr9kawaw - 15 APRIL
 - [ ] THE IRIS PRIZE - https://theirisproject.org/ 25 APRIL
@@ -206,6 +206,11 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] START Facility  https://www.start.go.ug/welcome 18 MAR
 - [ ] IEEE Volunteer- https://tinyurl.com/2v7vmuz9 MAR 25
 - [ ] INODA BioSec Fellow - https://disarmament.unoda.org/youth4biosec-fellowship-2023/ 2 APR
+- [ ] 2024 AIG - https://tinyurl.com/yheyy266 17 MAR
+- [ ] IEEE Conference - https://tinyurl.com/5dmnwc2m 20 MAR
+- [ ] MEST - https://tinyurl.com/3jt7vcwm 16 MAR
+- [ ] IEEE Tech4Good - https://htb.ieee.org/funding-opportunities/tech4good/
+- [ ] Data Fellowships - https://tinyurl.com/52wfkvvv
 - [ ] 
   
   
@@ -254,7 +259,9 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Program Intern AFRIPOLI - https://tinyurl.com/2fuppery 13 MAR
 - [ ] SENIOR ASSISTANT - CLIMATE FINANCE https://tinyurl.com/yc3v9yyf 21 MAR
 - [ ] MANAGER- CALL CENTER - https://tinyurl.com/vrb2s9yb 17 MAR
-- [ ] 
+- [ ] Internship with Innovation Team - https://jobs.undp.org/cj_view_job.cfm?cur_job_id=115486 MAR 23
+- [ ] KAUST VSRP Internship - https://tinyurl.com/d7mxv9y9 20 MAR
+- [ ] Cartesi Grants - https://tinyurl.com/34tpcr5z
 
 
 ## Tech Events
