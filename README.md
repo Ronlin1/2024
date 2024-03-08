@@ -182,7 +182,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] LLDC3 Young Storytellers - https://www.un.org/en/landlocked/fellows MAR 7
 - [ ] The Club of Rome Communications Fellowship - https://tinyurl.com/3msf8xnv APRIL 3
 - [ ] CCES - https://tinyurl.com/49rfj7y5 14 MAR
-- [ ] EEP Africa - https://eepafrica.org/financing/2024-call-for-proposals/ 13 MAR
+- [ ] EEP Africa -https://tinyurl.com/mwa77neu https://eepafrica.org/financing/2024-call-for-proposals/ 13 MAR
 - [ ] ICYF International - https://tinyurl.com/bdcrsr47 20 MAR
 - [ ] One Young World Audi Environmental - https://tinyurl.com/3yxk6s8z MAR 15
 - [ ] WISE Prize - https://wise-qatar.awardsplatform.com/ 14 MAR
@@ -192,7 +192,6 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] 2024 Venture For ClimateTech Global Innovation Challenge - https://tinyurl.com/dsw2anxt 08 MAR
 - [ ] VR H - http://tinyurl.com/3nu6b3zj MAR 13
 - [ ] YOUTH ENERGY SUMMIT - https://tinyurl.com/yc3ed7ve 20 APRIL
-- [ ] EEP Africa 2024 - https://eepafrica.org/financing/2024-call-for-proposals/ 08 MAR
 - [ ] Climate Conf - https://tinyurl.com/5cwzpwfz MAR 11
 - [ ] Global Internship - SOUTH - https://scholarshipscorner.website/global-internship-program-south-korea/ MAR 8
 - [ ] Africa Business Heroes Competition - https://tinyurl.com/mrx2vd9u
