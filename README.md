@@ -210,7 +210,10 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] MEST - https://tinyurl.com/3jt7vcwm 16 MAR
 - [ ] IEEE Tech4Good - https://htb.ieee.org/funding-opportunities/tech4good/
 - [ ] Data Fellowships - https://tinyurl.com/52wfkvvv
-- [ ] 
+- [ ] Data Science Africa - https://tinyurl.com/2bfsrxa9 29 MAR
+- [ ] 2024 EAUMP-ICTP School - https://indico.ictp.it/event/10494 29 MAR
+- [ ] CALL 4 CODE IBM - https://developer.ibm.com/callforcode/  JUNE 15
+- [ ] AICV SUMMER https://www.acvss.ai/Attend  MAR 13
   
   
 
