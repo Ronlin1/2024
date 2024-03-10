@@ -106,7 +106,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] I am The Code - http://tinyurl.com/mr3wbvme 18 MAR
 - [ ] Acumen Fellows - https://fellowship.acumenacademy.org/east-africa
 - [ ] IDEX Fellows - https://graymatterscap.com/idex-global-fellowship/
-- [ ] POSTMAN ACADEMY 10MAR - http://tinyurl.com/39fer5rp
+- [ ] POSTMAN ACADEMY - http://tinyurl.com/39fer5rp 10 APR
 - [ ] POSTMAN LEADER - https://www.postman.com/student-program/student-leader/
 - [ ] GITEX PITCH - https://gitexafrica.com/africa-supernova-challenge 5 APRIL
 - [ ] UiPath - https://community.uipath.com/get-involved/start-a-chapter/ 5 MAR
@@ -125,7 +125,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] iNeuBytes - http://tinyurl.com/uyek6xf2 15 MAR
 - [ ] Emertxe’s Campus Ambassador  - http://tinyurl.com/565apmjs 11 MAR
 - [ ] Only Office 11 MAR
-- [ ] Yellow Card - http://tinyurl.com/bdh6fba6 11 MAR
+- [ ] Yellow Card - http://tinyurl.com/bdh6fba6 30 APR
 - [ ] XRP https://xrpl.org/ambassadors.html 25 FEB
 - [ ] Nexo - https://nexo.com/ambassadors 05 MAR
 - [ ] Skill Squad https://www.skillsquad.io/campus-ambassador  05 MAR
