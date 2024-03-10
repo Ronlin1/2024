@@ -160,7 +160,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Youth4Climate - http://tinyurl.com/2p96e2eh  15 MAY
 - [ ] MLSA AI Project - http://tinyurl.com/4evay8ky 03 MAR
 - [ ] TOSHIBA INTERNS - https://careers.commerce.toshiba.com/en/openings/internship
-- [ ] 
+- [ ] WORDPRESS COMPETITION -  https://tinyurl.com/fknrhvbd 23 APRIL
 - [ ] WSA Young Innovators - https://wsa-global.org/wsa_categories/wsa-young-innovators/
 - [ ] The Deep Learning Indaba - https://deeplearningindaba.com/2024/ MAR 17
 - [ ] Young Champions of the Earth - https://www.unep.org/youngchampions/ 1 APRIL
@@ -215,6 +215,8 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] 2024 EAUMP-ICTP School - https://indico.ictp.it/event/10494 29 MAR
 - [ ] CALL 4 CODE IBM - https://developer.ibm.com/callforcode/  JUNE 15
 - [ ] AICV SUMMER https://www.acvss.ai/Attend  MAR 13
+- [ ] HiiL ACCELERATOR - https://tinyurl.com/ys96873b 30 MAR
+- [ ] 
   
   
 
