@@ -6,6 +6,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] UPCOMING - https://mlh.io/seasons/2024/events
 - [ ] UPCOMING - https://devpost.com/hackathons
 - [ ] MCN - APR 15 REMIND PROF TONNY
+- [ ] Student Energy Chapters Program - MAR 20 (MAIL)
 
 - [ ] ---------------
  
