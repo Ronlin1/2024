@@ -8,7 +8,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] MCN - APR 15 REMIND PROF TONNY
 - [ ] Student Energy Chapters Program - MAR 20 (MAIL)
 
-- [ ] ---------------
+- [ ]  ---------------
  
 - [ ] Story3 Hackathon - https://story3.hackerearth.com/ - 27th JAN
 - [ ] UNBS ARSO Essay - 29th FEB
