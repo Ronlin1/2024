@@ -235,7 +235,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] iF SOCIAL IMPACT PRIZE - https://ifdesign.com/en/if-social-impact-prize APR 19
 - [ ] Ubuntu United Nations - https://www.ubuntuunitednations.org/application-form/
 - [ ] AUDACIOUS - https://www.audaciousproject.org/apply  APR 11
-- [ ] 
+- [ ] THE AWESOME FOUNDATION - https://www.awesomefoundation.org/en/projects 
   
   
 
