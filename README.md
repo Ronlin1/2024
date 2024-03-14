@@ -172,7 +172,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] The Xylem Global Student Innovation Challenge - https://tinyurl.com/9pyhmt7y - MAR 15TH
 - [ ] Holcim 1 YOUNG WORLD - https://tinyurl.com/mry3pkn5 3RD APRIL
 - [ ] HEY Ambassador - https://tinyurl.com/4aeswy98 13 MAR
-- [ ] AWID AWARDS - https://opportunitydesk.org/2024/02/29/awid-awards-2024/ MAR 9
+- [ ] AWID AWARDS - https://opportunitydesk.org/2024/02/29/awid-awards-2024/ MAR 25
 - [ ] Africa Impact Finance Innitiative https://tinyurl.com/tzmf4xnx - APRIL 6
 - [ ] WYA CTP - https://tinyurl.com/5yas5mfh  https://form.jotform.com/240530397031448 6 MAR
 - [ ] The Netherlands and Uganda - https://tinyurl.com/yn8sd5kp 05TH APRIL
@@ -217,7 +217,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] CALL 4 CODE IBM - https://developer.ibm.com/callforcode/  JUNE 15
 - [ ] AICV SUMMER https://www.acvss.ai/Attend  MAR 13
 - [ ] HiiL ACCELERATOR - https://tinyurl.com/ys96873b 30 MAR
-- [ ] 
+- [ ] Cartesi Grants Program 
   
   
 
