@@ -7,6 +7,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] UPCOMING - https://devpost.com/hackathons
 - [ ] MCN - APR 15 REMIND PROF TONNY
 - [ ] Student Energy Chapters Program - MAR 20 (MAIL)
+- [ ] ALL SCHOLARSHIPS --- https://scholarships.plus/scholarships/contest/all-locations/
 
 - [ ]  ---------------
  
@@ -196,7 +197,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] YOUTH ENERGY SUMMIT - https://tinyurl.com/yc3ed7ve 20 APRIL
 - [ ] Climate Conf - https://tinyurl.com/5cwzpwfz MAR 11
 - [ ] Global Internship - SOUTH - https://scholarshipscorner.website/global-internship-program-south-korea/ MAR 8
-- [ ] Africa Business Heroes Competition - https://tinyurl.com/mrx2vd9u
+- [ ] Africa Business Heroes Competition - https://tinyurl.com/mrx2vd9u APR 05
 - [ ] IEEE PES & IAS PowerAfrica - https://ieee-powerafrica.org/call-for-papers/ 10TH APR
 - [ ] WTO Young Professionals  https://tinyurl.com/yjnvhu7e 26 MAR
 - [ ] UN Youth Delegate https://tinyurl.com/4md4y9f2 15 MAR
@@ -217,7 +218,24 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] CALL 4 CODE IBM - https://developer.ibm.com/callforcode/  JUNE 15
 - [ ] AICV SUMMER https://www.acvss.ai/Attend  MAR 13
 - [ ] HiiL ACCELERATOR - https://tinyurl.com/ys96873b 30 MAR
-- [ ] Cartesi Grants Program 
+- [ ] Cartesi Grants Program - https://cartesi.io/governance/#get-funding
+- [ ] BIC Africa - https://forms.gle/DYYcqtJie2ig1vE76  MAR 18
+- [ ] I4N - https://i4n.ch/i4n-award/ APR 1
+- [ ] African Liberty Writing Fellowship - https://www.africanliberty.org/2024fellowship/ APR 26
+- [ ] GOAL’s NextGen - https://www.goalglobal.org/nextgen-youth-recruitment-2024/ 30 MAR
+- [ ] ISOC Mid Career Fellowships - https://www.internetsociety.org/fellowships/mid-career/
+- [ ] Sustainable Energy Accelerator - https://tinyurl.com/mts7pcxy 20 APR
+- [ ] One ORG - https://www.one.org/africa/get-involved/join/ 20 MAR
+- [ ] Sui Overflow - https://sui.io/overflow APR 7
+- [ ] European Forum Alpbach - https://www.alpbach.org/scholarship-applications MAR 25
+- [ ] CLINTON GLOBAL INITIATIVE - https://tinyurl.com/mr2w2u75 MAR 14
+- [ ] Edge Matrix Computing - https://edgematrix.pro/#/hackathon MAR 20
+- [ ] ACGEM Youth Essay https://acgemafrica.org/youth-essay-competition/ - JUNE 1
+- [ ] The WISE Prize - https://www.wise-qatar.org/wise-works/wise-prize-for-education/ MAR 14
+- [ ] iF SOCIAL IMPACT PRIZE - https://ifdesign.com/en/if-social-impact-prize APR 19
+- [ ] Ubuntu United Nations - https://www.ubuntuunitednations.org/application-form/
+- [ ] AUDACIOUS - https://www.audaciousproject.org/apply  APR 11
+- [ ] 
   
   
 
@@ -268,6 +286,12 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Internship with Innovation Team - https://jobs.undp.org/cj_view_job.cfm?cur_job_id=115486 MAR 23
 - [ ] KAUST VSRP Internship - https://tinyurl.com/d7mxv9y9 20 MAR
 - [ ] Cartesi Grants - https://tinyurl.com/34tpcr5z
+- [ ] IEEE SOCIAL MEDIA - https://lnkd.in/dX5cXHRQ 30 MAR
+- [ ] ASPOM TRAVEL - https://tinyurl.com/ysny3xvt 30 MAR
+- [ ] Atlantic Fellows  - https://healthequity.atlanticfellows.org/apply/ APR 10
+- [ ] TC Startup Battlefield - https://tinyurl.com/3st4mh2z 1 MAY
+- [ ] GOI Peace ESSAYS - https://www.goipeace.or.jp/en/work/essay-contest/ - JUNE 1
+- [ ] 
 
 
 ## Tech Events
