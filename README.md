@@ -208,7 +208,6 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] START Facility  https://www.start.go.ug/welcome 18 MAR
 - [ ] IEEE Volunteer- https://tinyurl.com/2v7vmuz9 MAR 25
 - [ ] INODA BioSec Fellow - https://disarmament.unoda.org/youth4biosec-fellowship-2023/ 2 APR
-- [ ] 2024 AIG - https://tinyurl.com/yheyy266 17 MAR
 - [ ] IEEE Conference - https://tinyurl.com/5dmnwc2m 20 MAR
 - [ ] MEST - https://tinyurl.com/3jt7vcwm 16 MAR
 - [ ] IEEE Tech4Good - https://htb.ieee.org/funding-opportunities/tech4good/
