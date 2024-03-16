@@ -236,7 +236,8 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] AUDACIOUS - https://www.audaciousproject.org/apply  APR 11
 - [ ] THE AWESOME FOUNDATION - https://www.awesomefoundation.org/en/projects
 - [ ] Data Science Africa ABSTRACTS - https://www.datascienceafrica.org/dsa2024nyeri/blog/Workshop - APR 4
-- [ ] 
+- [ ] Huawei - https://tinyurl.com/yh2x7xyb
+- [ ] youth-led action - https://yeabrics.org/en/expert-groups/
   
   
 
@@ -292,6 +293,13 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Atlantic Fellows  - https://healthequity.atlanticfellows.org/apply/ APR 10
 - [ ] TC Startup Battlefield - https://tinyurl.com/3st4mh2z 1 MAY
 - [ ] GOI Peace ESSAYS - https://www.goipeace.or.jp/en/work/essay-contest/ - JUNE 1
+- [ ] SCIENTIFIC INTERNSHIPS (YEAR-ROUND) - https://tinyurl.com/2zk3etef
+- [ ] YOUTH OPPORTUNITIES - https://studentenergy.org/youth-opportunities/
+- [ ] Student Mini Grants - https://tinyurl.com/5n78vf9r
+- [ ] GENERATIONS:GLOBAL GRANT - https://generationsgrant.github.io/ 28th APR
+- [ ] One YOUNG World Opportunities - https://www.oneyoungworld.com/opportunities
+- [ ] 1YW Ambassador - https://www.oneyoungworld.com/welcome-one-young-world-ambassador-community-1
+- [ ] Student Competitions - https://studentcompetitions.com/
 - [ ] 
 
 
