@@ -8,6 +8,8 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] MCN - APR 15 REMIND PROF TONNY
 - [ ] Student Energy Chapters Program - MAR 20 (MAIL)
 - [ ] ALL SCHOLARSHIPS --- https://scholarships.plus/scholarships/contest/all-locations/
+- [ ] ONE YOUNG WORLD SCHOLARSHIPS - https://www.oneyoungworld.com/scholarships
+- [ ] REMOTE ROLES - https://tinyurl.com/nhbtpm9h
 
 - [ ]  ---------------
  
@@ -74,7 +76,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] RES4Africa Academy
 - [ ] YCJF - Communication Manager - https://forms.gle/cQYq4yuKZFkuABzj7 FEB 14
 - [ ] ECOSOC Youth Forum - https://lnkd.in/dBa8AVX3 FEB 14
-- [ ] Net Zero Scholars - https://www.oneyoungworld.com/scholarships/net-zero/2024 - 1 April
+- [ ] Net Zero Scholars - https://www.oneyoungworld.com/scholarships/net-zero/2024 - MAR 29
 - [ ] OC FELLOWSHIP - https://ocimpact.com/oc-global/ocfellowships/ FEB 12
 - [ ] Australia Awards Scholarship - https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships 15 APRIL
 - [ ] OECD Intern - https://www.oecd.org/careers/internship-programme/
@@ -238,6 +240,26 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Data Science Africa ABSTRACTS - https://www.datascienceafrica.org/dsa2024nyeri/blog/Workshop - APR 4
 - [ ] Huawei - https://tinyurl.com/yh2x7xyb
 - [ ] youth-led action - https://yeabrics.org/en/expert-groups/
+- [ ] Leading Africa Scholarship 2024 - https://tinyurl.com/4hj7u8aa APR 5
+- [ ] Building Tomorrow Scholarship 2024 - https://tinyurl.com/mry3pkn5 APR 5
+- [ ] Young Health Programme Scholarship - https://tinyurl.com/3efh3n97 MAR 20
+- [ ] Pernod Ricard Scholarship 2024 - https://tinyurl.com/5ehksu5f MAR 19
+- [ ] Z Zurich Foundation - https://tinyurl.com/yckfp3kt MAR 19
+- [ ] WTUN Student Competition - https://www.wtu-n.net/student-competition/ APR 9
+- [ ] Give A GRAD A GO - https://tinyurl.com/bdd48eds
+- [ ] STUDENTS COMPETE - https://studentcompetitions.com/
+- [ ] IEEE Students - https://students.ieee.org/student-opportunities/contests-for-students/
+- [ ] IFuture Energy Challenge - https://www.ieee-pels.org/digital-media-education/ifec MAR 25
+- [ ] IAUP UNI - https://www.iaup.org/student-competition/ MAR 29
+- [ ] IMC Challenge - https://www.imc-math.org.uk/  APR 10
+- [ ] Shell Ideas 360 - https://www.shell.com/careers
+- [ ] LACCEI International - https://laccei.org/laccei2024/student/ MAR 23
+- [ ] 1YW - https://www.oneyoungworld.com/welcome-one-young-world-ambassador-community-1
+- [ ] IEEEXtreme - https://tinyurl.com/mux7nzkz MAR 27
+- [ ] INTERNATIONAL COMPETITIONS - https://www.polimi.it/en/the-politecnico/international-competitions MAR 18
+- [ ] International Collegiate Programming Contest - https://icpc.global/ APR 8
+- [ ] 
+- [ ] 
   
   
 
