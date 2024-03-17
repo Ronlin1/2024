@@ -153,7 +153,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] CIOB Global Student Challenge - https://gsc.ciob.org/enter/
 - [ ] Inchainge https://inchainge.com/news-events/flagship/gsc/ MAR 12
 - [ ] FM STUDENT CHALLENGE - https://pages.ifma.org/wweu24studentchallenge
-- [ ] Generation Connect Young Leadership - http://tinyurl.com/2s37c3r5 20 March 2024
+- [ ] Generation Connect Young Leadership - http://tinyurl.com/2s37c3r5 22 March 2024
 - [ ] The Commonwealth Awards  https://www.thecommonwealth.io/awards/#key-objectives
 - [ ] WUR - 2024 Food Systems Innovation Challenge - http://tinyurl.com/3828pysd 05 MAR
 - [ ] The Spring 2024 Social Innovation Challenge - http://tinyurl.com/5hdp5m3m 1 APRIL
@@ -259,8 +259,22 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] INTERNATIONAL COMPETITIONS - https://www.polimi.it/en/the-politecnico/international-competitions MAR 18
 - [ ] International Collegiate Programming Contest - https://icpc.global/ APR 8
 - [ ] Hackspiration'24 - https://hackspiration-24.devfolio.co/overview APR 13
-- [ ] 
-- [ ] 
+- [ ] NGFP Fellowship - https://nextgenforesight.org/fellowship/apply/ MAY 25
+- [ ] YIELD Hub - https://tinyurl.com/44szymhn MAR 24
+- [ ] Mandela Rhodes Scholarship - https://tinyurl.com/26zfj6ba APR 17
+- [ ] Y4C - https://tinyurl.com/2p96e2eh MAY 22
+- [ ] African Impact Challenge - https://tinyurl.com/mry4ft74 APR 13
+- [ ] International Blockchain Olympiad  https://2024.ibcol.org/ APR 25
+- [ ] Student Prize Competition - https://tinyurl.com/47nmjmwk
+- [ ] Student Case Competition - https://www.ifama.org/2024-Student-Case-Competition APR 10
+- [ ] Climate Science Olympiad 2024 - https://climatescience.org/olympiad/cso24 MAR 29
+- [ ] HCII2024 STUDENT DESIGN COMPETITION - https://tinyurl.com/2s3bhf87 28 MAR
+- [ ] NASPAA Simulation Competition https://tinyurl.com/y264ksec OCT 1
+- [ ] ISC 2024 Student Cluster Competition 
+- [ ] ANSI’S STUDENT 2024 PAPER COMPETITION - https://tinyurl.com/4bx94tzf JUNE 1
+- [ ] picoCTF-Africa - https://tinyurl.com/2ack89fe
+- [ ] FITC 2024 ESSAY - https://tinyurl.com/3bj88k2z
+- [ ] MOOT - https://www.chr.up.ac.za/african-moot-registration-2024 25 APR
   
   
 
@@ -323,6 +337,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] One YOUNG World Opportunities - https://www.oneyoungworld.com/opportunities
 - [ ] 1YW Ambassador - https://www.oneyoungworld.com/welcome-one-young-world-ambassador-community-1
 - [ ] Student Competitions - https://studentcompetitions.com/
+- [ ] WTO -Young Professionals - https://tinyurl.com/5b82ntm6 20 NOV
 - [ ] 
 
 
