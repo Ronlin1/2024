@@ -258,6 +258,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] IEEEXtreme - https://tinyurl.com/mux7nzkz MAR 27
 - [ ] INTERNATIONAL COMPETITIONS - https://www.polimi.it/en/the-politecnico/international-competitions MAR 18
 - [ ] International Collegiate Programming Contest - https://icpc.global/ APR 8
+- [ ] Hackspiration'24 - https://hackspiration-24.devfolio.co/overview APR 13
 - [ ] 
 - [ ] 
   
