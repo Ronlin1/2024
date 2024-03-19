@@ -278,7 +278,8 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] GSOC - https://summerofcode.withgoogle.com/ MAR 27
 - [ ] GSOC - DOCS - https://developers.google.com/season-of-docs APR 11
 - [ ] The Nairobi Summer School - https://tinyurl.com/3n7rnr6d MAR 24
-- [ ] 
+- [ ] Mastercard Foundation Fund https://tinyurl.com/523yu42h MAY 16
+- [ ] AirQO - Zindi - https://tinyurl.com/vcrw424w  JUNE 1
 - [ ] 
   
   
