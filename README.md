@@ -275,6 +275,11 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] picoCTF-Africa - https://tinyurl.com/2ack89fe
 - [ ] FITC 2024 ESSAY - https://tinyurl.com/3bj88k2z
 - [ ] MOOT - https://www.chr.up.ac.za/african-moot-registration-2024 25 APR
+- [ ] GSOC - https://summerofcode.withgoogle.com/ MAR 27
+- [ ] GSOC - DOCS - https://developers.google.com/season-of-docs APR 11
+- [ ] The Nairobi Summer School - https://tinyurl.com/3n7rnr6d MAR 24
+- [ ] 
+- [ ] 
   
   
 
