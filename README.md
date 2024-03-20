@@ -280,6 +280,15 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] The Nairobi Summer School - https://tinyurl.com/3n7rnr6d MAR 24
 - [ ] Mastercard Foundation Fund https://tinyurl.com/523yu42h MAY 16
 - [ ] AirQO - Zindi - https://tinyurl.com/vcrw424w  JUNE 1
+- [ ] 2024 UN Civil Society Conference - https://tinyurl.com/36cfnm24 MAR 21
+- [ ] (ODI) Fellowship - https://tinyurl.com/522fk287 APR 28
+- [ ] Youth Sustainable Development Conference 2024 - https://tinyurl.com/8m5y3s59 MAR 30
+- [ ] Escape Climate Change - https://tinyurl.com/7jf9j6sb MAR 29
+- [ ] PyCon Uganda 2024 CFP - https://tinyurl.com/yj6d555y APR 25
+- [ ] African Impact Challenge - https://tinyurl.com/3twjvyse APR 13
+- [ ] IEP Ambassador Program - https://tinyurl.com/bdzatnmb MAR 24
+- [ ] MANDELA Fellowship Resources - https://www.mandelawashingtonfellowship.org/resources/
+- [ ] Canada Africa Innovation Fellowship - https://ewb.applytojobs.ca/caif/22650 MAR 25
 - [ ] 
   
   
@@ -291,7 +300,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Digital Africa Talent 4 Startups - https://talent4startups.digital-africa.co/ - 20th FEB
 - [ ] UN Cyber Sec JOB http://tinyurl.com/ydp66hbv  5MAR
 - [ ] Internships with FES Uganda https://uganda.fes.de/about/internships-with-fes-uganda
-- [ ] MINISTRY OF GENDER, LABOUR AND SOCIAL DEVELOMENT INTERNS - https://mglsd.go.ug/internship/
+- [ ] MINISTRY OF GENDER, LABOUR AND SOCIAL DEVELOPMENT INTERNS - https://mglsd.go.ug/internship/
 - [ ] UBOS - https://www.ubos.org/internship/
 - [ ] UN Careers - https://uncareer.net/country/Uganda/city/Kampala
 - [ ] BOA - https://boauganda.com/service/jobs-and-internships-application/
