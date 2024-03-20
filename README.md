@@ -289,8 +289,9 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] IEP Ambassador Program - https://tinyurl.com/bdzatnmb MAR 24
 - [ ] MANDELA Fellowship Resources - https://www.mandelawashingtonfellowship.org/resources/
 - [ ] Canada Africa Innovation Fellowship - https://ewb.applytojobs.ca/caif/22650 MAR 25
+- [ ] Cadence - https://www.cadence.com/en_US/home/company/careers.html
+- [ ] Responsible and Ethical AI - https://tinyurl.com/ywvmp5e9 MAR 26
 - [ ] 
-  
   
 
 
