@@ -296,6 +296,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Canada Africa Innovation Fellowship - https://ewb.applytojobs.ca/caif/22650 MAR 25
 - [ ] Cadence - https://www.cadence.com/en_US/home/company/careers.html
 - [ ] Responsible and Ethical AI - https://tinyurl.com/ywvmp5e9 MAR 26
+- [ ] Pangea Securathon Showdown - https://tinyurl.com/3t6cjj5s APR 23
 - [ ] 
   
 
