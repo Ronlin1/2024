@@ -13,9 +13,6 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] 📌AI will mean more programmers, not fewer - https://tinyurl.com/tba8y94j
 - [ ] Sleep Cycle - https://tinyurl.com/mp4n36w2
 - [ ] 
-
-
-
 - [ ]  ---------------
  
 - [ ] Story3 Hackathon - https://story3.hackerearth.com/ - 27th JAN
