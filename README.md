@@ -12,7 +12,8 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] REMOTE ROLES - https://tinyurl.com/nhbtpm9h
 - [ ] 📌AI will mean more programmers, not fewer - https://tinyurl.com/tba8y94j
 - [ ] Sleep Cycle - https://tinyurl.com/mp4n36w2
-- [ ] 
+- [ ] https://github.com/SummerOfBitcoin/code-challenge-2024-Ronlin1 APR 20
+- [ ] SOBTC PROPOSAL - 30 MAR
 - [ ]  ---------------
  
 - [ ] Story3 Hackathon - https://story3.hackerearth.com/ - 27th JAN
