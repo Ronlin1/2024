@@ -300,7 +300,8 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Red Cross Red Crescent AI Awards - https://tinyurl.com/4fu9yptf - 11 APR
 - [ ] AIM Research - https://tinyurl.com/yuu6umy2 - 09 APR
 - [ ] Notion Campus Leader - https://tinyurl.com/2s6ch787 15 APR
-- [ ] 
+- [ ] Young African Researchers - https://tinyurl.com/36xyxf7s APR 3
+- [ ]     
   
 
 
