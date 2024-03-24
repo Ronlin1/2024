@@ -14,6 +14,8 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Sleep Cycle - https://tinyurl.com/mp4n36w2
 - [ ] https://github.com/SummerOfBitcoin/code-challenge-2024-Ronlin1 APR 20
 - [ ] SOBTC PROPOSAL - 30 MAR
+- [ ] https://foundershub.startups.microsoft.com/ 5 APR
+- [ ] 
 - [ ]  ---------------
  
 - [ ] Story3 Hackathon - https://story3.hackerearth.com/ - 27th JAN
@@ -295,6 +297,9 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Cadence - https://www.cadence.com/en_US/home/company/careers.html
 - [ ] Responsible and Ethical AI - https://tinyurl.com/ywvmp5e9 MAR 26
 - [ ] Pangea Securathon Showdown - https://tinyurl.com/3t6cjj5s APR 23
+- [ ] Red Cross Red Crescent AI Awards - https://tinyurl.com/4fu9yptf - 11 APR
+- [ ] AIM Research - https://tinyurl.com/yuu6umy2 - 09 APR
+- [ ] Notion Campus Leader - https://tinyurl.com/2s6ch787 15 APR
 - [ ] 
   
 
