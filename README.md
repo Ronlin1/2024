@@ -16,7 +16,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] SOBTC PROPOSAL - 30 MAR
 - [ ] https://foundershub.startups.microsoft.com/ 5 APR
 - [ ] 
-- [ ]  ---------------
+- [ ]  ----------------
  
 - [ ] Story3 Hackathon - https://story3.hackerearth.com/ - 27th JAN
 - [ ] UNBS ARSO Essay - 29th FEB
