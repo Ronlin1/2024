@@ -15,8 +15,9 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] https://github.com/SummerOfBitcoin/code-challenge-2024-Ronlin1 APR 20
 - [ ] SOBTC PROPOSAL - 30 MAR
 - [ ] https://foundershub.startups.microsoft.com/ 5 APR
-- [ ] 
+- [ ] READ - https://tinyurl.com/mwy94zu4 MTN
 - [ ]  ----------------
+- [ ]  Chatham House Mo Ibrahim Foundation Academy Fellowship 2025
  
 - [ ] Story3 Hackathon - https://story3.hackerearth.com/ - 27th JAN
 - [ ] UNBS ARSO Essay - 29th FEB
@@ -280,7 +281,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] picoCTF-Africa - https://tinyurl.com/2ack89fe
 - [ ] FITC 2024 ESSAY - https://tinyurl.com/3bj88k2z
 - [ ] MOOT - https://www.chr.up.ac.za/african-moot-registration-2024 25 APR
-- [ ] GSOC - https://summerofcode.withgoogle.com/ MAR 27
+- [ ] GSOC - https://summerofcode.withgoogle.com/ MAR 30
 - [ ] GSOC - DOCS - https://developers.google.com/season-of-docs APR 11
 - [ ] The Nairobi Summer School - https://tinyurl.com/3n7rnr6d MAR 24
 - [ ] Mastercard Foundation Fund https://tinyurl.com/523yu42h MAY 16
@@ -301,7 +302,14 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] AIM Research - https://tinyurl.com/yuu6umy2 - 09 APR
 - [ ] Notion Campus Leader - https://tinyurl.com/2s6ch787 15 APR
 - [ ] Young African Researchers - https://tinyurl.com/36xyxf7s APR 3
-- [ ]     
+- [ ] CAMTech Uganda Robotics - https://tinyurl.com/mr3vzm32 30 APR
+- [ ] Earth AI Mbarara - https://tinyurl.com/bdcstpwm APR 09
+- [ ] Women in Agriculture Impact Investment - https://tinyurl.com/yppt76j8
+- [ ] Bali Youth Representatives - https://tinyurl.com/ecrayass MAR 30
+- [ ] Action for Climate Empowerment - https://tinyurl.com/3urb2j7y MAR 30
+- [ ] AgriSolar Product Accelerator - https://tinyurl.com/26hf23m4 MAR 31
+- [ ] CCAC - https://tinyurl.com/4z37h84y APR 27
+- [ ] 
   
 
 
@@ -364,6 +372,8 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] 1YW Ambassador - https://www.oneyoungworld.com/welcome-one-young-world-ambassador-community-1
 - [ ] Student Competitions - https://studentcompetitions.com/
 - [ ] WTO -Young Professionals - https://tinyurl.com/5b82ntm6 20 NOV
+- [ ] Software Engineer airqo - https://tinyurl.com/yc47j5n4 31 MAR
+- [ ] AirQo African Air Quality Prediction Challenge Webinar - https://lu.ma/rsl9lxnf 04 APRIL @ 8PM
 - [ ] 
 
 
