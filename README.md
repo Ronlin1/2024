@@ -313,6 +313,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Majipreneurs Hackathon - https://majipreneurs.creation.camp/hackathon/ MAR 30
 - [ ] Celo Africa DAO Incubator - https://tinyurl.com/2x48mccb 7 APR
 - [ ] Build for MiniPay - https://lu.ma/uzd8guqq 2 APR 7PM-9PM
+- [ ] Data Science Africa - https://www.datascienceafrica.org/dsa2024nyeri/blog/summer-school MAR 30
 - [ ] 
   
 
