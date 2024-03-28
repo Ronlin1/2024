@@ -309,6 +309,10 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Action for Climate Empowerment - https://tinyurl.com/3urb2j7y MAR 30
 - [ ] AgriSolar Product Accelerator - https://tinyurl.com/26hf23m4 MAR 31
 - [ ] CCAC - https://tinyurl.com/4z37h84y APR 27
+- [ ] Makerere AI Lab Hackathon - https://makailabhack24.web.app/#register 10 APR
+- [ ] Majipreneurs Hackathon - https://majipreneurs.creation.camp/hackathon/ MAR 30
+- [ ] Celo Africa DAO Incubator - https://tinyurl.com/2x48mccb 7 APR
+- [ ] Build for MiniPay - https://lu.ma/uzd8guqq 2 APR 7PM-9PM
 - [ ] 
   
 
