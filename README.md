@@ -308,7 +308,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Bali Youth Representatives - https://tinyurl.com/ecrayass MAR 30
 - [ ] Action for Climate Empowerment - https://tinyurl.com/3urb2j7y MAR 30
 - [ ] AgriSolar Product Accelerator - https://tinyurl.com/26hf23m4 MAR 31
-- [ ] CCAC - https://tinyurl.com/4z37h84y APR 27
+- [ ] CCAC - https://tinyurl.com/4z37h84y APR 23
 - [ ] Makerere AI Lab Hackathon - https://makailabhack24.web.app/#register 10 APR
 - [ ] Majipreneurs Hackathon - https://majipreneurs.creation.camp/hackathon/ MAR 30
 - [ ] Celo Africa DAO Incubator - https://tinyurl.com/2x48mccb 7 APR
@@ -317,7 +317,10 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Africa Regional Social VC - https://tinyurl.com/b23nyaep APR 07
 - [ ] Forbes Under 30 Summit Africa - https://tinyurl.com/3skkhh5a APR 15
 - [ ] AU Digital and Innovation Fellowship - https://auinnovationfellowship.com/ APR 20
-- [ ] 
+- [ ] Business incubation CMU - https://tinyurl.com/3tk9axmt APR 12
+- [ ] The Borlaug Field Award  - https://tinyurl.com/9tcttteb MAY 30
+- [ ] i4c - https://www.innovate4climate.com/programs MAY 1
+- [ ] UICT AgriTech Hackathon 2024 - https://tinyurl.com/bxzc4apn APR 4
   
 
 
@@ -382,7 +385,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] WTO -Young Professionals - https://tinyurl.com/5b82ntm6 20 NOV
 - [ ] Software Engineer airqo - https://tinyurl.com/yc47j5n4 31 MAR
 - [ ] AirQo African Air Quality Prediction Challenge Webinar - https://lu.ma/rsl9lxnf 04 APRIL @ 8PM
-- [ ] 
+- [ ] NSSF INTERNSHIP APPLICATION - https://tinyurl.com/3rwxf5f7 APR 8
 
 
 ## Tech Events
