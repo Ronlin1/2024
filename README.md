@@ -314,6 +314,9 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Celo Africa DAO Incubator - https://tinyurl.com/2x48mccb 7 APR
 - [ ] Build for MiniPay - https://lu.ma/uzd8guqq 2 APR 7PM-9PM
 - [ ] Data Science Africa - https://www.datascienceafrica.org/dsa2024nyeri/blog/summer-school MAR 30
+- [ ] Africa Regional Social VC - https://tinyurl.com/b23nyaep APR 07
+- [ ] Forbes Under 30 Summit Africa - https://tinyurl.com/3skkhh5a APR 15
+- [ ] AU Digital and Innovation Fellowship - https://auinnovationfellowship.com/ APR 20
 - [ ] 
   
 
