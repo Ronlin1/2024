@@ -321,6 +321,15 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] The Borlaug Field Award  - https://tinyurl.com/9tcttteb MAY 30
 - [ ] i4c - https://www.innovate4climate.com/programs MAY 1
 - [ ] UICT AgriTech Hackathon 2024 - https://tinyurl.com/bxzc4apn APR 4
+- [ ] 776 Fellow - https://776.org/ 20 APR
+- [ ] DLI workshop proposals - https://tinyurl.com/z83a9n8p APR 23
+- [ ] Autodesk DevCon - https://tinyurl.com/2jc979m2 APR 26
+- [ ] Climate Champions Youth Fellowship - https://tinyurl.com/bd8cfyr2 APR 8
+- [ ] SES 2025: Bid - https://tinyurl.com/ms2pe2jm  MAY 2
+- [ ] Local Conference of Youth - Climate - APR 21 - https://tinyurl.com/38c4bjtx
+- [ ] MENA Scholars Fellowship - https://tinyurl.com/4j4emr87 APR 27
+- [ ] 
+- [ ] 
   
 
 
@@ -386,6 +395,10 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Software Engineer airqo - https://tinyurl.com/yc47j5n4 31 MAR
 - [ ] AirQo African Air Quality Prediction Challenge Webinar - https://lu.ma/rsl9lxnf 04 APRIL @ 8PM
 - [ ] NSSF INTERNSHIP APPLICATION - https://tinyurl.com/3rwxf5f7 APR 8
+- [ ] GIS Intern - https://tinyurl.com/4fj2ty6x APR 1
+- [ ] UNDP Interns - https://tinyurl.com/nhh8dy94 APR 29
+- [ ] Mentor-Intern Program - https://tinyurl.com/yf3w63tx 07 APR
+- [ ] 
 
 
 ## Tech Events
