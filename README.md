@@ -328,6 +328,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] SES 2025: Bid - https://tinyurl.com/ms2pe2jm  MAY 2
 - [ ] Local Conference of Youth - Climate - APR 21 - https://tinyurl.com/38c4bjtx
 - [ ] MENA Scholars Fellowship - https://tinyurl.com/4j4emr87 APR 27
+- [ ] BeChangeMaker - https://tinyurl.com/msmn7n6x MAY 18
 - [ ] 
 - [ ] 
   
