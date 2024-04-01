@@ -335,7 +335,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Google AI Hackathon - https://googleai.devpost.com/ APR 29
 - [ ] Africa SDGs Mentorship - https://tinyurl.com/5durr5tc APR 28
 - [ ] Einstein Fellowship - https://tinyurl.com/4merup88 MAY 27
-- [ ] 
+- [ ] IAUP -https://www.iaup.org/iaup-student-competition-project-upload/ APR 20
 - [ ] 
   
 
