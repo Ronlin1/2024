@@ -334,6 +334,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] BeChangeMaker - https://tinyurl.com/msmn7n6x MAY 18
 - [ ] Google AI Hackathon - https://googleai.devpost.com/ APR 29
 - [ ] Africa SDGs Mentorship - https://tinyurl.com/5durr5tc APR 28
+- [ ] Einstein Fellowship - https://tinyurl.com/4merup88 MAY 27
 - [ ] 
 - [ ] 
   
