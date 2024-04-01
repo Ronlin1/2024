@@ -18,6 +18,9 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] READ - https://tinyurl.com/mwy94zu4 MTN
 - [ ]  ----------------
 - [ ]  Chatham House Mo Ibrahim Foundation Academy Fellowship 2025
+- [ ]  Generative AI to quantify uncertainty in weather - https://tinyurl.com/yckx3khh
+- [ ]  Using AI to expand global access to reliable flood forecasts - https://tinyurl.com/bdzck94b
+- [ ]  
  
 - [ ] Story3 Hackathon - https://story3.hackerearth.com/ - 27th JAN
 - [ ] UNBS ARSO Essay - 29th FEB
@@ -329,6 +332,8 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Local Conference of Youth - Climate - APR 21 - https://tinyurl.com/38c4bjtx
 - [ ] MENA Scholars Fellowship - https://tinyurl.com/4j4emr87 APR 27
 - [ ] BeChangeMaker - https://tinyurl.com/msmn7n6x MAY 18
+- [ ] Google AI Hackathon - https://googleai.devpost.com/ APR 29
+- [ ] Africa SDGs Mentorship - https://tinyurl.com/5durr5tc APR 28
 - [ ] 
 - [ ] 
   
@@ -399,6 +404,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] GIS Intern - https://tinyurl.com/4fj2ty6x APR 1
 - [ ] UNDP Interns - https://tinyurl.com/nhh8dy94 APR 29
 - [ ] Mentor-Intern Program - https://tinyurl.com/yf3w63tx 07 APR
+- [ ] Data Engineering Intern - https://tinyurl.com/bdf6ffwb 10 APR
 - [ ] 
 
 
