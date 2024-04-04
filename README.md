@@ -406,6 +406,11 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] UNDP Interns - https://tinyurl.com/nhh8dy94 APR 29
 - [ ] Mentor-Intern Program - https://tinyurl.com/yf3w63tx 07 APR
 - [ ] Data Engineering Intern - https://tinyurl.com/bdf6ffwb 10 APR
+- [ ] Intellectsoft Internship 2024 - https://tinyurl.com/yzyuyhv4 APR 20
+- [ ] Visa Everywhere - https://tinyurl.com/yspusa59 MAY 1
+- [ ] Emerging Leaders - https://tinyurl.com/4rdv3dj2 APR 15
+- [ ] The Minor Foundation - https://tinyurl.com/25nknzf8 MAY 05
+- [ ] IEEE Computer Society - https://tinyurl.com/5n6b8djf APR 11
 - [ ] 
 
 
