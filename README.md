@@ -20,6 +20,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ]  Chatham House Mo Ibrahim Foundation Academy Fellowship 2025
 - [ ]  Generative AI to quantify uncertainty in weather - https://tinyurl.com/yckx3khh
 - [ ]  Using AI to expand global access to reliable flood forecasts - https://tinyurl.com/bdzck94b
+- [ ]  Agtec Accelerator - https://tinyurl.com/2vh9j23z MAY 27
 - [ ]  
  
 - [ ] Story3 Hackathon - https://story3.hackerearth.com/ - 27th JAN
@@ -337,7 +338,9 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Einstein Fellowship - https://tinyurl.com/4merup88 MAY 27
 - [ ] IAUP -https://www.iaup.org/iaup-student-competition-project-upload/ APR 20
 - [ ] Notion Campus Leader - https://tinyurl.com/2epfy7dz MAY 15
-- [ ] 
+- [ ] Africa's Business Heroes - https://africabusinessheroes.org/en/ MAY 04
+- [ ] AFRICAN IMPACT CHALLENGE - https://tinyurl.com/mrp2aawm APR 12
+- [ ] SDG Pioneers  - https://tinyurl.com/32ncyync AP3 13
   
 
 
