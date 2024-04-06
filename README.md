@@ -341,6 +341,8 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Africa's Business Heroes - https://africabusinessheroes.org/en/ MAY 04
 - [ ] AFRICAN IMPACT CHALLENGE - https://tinyurl.com/mrp2aawm APR 12
 - [ ] SDG Pioneers  - https://tinyurl.com/32ncyync AP3 13
+- [ ] Faces of Africa Social Media Campaign - https://tinyurl.com/3k4rpudv APR 11
+- [ ] 
   
 
 
