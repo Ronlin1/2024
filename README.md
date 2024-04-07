@@ -237,7 +237,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] ISOC Mid Career Fellowships - https://www.internetsociety.org/fellowships/mid-career/
 - [ ] Sustainable Energy Accelerator - https://tinyurl.com/mts7pcxy 20 APR
 - [ ] One ORG - https://www.one.org/africa/get-involved/join/ 20 MAR
-- [ ] Sui Overflow - https://sui.io/overflow APR 7
+- [ ] Sui Overflow - https://sui.io/overflow APR 18
 - [ ] European Forum Alpbach - https://www.alpbach.org/scholarship-applications MAR 25
 - [ ] CLINTON GLOBAL INITIATIVE - https://tinyurl.com/mr2w2u75 MAR 14
 - [ ] Edge Matrix Computing - https://edgematrix.pro/#/hackathon MAR 20
