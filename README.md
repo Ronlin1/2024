@@ -340,8 +340,13 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Notion Campus Leader - https://tinyurl.com/2epfy7dz MAY 15
 - [ ] Africa's Business Heroes - https://africabusinessheroes.org/en/ MAY 04
 - [ ] AFRICAN IMPACT CHALLENGE - https://tinyurl.com/mrp2aawm APR 12
-- [ ] SDG Pioneers  - https://tinyurl.com/32ncyync AP3 13
+- [ ] SDG Pioneers  - https://tinyurl.com/32ncyync AP3 18
 - [ ] Faces of Africa Social Media Campaign - https://tinyurl.com/3k4rpudv APR 11
+- [ ] Africa AI-IOT - https://tinyurl.com/58swhvhw APR 15
+- [ ] HudsonAlpha Agtech - https://tinyurl.com/cfcd8e8t JUNE 10
+- [ ] O'Shaughnessy Fellowships - https://tinyurl.com/66pm5uwr APR 23
+- [ ] Utidia Community Onboarding Form - https://tinyurl.com/y8ja5e3v APR 27
+- [ ] REM SCHOLAR - https://tinyurl.com/mrypmwj5 AUG 15
 - [ ] 
   
 
@@ -417,6 +422,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Emerging Leaders - https://tinyurl.com/4rdv3dj2 APR 15
 - [ ] The Minor Foundation - https://tinyurl.com/25nknzf8 MAY 05
 - [ ] IEEE Computer Society - https://tinyurl.com/5n6b8djf APR 11
+- [ ] Community Mgr Melton - https://tinyurl.com/2ynsrr6s APR 19
 - [ ] 
 
 
