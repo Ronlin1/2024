@@ -423,6 +423,10 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] The Minor Foundation - https://tinyurl.com/25nknzf8 MAY 05
 - [ ] IEEE Computer Society - https://tinyurl.com/5n6b8djf APR 11
 - [ ] Community Mgr Melton - https://tinyurl.com/2ynsrr6s APR 19
+- [ ] Turkiye Summer Research - https://tinyurl.com/57kzyht7 APR 19
+- [ ] Visit Korea - https://koreainvitesu.com/en/ APR 14
+- [ ] 2024 School CLIMATE - https://caterschools.net/2024-school APR 15
+- [ ] GoGettaz AGRIC - https://tinyurl.com/4uy5hw63 MAY 31
 - [ ] 
 
 
@@ -447,6 +451,10 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ]  Commonwealth Distance Learning Scholarship
 - [ ]  Yale Young Global Scholars Fellowship  https://apply.globalscholars.yale.edu/
 - [ ]  GDSC LEAD - https://developers.google.com/community/gdsc/leads  25 MAR
+- [ ]  TFF AMBASSADOR - https://tinyurl.com/4fxakmw2 2025 JAN 01
+- [ ]  Mandela Washington Fellowship - https://www.mandelawashingtonfellowship.org/apply/ AUG 09
+- [ ]  World Engineering Day Hackathon 2025
+- [ ]  
 
 ## Reading
 - [ ] State of Mobile 2024 report - https://shorturl.at/JS239
