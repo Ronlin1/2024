@@ -347,6 +347,10 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] O'Shaughnessy Fellowships - https://tinyurl.com/66pm5uwr APR 23
 - [ ] Utidia Community Onboarding Form - https://tinyurl.com/y8ja5e3v APR 27
 - [ ] REM SCHOLAR - https://tinyurl.com/mrypmwj5 AUG 15
+- [ ] Humanitarian Student Ambassadors - https://tinyurl.com/3xvdrmk6 APR 21
+- [ ] Canvassador - https://tinyurl.com/3emmhza8 MAY 10
+- [ ] SAS CTF 2024 - https://ctf.thesascon.com/ JUNE 1
+- [ ] IEEE Content Editors - https://tinyurl.com/27by2ajt APR 16
 - [ ] 
   
 
@@ -427,7 +431,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Visit Korea - https://koreainvitesu.com/en/ APR 14
 - [ ] 2024 School CLIMATE - https://caterschools.net/2024-school APR 15
 - [ ] GoGettaz AGRIC - https://tinyurl.com/4uy5hw63 MAY 31
-- [ ] 
+- [ ] Matsumae International Foundation Fellowship 
 
 
 ## Tech Events
@@ -435,6 +439,8 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] CARP Webinar 7: Policy Advocacy for a Climate Resilient Africa https://shorturl.at/EGP09
 - [ ] ACEP NextGen Program
 - [ ] Microsoft Responsible AI training workshop - Kampala, Uganda - https://lu.ma/qb75ezjb 23 MAR
+- [ ] ITCON https://tinyurl.com/3v4u8kp7 MAY 3
+- [ ] 
 
 ## Reads
 - [ ] https://www.free-ebooks.net/poetry/The-Woman
