@@ -351,6 +351,8 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Canvassador - https://tinyurl.com/3emmhza8 MAY 10
 - [ ] SAS CTF 2024 - https://ctf.thesascon.com/ JUNE 1
 - [ ] IEEE Content Editors - https://tinyurl.com/27by2ajt APR 16
+- [ ] GLOBAL STARTUP AWARDS AFRICA - https://tinyurl.com/mtkhmf6x MAY
+- [ ] IEEE Business IDEA Pitch - https://tinyurl.com/2m7cpw9a APR 15
 - [ ] 
   
 
@@ -440,6 +442,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] ACEP NextGen Program
 - [ ] Microsoft Responsible AI training workshop - Kampala, Uganda - https://lu.ma/qb75ezjb 23 MAR
 - [ ] ITCON https://tinyurl.com/3v4u8kp7 MAY 3
+- [ ] The East Africa Society Summit 2024 - https://tinyurl.com/5cbpbzps MAY 30
 - [ ] 
 
 ## Reads
@@ -460,6 +463,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ]  TFF AMBASSADOR - https://tinyurl.com/4fxakmw2 2025 JAN 01
 - [ ]  Mandela Washington Fellowship - https://www.mandelawashingtonfellowship.org/apply/ AUG 09
 - [ ]  World Engineering Day Hackathon 2025
+- [ ]  CyberTalents Ambassadors - https://cybertalents.com/ambassadors APR 17
 - [ ]  
 
 ## Reading
