@@ -353,6 +353,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] IEEE Content Editors - https://tinyurl.com/27by2ajt APR 16
 - [ ] GLOBAL STARTUP AWARDS AFRICA - https://tinyurl.com/mtkhmf6x MAY
 - [ ] IEEE Business IDEA Pitch - https://tinyurl.com/2m7cpw9a APR 15
+- [ ] The African Union Civic Tech Fund  - https://civictech.africa/auctf-2-2/ MAY 1
 - [ ] 
   
 
