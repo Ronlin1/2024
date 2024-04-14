@@ -354,6 +354,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] GLOBAL STARTUP AWARDS AFRICA - https://tinyurl.com/mtkhmf6x MAY
 - [ ] IEEE Business IDEA Pitch - https://tinyurl.com/2m7cpw9a APR 15
 - [ ] The African Union Civic Tech Fund  - https://civictech.africa/auctf-2-2/ MAY 1
+- [ ] Africa-Europe Foundation Awards - https://tinyurl.com/5faypatn MAY 12
 - [ ] 
   
 
@@ -444,6 +445,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Microsoft Responsible AI training workshop - Kampala, Uganda - https://lu.ma/qb75ezjb 23 MAR
 - [ ] ITCON https://tinyurl.com/3v4u8kp7 MAY 3
 - [ ] The East Africa Society Summit 2024 - https://tinyurl.com/5cbpbzps MAY 30
+- [ ] Global Symposium for Regulators 2024 - https://www.itu.int/itu-d/meetings/gsr-24/ JUNE 10
 - [ ] 
 
 ## Reads
