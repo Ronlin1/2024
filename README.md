@@ -435,7 +435,23 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Visit Korea - https://koreainvitesu.com/en/ APR 14
 - [ ] 2024 School CLIMATE - https://caterschools.net/2024-school APR 15
 - [ ] GoGettaz AGRIC - https://tinyurl.com/4uy5hw63 MAY 31
-- [ ] Matsumae International Foundation Fellowship 
+- [ ] Matsumae International Foundation Fellowship
+- [ ] GLOBAL STARTUP AWARDS  - https://tinyurl.com/2fauc8fx 1 MAY
+- [ ] AfriLabs, Intel PROPOSALS - https://tinyurl.com/muhw3ddm MAY 30
+- [ ] CIVIC TECH - https://civictech.africa/auctf-2-2/ MAY 2
+- [ ] Sunbird AI Fellows - https://tinyurl.com/3utv72at APR 26
+- [ ] Brighter Living Scholarship 2024 - https://tinyurl.com/2wuhcwah APR 21
+- [ ] Mastercard Foundation Fund - https://www.frp.org/ MAY 05
+- [ ] Freelancers Boot Camp https://tinyurl.com/4z9sb33n MAY 10
+- [ ] PEP Research Fellowship - https://tinyurl.com/mv859nc3 JUNE 3
+- [ ] All In Africa - https://allinopensource.org/access/africa/ APR 20
+- [ ] IPA Uganda - https://tinyurl.com/2k8wkk8b APR 21
+- [ ] JAPANESE ORD - https://tinyurl.com/2bkr88kr MAY 19
+- [ ] The Pollination Project https://thepollinationproject.org/ MAY 31
+- [ ] KPMG Private Tech Innovator - https://tinyurl.com/4ryt55xy JUNE 20
+- [ ] Intel PROPOSAL - https://intel.az1.qualtrics.com/jfe/form/SV_bwL2peBT7vzYZam
+- [ ] FPNN - https://tinyurl.com/2uum5mjd MAY 1
+- [ ] 
 
 
 ## Tech Events
