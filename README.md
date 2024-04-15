@@ -355,7 +355,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] IEEE Business IDEA Pitch - https://tinyurl.com/2m7cpw9a APR 15
 - [ ] The African Union Civic Tech Fund  - https://civictech.africa/auctf-2-2/ MAY 1
 - [ ] Africa-Europe Foundation Awards - https://tinyurl.com/5faypatn MAY 12
-- [ ] 
+- [ ] Emerging Leaders - https://tinyurl.com/4v6273dr MAY 25
   
 
 
