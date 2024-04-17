@@ -455,6 +455,8 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] KPMG Private Tech Innovator - https://tinyurl.com/4ryt55xy JUNE 20
 - [ ] Intel PROPOSAL - https://intel.az1.qualtrics.com/jfe/form/SV_bwL2peBT7vzYZam
 - [ ] FPNN - https://tinyurl.com/2uum5mjd MAY 1
+- [ ] Digital Accelerator Program - https://smegrowthlabafrica.com/apply/ APR 21
+- [ ] Humphrey Fellows https://www.humphreyfellowship.org/
 - [ ] 
 
 
@@ -467,6 +469,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] The East Africa Society Summit 2024 - https://tinyurl.com/5cbpbzps MAY 30
 - [ ] Global Symposium for Regulators 2024 - https://www.itu.int/itu-d/meetings/gsr-24/ JUNE 10
 - [ ] Environmental Crimes workshop https://envcrimes2024.esa.int/ APR 20
+- [ ] ZINDI - https://zindi.africa/competitions/adbot-ad-engagement-forecasting-challenge 15 MAY
 - [ ] 
 
 ## Reads
