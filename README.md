@@ -1,4 +1,4 @@
-# 2024.....
+![image](https://github.com/Ronlin1/2024/assets/66623378/730351af-0709-419b-a6ed-c4e56e5fc719)# 2024.....
 My Opportunities, Hackathons, Tech Events Tracker Repo
 
 ## Hackathons & Competitions
@@ -356,6 +356,10 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] The African Union Civic Tech Fund  - https://civictech.africa/auctf-2-2/ MAY 1
 - [ ] Africa-Europe Foundation Awards - https://tinyurl.com/5faypatn MAY 12
 - [ ] Emerging Leaders - https://tinyurl.com/4v6273dr MAY 25
+- [ ] Young Climate Innovators - https://tinyurl.com/y4fzbpss https://tinyurl.com/wpv7saxy APR 23
+- [ ] IBM Sustainability Accelerator - https://tinyurl.com/6c5tzmz8 APR 28
+- [ ] Imagine 2200 - https://tinyurl.com/4nkjv7f7 JUNE 19
+- [ ] 
   
 
 
@@ -462,6 +466,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] ITCON https://tinyurl.com/3v4u8kp7 MAY 3
 - [ ] The East Africa Society Summit 2024 - https://tinyurl.com/5cbpbzps MAY 30
 - [ ] Global Symposium for Regulators 2024 - https://www.itu.int/itu-d/meetings/gsr-24/ JUNE 10
+- [ ] Environmental Crimes workshop https://envcrimes2024.esa.int/ APR 20
 - [ ] 
 
 ## Reads
