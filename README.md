@@ -1,4 +1,4 @@
-![image](https://github.com/Ronlin1/2024/assets/66623378/730351af-0709-419b-a6ed-c4e56e5fc719)# 2024.....
+# 2024.....
 My Opportunities, Hackathons, Tech Events Tracker Repo
 
 ## Hackathons & Competitions
@@ -359,6 +359,10 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Young Climate Innovators - https://tinyurl.com/y4fzbpss https://tinyurl.com/wpv7saxy APR 23
 - [ ] IBM Sustainability Accelerator - https://tinyurl.com/6c5tzmz8 APR 28
 - [ ] Imagine 2200 - https://tinyurl.com/4nkjv7f7 JUNE 19
+- [ ] Intel Community Reach Program - https://tinyurl.com/intelCRP JUNE 2
+- [ ] STARTUP ACADEMY https://startup-academy.trmnl4.com/#Program APR 26
+- [ ] UNFCCC - https://agnesafrica.org/training-portal/ APR 28
+- [ ] (MMC) Short Essay Competition  - https://tinyurl.com/3z5mc5df MAY 1
 - [ ] 
   
 
