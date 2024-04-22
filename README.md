@@ -363,6 +363,13 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] STARTUP ACADEMY https://startup-academy.trmnl4.com/#Program APR 26
 - [ ] UNFCCC - https://agnesafrica.org/training-portal/ APR 28
 - [ ] (MMC) Short Essay Competition  - https://tinyurl.com/3z5mc5df MAY 1
+- [ ] Mozilla Senior Fellows https://mozilla.fluxx.io/apply/SeniorFellowship2024 MAY 3
+- [ ] Google Growth Academy https://tinyurl.com/2efn2kvu MAY 20
+- [ ] WiDEF https://widef.global/funding/  MAY 3
+- [ ] Microsoft Climate Innovation Fund - https://tinyurl.com/43zvkrnk JUNE 1
+- [ ] JOY GRANTS - https://givingjoygrants.org/grant-application APR 28
+- [ ] Twilio Developer Voices https://tinyurl.com/2annwynv MAY 13
+- [ ] Sustainable Energy Accelerator https://tinyurl.com/55bju5ev APR 24
 - [ ] 
   
 
@@ -461,6 +468,8 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] FPNN - https://tinyurl.com/2uum5mjd MAY 1
 - [ ] Digital Accelerator Program - https://smegrowthlabafrica.com/apply/ APR 21
 - [ ] Humphrey Fellows https://www.humphreyfellowship.org/
+- [ ] WAYSPIRE INTERNSHIP - https://tinyurl.com/4rebw34f JUNE 05
+- [ ] Crane Cloud Survey https://tinyurl.com/3hr4aet9 JUNE 15
 - [ ] 
 
 
