@@ -504,6 +504,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ]  Mandela Washington Fellowship - https://www.mandelawashingtonfellowship.org/apply/ AUG 09
 - [ ]  World Engineering Day Hackathon 2025
 - [ ]  CyberTalents Ambassadors - https://cybertalents.com/ambassadors APR 17
+- [ ]  IEEE Scholarship - https://tinyurl.com/62fkj8h3 20 AUG
 - [ ]  
 
 ## Reading
