@@ -370,6 +370,11 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] JOY GRANTS - https://givingjoygrants.org/grant-application APR 28
 - [ ] Twilio Developer Voices https://tinyurl.com/2annwynv MAY 13
 - [ ] Sustainable Energy Accelerator https://tinyurl.com/55bju5ev APR 24
+- [ ] YID Fellowship https://impacttoolbox.org/yidfellowship/
+- [ ] The Atlantic Dialogues Emerging Leaders https://tinyurl.com/5n6dww47 JUNE 10
+- [ ] Flagship Fellowship https://tinyurl.com/y6ywf23y MAY 27
+- [ ] Open Society University Network Academy https://tinyurl.com/cnupdfuk MAY 12
+- [ ] Omdena Local Chapter Leader https://tinyurl.com/mt4f3rdp JUNE 5
 - [ ] 
   
 
@@ -510,6 +515,8 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 ## Reading
 - [ ] State of Mobile 2024 report - https://shorturl.at/JS239
 - [ ] WHATSAPP SCRAPER - https://github.com/situmorang-com/Whatsapp-Group-Contacts-Scraper
+- [ ] CYBER SECURITY https://tinyurl.com/2mz3a5zp
+- [ ] 
 
 ## WEBSITES TO COPY
 - [ ] https://tribevibe.live/campus-ambassador.php
