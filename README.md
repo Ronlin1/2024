@@ -21,7 +21,8 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ]  Generative AI to quantify uncertainty in weather - https://tinyurl.com/yckx3khh
 - [ ]  Using AI to expand global access to reliable flood forecasts - https://tinyurl.com/bdzck94b
 - [ ]  Agtec Accelerator - https://tinyurl.com/2vh9j23z MAY 27
-- [ ]  
+- [ ]  United Nations Food and Agriculture Organization Fellows https://tinyurl.com/5a7db83a 15 AUG
+- [ ]  EWB https://ewb.applytojobs.ca/caif/22650/apply MAY 13
  
 - [ ] Story3 Hackathon - https://story3.hackerearth.com/ - 27th JAN
 - [ ] UNBS ARSO Essay - 29th FEB
