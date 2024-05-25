@@ -1,5 +1,7 @@
 # 2024...............
-My Opportunities, Hackathons, Tech Events Tracker Repo
+Opportunities, Hackathons, Tech Events Tracker Repo
+
+-- The dates on each lin refer to the respective deadlines. The dates I use here are usually a few days to the actual deadline to give you some time to prep for the opportunity you are applying for.
 
 ## Hackathons & Competitions
 - [ ] UPCOMING - https://www.openhackathons.org/s/upcoming-events
@@ -56,7 +58,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ]  https://opportunitiesandcareers.com/2024/02/02/oecd-internship-programme/
 - [ ]  https://www.unesco.org/en/articles/unesco-opens-call-ipdc-project-proposals-2024
 - [ ]  https://grants.mfa.no/#call/3441/details
-- [ ]  https://www.linkedin.com/jobs/view/3822723212/?trackingId=2vm4Cr3PQ8%2BaoNsIaJpEkg%3D%3D&refId=JveF0rfiQB2S4W6bUikkxA%3D%3D&midToken=AQGkWQbe8VG1Rw&midSig=2VjopNhTAD9r81&trk=eml-jobs_jymbii_digest-job_card-0-jobcard_body&trkEmail=eml-jobs_jymbii_digest-job_card-0-jobcard_body-null-72dmsi~ls8s03du~ho-null-null&eid=72dmsi-ls8s03du-ho&otpToken=MTYwNzE5ZTIxNzI2Y2NjN2I0MjQwNGVkNDYxOWU2YjY4N2NmZDE0NTljYTk4YTYxNzBjMDAwNjc0YTVmNWVmM2ZlZDRkZmI5NWJjOGVhZTU0MWE0ZWQ5YjIzOTM1YzczNTgwYjE2Y2Q3ZjUxMWFiODQzNjc0ZSwxLDE%3D
+- [ ] 
 - [ ]  https://indico.ictp.it/event/10494
 - [ ]  https://www.afox.ox.ac.uk/afox-catalyst-grants
 - [ ]  
@@ -376,6 +378,8 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Flagship Fellowship https://tinyurl.com/y6ywf23y MAY 27
 - [ ] Open Society University Network Academy https://tinyurl.com/cnupdfuk MAY 12
 - [ ] Omdena Local Chapter Leader https://tinyurl.com/mt4f3rdp JUNE 5
+- [ ] UN SDG Action https://sdgactionawards.org/apply/ JUNE 1
+- [ ] 2024 MCO Student Essay Competition - https://mcostudents.plateformecandidature.com/ JUNE 25
 - [ ] 
   
 
