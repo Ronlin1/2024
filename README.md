@@ -380,6 +380,9 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Omdena Local Chapter Leader https://tinyurl.com/mt4f3rdp JUNE 5
 - [ ] UN SDG Action https://sdgactionawards.org/apply/ JUNE 1
 - [ ] 2024 MCO Student Essay Competition - https://mcostudents.plateformecandidature.com/ JUNE 25
+- [ ] Western Union Foundation Fellowship - https://tinyurl.com/yc4y3he5 JUNE 1
+- [ ] YALI Regional Leadership - https://bit.ly/3TPhaCw MAY 30
+- [ ] Fogarty Global Health Fellowship - https://sites.wustl.edu/achieve/apply-2/ MAY 29
 - [ ] 
   
 
