@@ -383,6 +383,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Western Union Foundation Fellowship - https://tinyurl.com/yc4y3he5 JUNE 1
 - [ ] YALI Regional Leadership - https://bit.ly/3TPhaCw MAY 30
 - [ ] Fogarty Global Health Fellowship - https://sites.wustl.edu/achieve/apply-2/ MAY 29
+- [ ] Digital Skills for an Innovative East African Industry - https://dskills.iucea.org/ - MAY 30
 - [ ] 
   
 
