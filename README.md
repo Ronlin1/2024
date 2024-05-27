@@ -7,7 +7,8 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] UPCOMING - https://www.openhackathons.org/s/upcoming-events
 - [ ] UPCOMING - https://mlh.io/seasons/2024/events
 - [ ] UPCOMING - https://devpost.com/hackathons
-- [ ] MCN - APR 15 REMIND PROF TONNY
+- [ ] Reversing Environmental Degradation in Africa and Asia - https://www.redaa.org/grant-call-2 -JUN 25
+- [ ] NOAA Young Changemakers https://tinyurl.com/3fcd474s JUNE 5
 - [ ] Student Energy Chapters Program - MAR 20 (MAIL)
 - [ ] ALL SCHOLARSHIPS --- https://scholarships.plus/scholarships/contest/all-locations/
 - [ ] ONE YOUNG WORLD SCHOLARSHIPS - https://www.oneyoungworld.com/scholarships
@@ -25,6 +26,16 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ]  Agtec Accelerator - https://tinyurl.com/2vh9j23z MAY 27
 - [ ]  United Nations Food and Agriculture Organization Fellows https://tinyurl.com/5a7db83a 15 AUG
 - [ ]  EWB https://ewb.applytojobs.ca/caif/22650/apply MAY 13
+- [ ]  TotalEnergies Startupper https://startupper.totalenergies.com/en - JUNE 15
+- [ ]  FIT4Mentorship Programme https://bongohive.co.zm/fit4mentorship/ MAY 31
+- [ ]  WFP Accelerator - https://innovation.wfp.org/ OPEN
+- [ ]  ELISA Scholars Training https://elisanetwork.com/scholars/ JUNE 22
+- [ ]  The Nobellum Innovator Program https://www.nobellum.com/program-criteria JUNE 20
+- [ ]  IRCAI Top 100 projects https://ircai.org/global-top-100/ MAY 30
+- [ ]  The Global Undergraduate Awards https://undergraduateawards.com/ JUNE 4
+- [ ]  PDMA Student - https://www.pdma.org/page/student-innovation-challenge MAY 31
+- [ ]  YPFP-Fellowship - https://tinyurl.com/ytaatu7m - JUNE 4
+- [ ]  
  
 - [ ] Story3 Hackathon - https://story3.hackerearth.com/ - 27th JAN
 - [ ] UNBS ARSO Essay - 29th FEB
@@ -497,6 +508,10 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Global Symposium for Regulators 2024 - https://www.itu.int/itu-d/meetings/gsr-24/ JUNE 10
 - [ ] Environmental Crimes workshop https://envcrimes2024.esa.int/ APR 20
 - [ ] ZINDI - https://zindi.africa/competitions/adbot-ad-engagement-forecasting-challenge 15 MAY
+- [ ] UG DEV SUMMIT https://ugdevsummit.io/summit-program/ 18TH JULY
+- [ ] BLOCKCHAIN DEVFEST https://devfestkampala.com/-  SAT 29 JUNE
+- [ ] Google IO MBARARA - https://tinyurl.com/5judm8zt JULY 13
+- [ ] PyCon Uganda 2024 -  https://ug.pycon.org/2024 9-13 OCT
 - [ ] 
 
 ## Reads
