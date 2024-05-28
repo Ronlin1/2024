@@ -540,7 +540,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] State of Mobile 2024 report - https://shorturl.at/JS239
 - [ ] WHATSAPP SCRAPER - https://github.com/situmorang-com/Whatsapp-Group-Contacts-Scraper
 - [ ] CYBER SECURITY https://tinyurl.com/2mz3a5zp
-- [ ] 
+- [ ] MLSA Application '24 https://tinyurl.com/4sbztjwt
 
 ## WEBSITES TO COPY
 - [ ] https://tribevibe.live/campus-ambassador.php
