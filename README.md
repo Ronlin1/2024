@@ -35,7 +35,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ]  The Global Undergraduate Awards https://undergraduateawards.com/ JUNE 4
 - [ ]  PDMA Student - https://www.pdma.org/page/student-innovation-challenge MAY 31
 - [ ]  YPFP-Fellowship - https://tinyurl.com/ytaatu7m - JUNE 4
-- [ ]  
+- [ ]  PDMA Chapter https://www.pdma.org/page/PDMA_chapters - July 15
  
 - [ ] Story3 Hackathon - https://story3.hackerearth.com/ - 27th JAN
 - [ ] UNBS ARSO Essay - 29th FEB
