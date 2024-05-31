@@ -36,8 +36,12 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ]  PDMA Student - https://www.pdma.org/page/student-innovation-challenge MAY 31
 - [ ]  YPFP-Fellowship - https://tinyurl.com/ytaatu7m - JUNE 4
 - [ ]  PDMA Chapter https://www.pdma.org/page/PDMA_chapters - July 15
- 
+- [ ]  Global Good Fund - https://globalgoodfund.org/apply/ - June 20
 - [ ] Story3 Hackathon - https://story3.hackerearth.com/ - 27th JAN
+- [ ] RCOY Africa https://tinyurl.com/ycn2udce JUNE 3
+- [ ] Roots Micro grants https://tinyurl.com/5n6cxrwh JULY 10
+- [ ] 
+- [ ] CALA’s Advanced Leadership Programme https://tinyurl.com/3y6stsvw JUNE 28
 - [ ] UNBS ARSO Essay - 29th FEB
 - [X] GMD Gender End GBV Essay - 15TH DEC 2023
 - [ ] The Liveability Challenge 2024 - https://shorturl.at/cdvQ6 - Feb 9th
@@ -541,6 +545,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] WHATSAPP SCRAPER - https://github.com/situmorang-com/Whatsapp-Group-Contacts-Scraper
 - [ ] CYBER SECURITY https://tinyurl.com/2mz3a5zp
 - [ ] MLSA Application '24 https://tinyurl.com/4sbztjwt
+- [ ] How To Get Startup Ideas https://paulgraham.com/startupideas.html
 
 ## WEBSITES TO COPY
 - [ ] https://tribevibe.live/campus-ambassador.php
