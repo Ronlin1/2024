@@ -37,6 +37,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ]  YPFP-Fellowship - https://tinyurl.com/ytaatu7m - JUNE 4
 - [ ]  PDMA Chapter https://www.pdma.org/page/PDMA_chapters - July 15
 - [ ]  Global Good Fund - https://globalgoodfund.org/apply/ - June 20
+- [ ]  10*10000 Video Contest - https://tinyurl.com/537fd6u6 JUNE 23
 - [ ] Story3 Hackathon - https://story3.hackerearth.com/ - 27th JAN
 - [ ] RCOY Africa https://tinyurl.com/ycn2udce JUNE 3
 - [ ] Roots Micro grants https://tinyurl.com/5n6cxrwh JULY 10
