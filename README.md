@@ -40,7 +40,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Story3 Hackathon - https://story3.hackerearth.com/ - 27th JAN
 - [ ] RCOY Africa https://tinyurl.com/ycn2udce JUNE 3
 - [ ] Roots Micro grants https://tinyurl.com/5n6cxrwh JULY 10
-- [ ] 
+- [ ] KaggleX Fellowship Program 2024 https://tinyurl.com/54pzvc7h JUNE 12
 - [ ] CALA’s Advanced Leadership Programme https://tinyurl.com/3y6stsvw JUNE 28
 - [ ] UNBS ARSO Essay - 29th FEB
 - [X] GMD Gender End GBV Essay - 15TH DEC 2023
