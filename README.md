@@ -1,7 +1,7 @@
-# 2024.....................
+# 2024.................
 Opportunities, Hackathons, Tech Events Tracker Repo
 
--- The dates on each link refer to the respective deadlines. The dates I use here are usually a few days to the actual deadline to give you some time to prep for the opportunity you are applying for.
+-- The dates on each link refer to the respective deadlines. The dates I use here are usually a few days to the actual deadline to give you some time to prep for the opportunity you are applying for. Try to see/read eligibility first....
 
 ## Hackathons & Competitions
 - [ ] UPCOMING - https://www.openhackathons.org/s/upcoming-events
