@@ -400,7 +400,8 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] YALI Regional Leadership - https://bit.ly/3TPhaCw MAY 30
 - [ ] Fogarty Global Health Fellowship - https://sites.wustl.edu/achieve/apply-2/ MAY 29
 - [ ] Digital Skills for an Innovative East African Industry - https://dskills.iucea.org/ - MAY 30
-- [ ] 
+- [ ] TECH POLICY FELLOWSHIP - https://tinyurl.com/2er492px JUNE 15
+- [ ] Youth Climate Justice Fund - https://tinyurl.com/3m6ttydc - JUNE 25TH 
   
 
 
@@ -517,6 +518,8 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] BLOCKCHAIN DEVFEST https://devfestkampala.com/-  SAT 29 JUNE
 - [ ] Google IO MBARARA - https://tinyurl.com/5judm8zt JULY 13
 - [ ] PyCon Uganda 2024 -  https://ug.pycon.org/2024 9-13 OCT
+- [ ] WTO Young Traders - https://tinyurl.com/3a2ckb8t JUNE 30
+- [ ] 
 - [ ] 
 
 ## Reads
