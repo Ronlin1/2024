@@ -46,6 +46,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Timbuktoo Fintech Startup Accelerator Programme - https://tinyurl.com/bddkzy5n JUNE 18
 - [ ] UNBS ARSO Essay - 29th FEB
 - [X] GMD Gender End GBV Essay - 15TH DEC 2023
+- [ ] DLI nvidia - OCT 20 https://www.nvidia.com/en-in/deep-learning-ai/education/ambassador-program/
 - [ ] The Liveability Challenge 2024 - https://shorturl.at/cdvQ6 - Feb 9th
 - [x] The Headstream Accelerator - https://shorturl.at/bqsDT - JAN 24TH
 - [ ] Hacklab Foundation - https://connect.hacklabfoundation.org/ - 
