@@ -35,6 +35,11 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ]  The Global Undergraduate Awards https://undergraduateawards.com/ JUNE 4
 - [ ]  PDMA Student - https://www.pdma.org/page/student-innovation-challenge MAY 31
 - [ ]  YPFP-Fellowship - https://tinyurl.com/ytaatu7m - JUNE 4
+- [ ]  A2SV Hackathon, 2024 - https://hackathon.a2sv.org/ JUNE 28
+- [ ]  Twilio Challenge - https://dev.to/challenges/twilio JUNE 12
+- [ ]  Ellison Scholars - https://eit.org/ellisonscholars/ JULY 25
+- [ ]  AFSE 2025 Fellowship https://www.socialequity.atlanticfellows.org/apply JULY 25
+- [ ]  Climate Justice Camp in Tanzania - https://tinyurl.com/mvhfn78c JULY 1
 - [ ]  PDMA Chapter https://www.pdma.org/page/PDMA_chapters - July 15
 - [ ]  Global Good Fund - https://globalgoodfund.org/apply/ - June 20
 - [ ]  10*10000 Video Contest - https://tinyurl.com/537fd6u6 JUNE 23
