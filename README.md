@@ -17,6 +17,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Sleep Cycle - https://tinyurl.com/mp4n36w2
 - [ ] https://github.com/SummerOfBitcoin/code-challenge-2024-Ronlin1 APR 20
 - [ ] SOBTC PROPOSAL - 30 MAR
+- [ ] Millenium Oceans Prize - https://www.millenniumoceans.org/meet-the-students JUNE 15
 - [ ] https://foundershub.startups.microsoft.com/ 5 APR
 - [ ] READ - https://tinyurl.com/mwy94zu4 MTN
 - [ ]  ----------------
