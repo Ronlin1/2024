@@ -85,7 +85,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] 
 - [ ]  https://indico.ictp.it/event/10494
 - [ ]  https://www.afox.ox.ac.uk/afox-catalyst-grants
-- [ ]  
+- [ ]  ARC Prize 2024 https://www.kaggle.com/competitions/arc-prize-2024/overview JULY 31
 
 - [ ] https://hackp.ac/address MLH SWAG
 - [ ] Chegg student Award https://varkeyfoundation.awardsplatform.com/ - 25th APRIL
