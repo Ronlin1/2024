@@ -13,6 +13,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] ALL SCHOLARSHIPS --- https://scholarships.plus/scholarships/contest/all-locations/
 - [ ] ONE YOUNG WORLD SCHOLARSHIPS - https://www.oneyoungworld.com/scholarships
 - [ ] REMOTE ROLES - https://tinyurl.com/nhbtpm9h
+- [ ] MTN ACE - http://www.mtn.co.ug/ACE JUNE 26
 - [ ] 📌AI will mean more programmers, not fewer - https://tinyurl.com/tba8y94j
 - [ ] Sleep Cycle - https://tinyurl.com/mp4n36w2
 - [ ] https://github.com/SummerOfBitcoin/code-challenge-2024-Ronlin1 APR 20
