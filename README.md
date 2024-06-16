@@ -254,7 +254,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Data Fellowships - https://tinyurl.com/52wfkvvv
 - [ ] Data Science Africa - https://tinyurl.com/2bfsrxa9 29 MAR
 - [ ] 2024 EAUMP-ICTP School - https://indico.ictp.it/event/10494 29 MAR
-- [ ] CALL 4 CODE IBM - https://developer.ibm.com/callforcode/  JUNE 15
+- [ ] CALL 4 CODE IBM - https://developer.ibm.com/callforcode/  AUG 15
 - [ ] AICV SUMMER https://www.acvss.ai/Attend  MAR 13
 - [ ] HiiL ACCELERATOR - https://tinyurl.com/ys96873b 30 MAR
 - [ ] Cartesi Grants Program - https://cartesi.io/governance/#get-funding
