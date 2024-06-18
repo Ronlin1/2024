@@ -562,5 +562,6 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 
 ## WEBSITES TO COPY
 - [ ] https://tribevibe.live/campus-ambassador.php
+- [ ] GPT 40 Business Ideas - https://tinyurl.com/pra5236w
 
 
