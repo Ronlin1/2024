@@ -28,6 +28,10 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ]  Agtec Accelerator - https://tinyurl.com/2vh9j23z MAY 27
 - [ ]  United Nations Food and Agriculture Organization Fellows https://tinyurl.com/5a7db83a 15 AUG
 - [ ]  EWB https://ewb.applytojobs.ca/caif/22650/apply MAY 13
+- [ ]  YCJF - https://tinyurl.com/ye25fa82 JUNE 28
+- [ ]  Global E-STEM Award - https://naaee.submittable.com/submit JULY 5
+- [ ]  IHL ESSAY - https://tinyurl.com/5ffknh6w JUNE 28
+- [ ]  Global Changemaker Fellowship - https://gccnetwork.org/gcf/ JULY 10
 - [ ]  TotalEnergies Startupper https://startupper.totalenergies.com/en - JUNE 15
 - [ ]  FIT4Mentorship Programme https://bongohive.co.zm/fit4mentorship/ MAY 31
 - [ ]  WFP Accelerator - https://innovation.wfp.org/ OPEN
