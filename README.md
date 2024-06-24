@@ -9,6 +9,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] UPCOMING - https://devpost.com/hackathons
 - [ ] Reversing Environmental Degradation in Africa and Asia - https://www.redaa.org/grant-call-2 -JUN 25
 - [ ] NOAA Young Changemakers https://tinyurl.com/3fcd474s JUNE 5
+- [ ] Global Innovation Fund, - https://tinyurl.com/4js8bbh8 AUG 5
 - [ ] Student Energy Chapters Program - MAR 20 (MAIL)
 - [ ] ALL SCHOLARSHIPS --- https://scholarships.plus/scholarships/contest/all-locations/
 - [ ] ONE YOUNG WORLD SCHOLARSHIPS - https://www.oneyoungworld.com/scholarships
@@ -18,6 +19,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Sleep Cycle - https://tinyurl.com/mp4n36w2
 - [ ] https://github.com/SummerOfBitcoin/code-challenge-2024-Ronlin1 APR 20
 - [ ] SOBTC PROPOSAL - 30 MAR
+- [ ] Global Innovation Challenge https://tinyurl.com/k6ztrvrr JULY 10
 - [ ] Millenium Oceans Prize - https://www.millenniumoceans.org/meet-the-students JUNE 15
 - [ ] https://foundershub.startups.microsoft.com/ 5 APR
 - [ ] READ - https://tinyurl.com/mwy94zu4 MTN
@@ -474,7 +476,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] SCIENTIFIC INTERNSHIPS (YEAR-ROUND) - https://tinyurl.com/2zk3etef
 - [ ] YOUTH OPPORTUNITIES - https://studentenergy.org/youth-opportunities/
 - [ ] Student Mini Grants - https://tinyurl.com/5n78vf9r
-- [ ] GENERATIONS:GLOBAL GRANT - https://generationsgrant.github.io/ 28th APR
+- [ ] GENERATIONS:GLOBAL GRANT - https://generationsgrant.github.io/ 28th AUG
 - [ ] One YOUNG World Opportunities - https://www.oneyoungworld.com/opportunities
 - [ ] 1YW Ambassador - https://www.oneyoungworld.com/welcome-one-young-world-ambassador-community-1
 - [ ] Student Competitions - https://studentcompetitions.com/
