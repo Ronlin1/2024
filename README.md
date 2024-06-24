@@ -414,7 +414,9 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Fogarty Global Health Fellowship - https://sites.wustl.edu/achieve/apply-2/ MAY 29
 - [ ] Digital Skills for an Innovative East African Industry - https://dskills.iucea.org/ - MAY 30
 - [ ] TECH POLICY FELLOWSHIP - https://tinyurl.com/2er492px JUNE 15
-- [ ] Youth Climate Justice Fund - https://tinyurl.com/3m6ttydc - JUNE 25TH 
+- [ ] Youth Climate Justice Fund - https://tinyurl.com/3m6ttydc - JUNE 25TH
+- [ ] WSA Young Innovators - https://tinyurl.com/ycxb87xs  OCT 1
+- [ ] SMART CDR - https://www.herox.com/SMARTCDR AUG 25
   
 
 
@@ -532,6 +534,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Google IO MBARARA - https://tinyurl.com/5judm8zt JULY 13
 - [ ] PyCon Uganda 2024 -  https://ug.pycon.org/2024 9-13 OCT
 - [ ] WTO Young Traders - https://tinyurl.com/3a2ckb8t JUNE 30
+- [ ] REMOTE ROLES - SITES - https://tinyurl.com/4e3e5srf
 - [ ] 
 - [ ] 
 
