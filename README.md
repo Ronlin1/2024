@@ -19,6 +19,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Sleep Cycle - https://tinyurl.com/mp4n36w2
 - [ ] https://github.com/SummerOfBitcoin/code-challenge-2024-Ronlin1 APR 20
 - [ ] SOBTC PROPOSAL - 30 MAR
+- [ ] Unipod Innovation Diagnostic - JULY 3
 - [ ] Global Innovation Challenge https://tinyurl.com/k6ztrvrr JULY 10
 - [ ] Millenium Oceans Prize - https://www.millenniumoceans.org/meet-the-students JUNE 15
 - [ ] https://foundershub.startups.microsoft.com/ 5 APR
