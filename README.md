@@ -24,6 +24,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Millenium Oceans Prize - https://www.millenniumoceans.org/meet-the-students JUNE 15
 - [ ] https://foundershub.startups.microsoft.com/ 5 APR
 - [ ] READ - https://tinyurl.com/mwy94zu4 MTN
+- [ ] WSA GLOBAL - https://wsa-global.org/timeline/ SEPT 30
 - [ ]  ----------------
 - [ ]  Chatham House Mo Ibrahim Foundation Academy Fellowship 2025
 - [ ]  Generative AI to quantify uncertainty in weather - https://tinyurl.com/yckx3khh
