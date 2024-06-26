@@ -33,12 +33,19 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ]  United Nations Food and Agriculture Organization Fellows https://tinyurl.com/5a7db83a 15 AUG
 - [ ]  EWB https://ewb.applytojobs.ca/caif/22650/apply MAY 13
 - [ ]  YCJF - https://tinyurl.com/ye25fa82 JUNE 28
+- [ ]  SLINGSHOT - https://tinyurl.com/4p6ckwr7 JUNE 29
+- [ ]  Global Education Challenge - https://tinyurl.com/yhhw2dua JULY 20
+- [ ]  Ecobank Fintech Challenge - https://ecobankfintechchallenge.com/challenge JULY 3
 - [ ]  Global E-STEM Award - https://naaee.submittable.com/submit JULY 5
 - [ ]  IHL ESSAY - https://tinyurl.com/5ffknh6w JUNE 28
 - [ ]  Global Changemaker Fellowship - https://gccnetwork.org/gcf/ JULY 10
 - [ ]  TotalEnergies Startupper https://startupper.totalenergies.com/en - JUNE 15
 - [ ]  FIT4Mentorship Programme https://bongohive.co.zm/fit4mentorship/ MAY 31
 - [ ]  WFP Accelerator - https://innovation.wfp.org/ OPEN
+- [ ]  ESD Award - https://tinyurl.com/py5h6dj3 JULY 7
+- [ ]  AmplifyChange - https://amplifychange.org/apply/ ONGOING
+- [ ]  Student GSE https://www.gsea.org/ OCT 10
+- [ ]  Social Shifters Global Innovation https://tinyurl.com/yckm7ssj JULY 25
 - [ ]  ELISA Scholars Training https://elisanetwork.com/scholars/ JUNE 22
 - [ ]  The Nobellum Innovator Program https://www.nobellum.com/program-criteria JUNE 20
 - [ ]  IRCAI Top 100 projects https://ircai.org/global-top-100/ MAY 30
