@@ -17,6 +17,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] MTN ACE - http://www.mtn.co.ug/ACE JUNE 26
 - [ ] 📌AI will mean more programmers, not fewer - https://tinyurl.com/tba8y94j
 - [ ] Sleep Cycle - https://tinyurl.com/mp4n36w2
+- [ ] YSAU - https://mail.google.com/mail/u/0/#all/FMfcgzQVxRCkgRbCmPqQgvFQfNPkzxnF JULY 25
 - [ ] https://github.com/SummerOfBitcoin/code-challenge-2024-Ronlin1 APR 20
 - [ ] SOBTC PROPOSAL - 30 MAR
 - [ ] Unipod Innovation Diagnostic - https://tinyurl.com/7f36dujn  JULY 3
