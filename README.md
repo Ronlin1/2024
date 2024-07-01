@@ -580,6 +580,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] CYBER SECURITY https://tinyurl.com/2mz3a5zp
 - [ ] MLSA Application '24 https://tinyurl.com/4sbztjwt
 - [ ] How To Get Startup Ideas https://paulgraham.com/startupideas.html
+- [ ] Bitcoin is not a threat, it is a boon https://hackernoon.com/bitcoin-is-not-a-threat-it-is-a-boon-d2218a823db7
 
 ## WEBSITES TO COPY
 - [ ] https://tribevibe.live/campus-ambassador.php
