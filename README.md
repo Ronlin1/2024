@@ -11,6 +11,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] NOAA Young Changemakers https://tinyurl.com/3fcd474s JUNE 5
 - [ ] Global Innovation Fund, - https://tinyurl.com/4js8bbh8 AUG 5
 - [ ] Student Energy Chapters Program - MAR 20 (MAIL)
+- [ ] ETH Zurich Scholarship 2025 - NOV 20
 - [ ] ALL SCHOLARSHIPS --- https://scholarships.plus/scholarships/contest/all-locations/
 - [ ] ONE YOUNG WORLD SCHOLARSHIPS - https://www.oneyoungworld.com/scholarships
 - [ ] REMOTE ROLES - https://tinyurl.com/nhbtpm9h
