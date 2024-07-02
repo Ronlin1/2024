@@ -12,15 +12,20 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Global Innovation Fund, - https://tinyurl.com/4js8bbh8 AUG 5
 - [ ] Student Energy Chapters Program - MAR 20 (MAIL)
 - [ ] ETH Zurich Scholarship 2025 - NOV 20
+- [ ] Brave Redemptive - https://braveredemptive.com/
+- [ ] Research Grants on Education https://www.spencer.org/grant_types/small-research-grant AUG 25
 - [ ] ALL SCHOLARSHIPS --- https://scholarships.plus/scholarships/contest/all-locations/
 - [ ] ONE YOUNG WORLD SCHOLARSHIPS - https://www.oneyoungworld.com/scholarships
 - [ ] REMOTE ROLES - https://tinyurl.com/nhbtpm9h
 - [ ] MTN ACE - http://www.mtn.co.ug/ACE JUNE 26
 - [ ] 📌AI will mean more programmers, not fewer - https://tinyurl.com/tba8y94j
 - [ ] Sleep Cycle - https://tinyurl.com/mp4n36w2
+- [ ] iF SOCIAL IMPACT PRIZE https://ifdesign.com/en/if-social-impact-prize SEP 3
+- [ ] Uganda Press Awards - https://tinyurl.com/y59m9367 AUG 1
 - [ ] YSAU - https://mail.google.com/mail/u/0/#all/FMfcgzQVxRCkgRbCmPqQgvFQfNPkzxnF JULY 25
 - [ ] https://github.com/SummerOfBitcoin/code-challenge-2024-Ronlin1 APR 20
 - [ ] SOBTC PROPOSAL - 30 MAR
+- [ ] AFRICA PRIZE ENGINEERING - https://africaprize.raeng.org.uk/ SEPT 30
 - [ ] Unipod Innovation Diagnostic - https://tinyurl.com/7f36dujn  JULY 3
 - [ ] Global Innovation Challenge https://tinyurl.com/k6ztrvrr JULY 10
 - [ ] Millenium Oceans Prize - https://www.millenniumoceans.org/meet-the-students JUNE 15
