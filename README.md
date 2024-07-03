@@ -18,6 +18,12 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] ONE YOUNG WORLD SCHOLARSHIPS - https://www.oneyoungworld.com/scholarships
 - [ ] REMOTE ROLES - https://tinyurl.com/nhbtpm9h
 - [ ] MTN ACE - http://www.mtn.co.ug/ACE JUNE 26
+- [ ] JUST TECH - https://www.ssrc.org/programs/just-tech/ SEPT 30
+- [ ] SSR - https://tinyurl.com/46ew462w JULY 29
+- [ ] Google Climate accelerator - https://tinyurl.com/2vpuknt6 JULY 15
+- [ ] Global Mentorship Programme https://gelaofficial.org/PGMP/ JULY 20
+- [ ] The Royal Society Entrepreneur in Residence - https://tinyurl.com/yuaajb47 SEPT 10
+- [ ] World Economic Forum https://tinyurl.com/mryx8cvw JULY 11
 - [ ] 📌AI will mean more programmers, not fewer - https://tinyurl.com/tba8y94j
 - [ ] Sleep Cycle - https://tinyurl.com/mp4n36w2
 - [ ] iF SOCIAL IMPACT PRIZE https://ifdesign.com/en/if-social-impact-prize SEP 3
