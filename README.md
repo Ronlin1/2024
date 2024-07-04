@@ -13,6 +13,11 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Student Energy Chapters Program - MAR 20 (MAIL)
 - [ ] ETH Zurich Scholarship 2025 - NOV 20
 - [ ] Brave Redemptive - https://braveredemptive.com/
+- [ ] GYM - https://tinyurl.com/38s5weue JULY 16
+- [ ] The Geomundus Conference - https://geomundus.org/2024/submission.html JULY 26
+- [ ] Devcon Scholars Program - https://blog.ethereum.org/2024/06/07/devcon7-scholars JULY 6
+- [ ] Young Founders Programme - https://tinyurl.com/25jzzdu2 AUG 7
+- [ ] SDG Digital GameChangers Award - https://tinyurl.com/4s5u8jr9 AUG 3
 - [ ] Research Grants on Education https://www.spencer.org/grant_types/small-research-grant AUG 25
 - [ ] ALL SCHOLARSHIPS --- https://scholarships.plus/scholarships/contest/all-locations/
 - [ ] ONE YOUNG WORLD SCHOLARSHIPS - https://www.oneyoungworld.com/scholarships
