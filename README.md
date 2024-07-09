@@ -14,6 +14,12 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] ETH Zurich Scholarship 2025 - NOV 20
 - [ ] Brave Redemptive - https://braveredemptive.com/
 - [ ] GYM - https://tinyurl.com/38s5weue JULY 16
+- [ ] AI Call for Essays - https://tinyurl.com/ymax2d86 AUG 19
+- [ ] Mercy Corps AI Soltns - https://tinyurl.com/47n42er9 JULY 16
+- [ ] Climate Finance Academy - https://tinyurl.com/yc2nnppv JULY 17
+- [ ] HEY Campaign - https://tinyurl.com/33wws7ep JULY 31
+- [ ] Youth Action Day - https://tinyurl.com/362tknx3 JULY 11
+- [ ] ICANN81 Annual General Meeting https://meetings.icann.org/en/meetings/icann81/ NOV 1
 - [ ] The Geomundus Conference - https://geomundus.org/2024/submission.html JULY 26
 - [ ] Devcon Scholars Program - https://blog.ethereum.org/2024/06/07/devcon7-scholars JULY 6
 - [ ] Young Founders Programme - https://tinyurl.com/25jzzdu2 AUG 7
