@@ -12,6 +12,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Global Innovation Fund, - https://tinyurl.com/4js8bbh8 AUG 5
 - [ ] Student Energy Chapters Program - MAR 20 (MAIL)
 - [ ] ETH Zurich Scholarship 2025 - NOV 20
+- [ ] Falcon Hackathon - https://lablab.ai/event/falcon-hackathon JULY 24
 - [ ] Brave Redemptive - https://braveredemptive.com/
 - [ ] GYM - https://tinyurl.com/38s5weue JULY 16
 - [ ] AI Call for Essays - https://tinyurl.com/ymax2d86 AUG 19
