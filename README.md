@@ -52,6 +52,10 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] WSA GLOBAL - https://wsa-global.org/timeline/ SEPT 30
 - [ ]  ----------------
 - [ ]  Chatham House Mo Ibrahim Foundation Academy Fellowship 2025
+- [ ]  Opportunities Are Here'- Season 2 - https://tinyurl.com/2s3z85ut 31 JULY
+- [ ]  Enterprise African Network Fellowship Programme https://msmeforum.africa/ JULY 22
+- [ ]  LCOY Uganda 2024 https://tinyurl.com/3z8bprh5 JULY 14
+- [ ]  SOCIAL IMPACT AWARDS - https://apply.socialimpactaward.net/uganda/ AUG 1
 - [ ]  Generative AI to quantify uncertainty in weather - https://tinyurl.com/yckx3khh
 - [ ]  Using AI to expand global access to reliable flood forecasts - https://tinyurl.com/bdzck94b
 - [ ]  Agtec Accelerator - https://tinyurl.com/2vh9j23z MAY 27
@@ -59,6 +63,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ]  United Nations Food and Agriculture Organization Fellows https://tinyurl.com/5a7db83a 15 AUG
 - [ ]  EWB https://ewb.applytojobs.ca/caif/22650/apply MAY 13
 - [ ]  YCJF - https://tinyurl.com/ye25fa82 JUNE 28
+- [ ]  GCA Champions - https://tinyurl.com/2jwkx83m AUG 6
 - [ ]  SLINGSHOT - https://tinyurl.com/4p6ckwr7 JUNE 29
 - [ ]  Global Education Challenge - https://tinyurl.com/yhhw2dua JULY 20
 - [ ]  Ecobank Fintech Challenge - https://ecobankfintechchallenge.com/challenge JULY 3
@@ -604,6 +609,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] MLSA Application '24 https://tinyurl.com/4sbztjwt
 - [ ] How To Get Startup Ideas https://paulgraham.com/startupideas.html
 - [ ] Bitcoin is not a threat, it is a boon https://hackernoon.com/bitcoin-is-not-a-threat-it-is-a-boon-d2218a823db7
+- [ ] PROMPT ENGINEERING - https://tinyurl.com/43vm744w
 
 ## WEBSITES TO COPY
 - [ ] https://tribevibe.live/campus-ambassador.php
