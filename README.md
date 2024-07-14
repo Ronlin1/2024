@@ -12,12 +12,17 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Global Innovation Fund, - https://tinyurl.com/4js8bbh8 AUG 5
 - [ ] Student Energy Chapters Program - MAR 20 (MAIL)
 - [ ] ETH Zurich Scholarship 2025 - NOV 20
+- [ ] The WIPO Young Experts Program (YEP) - https://tinyurl.com/54hssrn2 AUG 8
+- [ ] DRILL Call for Applications - https://paradigmhq.org/drill-call-for-applications/ JULY 17
+- [ ] Africa Catalyst Phase 5  - https://tinyurl.com/5xfdpyy7 JULY 25
+- [ ] SDGs Campus Ambassador - https://tinyurl.com/3awrfsa3 AUG 18
 - [ ] Hult Prize - https://www.hultprize.org/cd-application/ JULY 17
 - [ ] Falcon Hackathon - https://lablab.ai/event/falcon-hackathon JULY 24
 - [ ] Brave Redemptive - https://braveredemptive.com/
 - [ ] GYM - https://tinyurl.com/38s5weue JULY 16
 - [ ] AI Call for Essays - https://tinyurl.com/ymax2d86 AUG 19
 - [ ] Mercy Corps AI Soltns - https://tinyurl.com/47n42er9 JULY 16
+- [ ] Journey to the Boardroom - https://jtboardroom.org/ JULY 15
 - [ ] Climate Finance Academy - https://tinyurl.com/yc2nnppv JULY 17
 - [ ] HEY Campaign - https://tinyurl.com/33wws7ep JULY 31
 - [ ] Youth Action Day - https://tinyurl.com/362tknx3 JULY 11
