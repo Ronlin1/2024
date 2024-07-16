@@ -11,6 +11,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] NOAA Young Changemakers https://tinyurl.com/3fcd474s JUNE 5
 - [ ] Global Innovation Fund, - https://tinyurl.com/4js8bbh8 AUG 5
 - [ ] Student Energy Chapters Program - MAR 20 (MAIL)
+- [ ] IEEE R8 AI Research Hub at GITEX - https://tinyurl.com/296hh68x AUG 3
 - [ ] ETH Zurich Scholarship 2025 - NOV 20
 - [ ] The WIPO Young Experts Program (YEP) - https://tinyurl.com/54hssrn2 AUG 8
 - [ ] DRILL Call for Applications - https://paradigmhq.org/drill-call-for-applications/ JULY 17
