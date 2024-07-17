@@ -12,6 +12,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Global Innovation Fund, - https://tinyurl.com/4js8bbh8 AUG 5
 - [ ] Student Energy Chapters Program - MAR 20 (MAIL)
 - [ ] IEEE R8 AI Research Hub at GITEX - https://tinyurl.com/296hh68x AUG 3
+- [ ] World Usability Design Challenge - https://wudafrica.com/challenge/ AUG 31
 - [ ] ETH Zurich Scholarship 2025 - NOV 20
 - [ ] The WIPO Young Experts Program (YEP) - https://tinyurl.com/54hssrn2 AUG 8
 - [ ] DRILL Call for Applications - https://paradigmhq.org/drill-call-for-applications/ JULY 17
@@ -19,6 +20,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] SDGs Campus Ambassador - https://tinyurl.com/3awrfsa3 AUG 18
 - [ ] Hult Prize - https://www.hultprize.org/cd-application/ JULY 17
 - [ ] Falcon Hackathon - https://lablab.ai/event/falcon-hackathon JULY 24
+- [ ] I4G marketing mETA - https://ingressive.org/i4g-marketing-scholarship/ JULY 23
 - [ ] Brave Redemptive - https://braveredemptive.com/
 - [ ] GYM - https://tinyurl.com/38s5weue JULY 16
 - [ ] AI Call for Essays - https://tinyurl.com/ymax2d86 AUG 19
