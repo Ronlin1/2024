@@ -20,6 +20,9 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] SDGs Campus Ambassador - https://tinyurl.com/3awrfsa3 AUG 18
 - [ ] Hult Prize - https://www.hultprize.org/cd-application/ JULY 17
 - [ ] Falcon Hackathon - https://lablab.ai/event/falcon-hackathon JULY 24
+- [ ] Groundbreaker Talents - https://form.jotform.com/230782074011042 JULY 25
+- [ ] Wordcamp Jinja 2024 https://tinyurl.com/3xtxr2af AUG 20
+- [ ] 
 - [ ] I4G marketing mETA - https://ingressive.org/i4g-marketing-scholarship/ JULY 23
 - [ ] Brave Redemptive - https://braveredemptive.com/
 - [ ] GYM - https://tinyurl.com/38s5weue JULY 16
