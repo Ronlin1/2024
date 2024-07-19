@@ -22,6 +22,12 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Falcon Hackathon - https://lablab.ai/event/falcon-hackathon JULY 24
 - [ ] Groundbreaker Talents - https://form.jotform.com/230782074011042 JULY 25
 - [ ] Wordcamp Jinja 2024 https://tinyurl.com/3xtxr2af AUG 20
+- [ ] The Africa Law Tech Fest - https://www.africalawtech.com/#/tickets?lang=en AUG 22
+- [ ] PLAI https://tinyurl.com/mrm36ahy JULY 20
+- [ ] YET4H https://tinyurl.com/4p47be5u JULY 26
+- [ ] WHRD and Feminist Bloggers https://tinyurl.com/46nyc3my AUG 21
+- [ ] AFCIA - https://tinyurl.com/4pkyu9hu JULY 30
+- [ ] Wilson CenteR iNTERN - https://tinyurl.com/4yh34sfu July 28
 - [ ] 
 - [ ] I4G marketing mETA - https://ingressive.org/i4g-marketing-scholarship/ JULY 23
 - [ ] Brave Redemptive - https://braveredemptive.com/
