@@ -21,6 +21,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Hult Prize - https://www.hultprize.org/cd-application/ JULY 17
 - [ ] Falcon Hackathon - https://lablab.ai/event/falcon-hackathon JULY 24
 - [ ] Groundbreaker Talents - https://form.jotform.com/230782074011042 JULY 25
+- [ ] SIA - https://apply.socialimpactaward.net/uganda/ AUG 1
 - [ ] Wordcamp Jinja 2024 https://tinyurl.com/3xtxr2af AUG 20
 - [ ] The Africa Law Tech Fest - https://www.africalawtech.com/#/tickets?lang=en AUG 22
 - [ ] PLAI https://tinyurl.com/mrm36ahy JULY 20
@@ -28,9 +29,12 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] WHRD and Feminist Bloggers https://tinyurl.com/46nyc3my AUG 21
 - [ ] AFCIA - https://tinyurl.com/4pkyu9hu JULY 30
 - [ ] Wilson CenteR iNTERN - https://tinyurl.com/4yh34sfu July 28
-- [ ] 
+- [ ] African Social Innovation fellowship https://dotakeaction.org/asif/ AUG 1
 - [ ] I4G marketing mETA - https://ingressive.org/i4g-marketing-scholarship/ JULY 23
 - [ ] Brave Redemptive - https://braveredemptive.com/
+- [ ] Innovation Open Challenge https://innovug.com/2024-open-challenge/ SEPT 10
+- [ ] Commonwealth Professional Fellowships https://tinyurl.com/bdhkzahj AUG 1
+- [ ] SJ Fellowships - https://www.socialjusticeleadership.org/fellowships AUG 26
 - [ ] GYM - https://tinyurl.com/38s5weue JULY 16
 - [ ] AI Call for Essays - https://tinyurl.com/ymax2d86 AUG 19
 - [ ] Mercy Corps AI Soltns - https://tinyurl.com/47n42er9 JULY 16
@@ -38,6 +42,11 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Climate Finance Academy - https://tinyurl.com/yc2nnppv JULY 17
 - [ ] HEY Campaign - https://tinyurl.com/33wws7ep JULY 31
 - [ ] Youth Action Day - https://tinyurl.com/362tknx3 JULY 11
+- [ ] ImpactAI Scholarship - https://tinyurl.com/2p9j5ywv JULY 29
+- [ ] I4G Marketing Scholarship - https://tinyurl.com/5ca39krx AUG 07
+- [ ] Airbus Scholarship 2024 - https://www.oneyoungworld.com/scholarships/airbus/2024 JULY 29
+- [ ] Milestone Makers https://tinyurl.com/mr46h2dw JULY 27
+- [ ] MSME FORUM https://msmeforum.africa/ JULY 24
 - [ ] ICANN81 Annual General Meeting https://meetings.icann.org/en/meetings/icann81/ NOV 1
 - [ ] The Geomundus Conference - https://geomundus.org/2024/submission.html JULY 26
 - [ ] Devcon Scholars Program - https://blog.ethereum.org/2024/06/07/devcon7-scholars JULY 6
@@ -48,8 +57,11 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] ONE YOUNG WORLD SCHOLARSHIPS - https://www.oneyoungworld.com/scholarships
 - [ ] REMOTE ROLES - https://tinyurl.com/nhbtpm9h
 - [ ] MTN ACE - http://www.mtn.co.ug/ACE JUNE 26
+- [ ] The BIND Open Innovation - https://tinyurl.com/5ax545kp SEPT 2
 - [ ] JUST TECH - https://www.ssrc.org/programs/just-tech/ SEPT 30
 - [ ] SSR - https://tinyurl.com/46ew462w JULY 29
+- [ ] Agroecological Food Futures - https://tinyurl.com/4f5rz7bp JULY 24
+- [ ] tUNGA survey - https://tinyurl.com/4tcnrd85 AUG 3
 - [ ] Google Climate accelerator - https://tinyurl.com/2vpuknt6 JULY 15
 - [ ] Global Mentorship Programme https://gelaofficial.org/PGMP/ JULY 20
 - [ ] The Royal Society Entrepreneur in Residence - https://tinyurl.com/yuaajb47 SEPT 10
@@ -595,7 +607,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] PyCon Uganda 2024 -  https://ug.pycon.org/2024 9-13 OCT
 - [ ] WTO Young Traders - https://tinyurl.com/3a2ckb8t JUNE 30
 - [ ] REMOTE ROLES - SITES - https://tinyurl.com/4e3e5srf
-- [ ] 
+- [ ] GenAi meetup Uganda https://lu.ma/b181l997 JULY 26
 - [ ] 
 
 ## Reads
