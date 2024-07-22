@@ -15,6 +15,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] IEEE R8 AI Research Hub at GITEX - https://tinyurl.com/296hh68x AUG 3
 - [ ] World Usability Design Challenge - https://wudafrica.com/challenge/ AUG 31
 - [ ] ETH Zurich Scholarship 2025 - NOV 20
+- [ ] SDG Digital Gamechangers - https://tinyurl.com/32nbv7xy AUG 6
 - [ ] The WIPO Young Experts Program (YEP) - https://tinyurl.com/54hssrn2 AUG 8
 - [ ] DRILL Call for Applications - https://paradigmhq.org/drill-call-for-applications/ JULY 17
 - [ ] Africa Catalyst Phase 5  - https://tinyurl.com/5xfdpyy7 JULY 25
@@ -116,7 +117,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ]  YPFP-Fellowship - https://tinyurl.com/ytaatu7m - JUNE 4
 - [ ]  A2SV Hackathon, 2024 - https://hackathon.a2sv.org/ JUNE 28
 - [ ]  Twilio Challenge - https://dev.to/challenges/twilio JUNE 12
-- [ ]  Ellison Scholars - https://eit.org/ellisonscholars/ JULY 25
+- [ ]  Ellison Scholars - https://eit.org/ellisonscholars/ AUG 15
 - [ ]  AFSE 2025 Fellowship https://www.socialequity.atlanticfellows.org/apply JULY 25
 - [ ]  Climate Justice Camp in Tanzania - https://tinyurl.com/mvhfn78c JULY 1
 - [ ]  PDMA Chapter https://www.pdma.org/page/PDMA_chapters - July 15
