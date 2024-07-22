@@ -46,6 +46,8 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Youth Action Day - https://tinyurl.com/362tknx3 JULY 11
 - [ ] ImpactAI Scholarship - https://tinyurl.com/2p9j5ywv JULY 29
 - [ ] I4G Marketing Scholarship - https://tinyurl.com/5ca39krx AUG 07
+- [ ] Canva AI - https://tinyurl.com/3b7a76hv AUG 3
+- [ ] Constellation Metagraph - https://tinyurl.com/47h4at4y AUG 25
 - [ ] Airbus Scholarship 2024 - https://www.oneyoungworld.com/scholarships/airbus/2024 JULY 29
 - [ ] Milestone Makers https://tinyurl.com/mr46h2dw JULY 27
 - [ ] MSME FORUM https://msmeforum.africa/ JULY 24
