@@ -108,6 +108,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ]  Global E-STEM Award - https://naaee.submittable.com/submit JULY 5
 - [ ]  IHL ESSAY - https://tinyurl.com/5ffknh6w JUNE 28
 - [ ]  Global Changemaker Fellowship - https://gccnetwork.org/gcf/ JULY 10
+- [ ]  UN SDSN  - https://www.sdsnyouth.org/initiatives/sdg-students-program 20 SEPT
 - [ ]  TotalEnergies Startupper https://startupper.totalenergies.com/en - JUNE 15
 - [ ]  FIT4Mentorship Programme https://bongohive.co.zm/fit4mentorship/ MAY 31
 - [ ]  WFP Accelerator - https://innovation.wfp.org/ OPEN
