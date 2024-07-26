@@ -15,6 +15,8 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] IEEE R8 AI Research Hub at GITEX - https://tinyurl.com/296hh68x AUG 3
 - [ ] World Usability Design Challenge - https://wudafrica.com/challenge/ AUG 31
 - [ ] ETH Zurich Scholarship 2025 - NOV 20
+- [ ] African Social Innovation Fellowship https://dotakeaction.org/asif/ 29 JULY
+- [ ] Commonwealth Professional Fellowships https://tinyurl.com/bdhkzahj AUG 2
 - [ ] SDG Digital Gamechangers - https://tinyurl.com/32nbv7xy AUG 6
 - [ ] The WIPO Young Experts Program (YEP) - https://tinyurl.com/54hssrn2 AUG 8
 - [ ] DRILL Call for Applications - https://paradigmhq.org/drill-call-for-applications/ JULY 17
@@ -24,9 +26,11 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Falcon Hackathon - https://lablab.ai/event/falcon-hackathon JULY 24
 - [ ] Groundbreaker Talents - https://form.jotform.com/230782074011042 JULY 25
 - [ ] SIA - https://apply.socialimpactaward.net/uganda/ AUG 1
+- [ ] Digital ID Hackathon Africa - https://hackid-africa.devpost.com/ AUG 4
 - [ ] Wordcamp Jinja 2024 https://tinyurl.com/3xtxr2af AUG 20
 - [ ] The Africa Law Tech Fest - https://www.africalawtech.com/#/tickets?lang=en AUG 22
 - [ ] PLAI https://tinyurl.com/mrm36ahy JULY 20
+- [ ] Movement Leader Fellowship  https://tinyurl.com/5tpm5cyc AUG 26
 - [ ] YET4H https://tinyurl.com/4p47be5u JULY 26
 - [ ] WHRD and Feminist Bloggers https://tinyurl.com/46nyc3my AUG 21
 - [ ] AFCIA - https://tinyurl.com/4pkyu9hu JULY 30
@@ -38,8 +42,13 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Commonwealth Professional Fellowships https://tinyurl.com/bdhkzahj AUG 1
 - [ ] SJ Fellowships - https://www.socialjusticeleadership.org/fellowships AUG 26
 - [ ] GYM - https://tinyurl.com/38s5weue JULY 16
+- [ ] UNECA FELLOWSHIP https://www.uneca.org/node/423 AUG 14
+- [ ] XR Mentorship Program - https://xrinclusion.org/xr-mentorship-program/ JULY 30
+- [ ] HELLO TOMORROW - https://tinyurl.com/32ewrbja SEPT 10
 - [ ] AI Call for Essays - https://tinyurl.com/ymax2d86 AUG 19
 - [ ] Mercy Corps AI Soltns - https://tinyurl.com/47n42er9 JULY 16
+- [ ] HCDExchange Youth Spotlight - https://tinyurl.com/29prxd7e 05TH AUG
+- [ ] (AFC) Fellowship - https://tinyurl.com/yc74abru SEPT 3
 - [ ] Journey to the Boardroom - https://jtboardroom.org/ JULY 15
 - [ ] Climate Finance Academy - https://tinyurl.com/yc2nnppv JULY 17
 - [ ] HEY Campaign - https://tinyurl.com/33wws7ep JULY 31
@@ -50,11 +59,17 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Digital ID Hackathon Africa - https://hackid-africa.devpost.com/ AUG 1
 - [ ] XR Mentorship Program - https://tinyurl.com/ync4vu4s JULY 29
 - [ ] Hello Tomorrow - https://tinyurl.com/yc29unkz SEPT 10
+- [ ] (GORILLA) 2024 - https://gorilla.mak.ac.ug/ 15 AUG
 - [ ] Canva AI - https://tinyurl.com/3b7a76hv AUG 3
 - [ ] Constellation Metagraph - https://tinyurl.com/47h4at4y AUG 25
+- [ ] HUMAN PROTOTYPES - https://tinyurl.com/3yr43uk4 AUG 2
+- [ ] Eco-Champions - https://tinyurl.com/hksue739  AUG 12
 - [ ] Airbus Scholarship 2024 - https://www.oneyoungworld.com/scholarships/airbus/2024 JULY 29
 - [ ] Milestone Makers https://tinyurl.com/mr46h2dw JULY 27
 - [ ] MSME FORUM https://msmeforum.africa/ JULY 24
+- [ ] FUTURE 4 NATURE http://opd.to/3WAZJqI AUG 16
+- [ ] Postman Student API - https://tinyurl.com/bdhsvk6w ANY TIME
+- [ ] 
 - [ ] ICANN81 Annual General Meeting https://meetings.icann.org/en/meetings/icann81/ NOV 1
 - [ ] The Geomundus Conference - https://geomundus.org/2024/submission.html JULY 26
 - [ ] Devcon Scholars Program - https://blog.ethereum.org/2024/06/07/devcon7-scholars JULY 6
@@ -509,6 +524,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Internships with FES Uganda https://uganda.fes.de/about/internships-with-fes-uganda
 - [ ] MINISTRY OF GENDER, LABOUR AND SOCIAL DEVELOPMENT INTERNS - https://mglsd.go.ug/internship/
 - [ ] UBOS - https://www.ubos.org/internship/
+- [ ] WILSON INTERNS - https://tinyurl.com/bveee6ry 29TH JULY 
 - [ ] UN Careers - https://uncareer.net/country/Uganda/city/Kampala
 - [ ] BOA - https://boauganda.com/service/jobs-and-internships-application/
 - [ ] Total Energies - https://totalenergies.ug/internships
@@ -612,7 +628,11 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] ZINDI - https://zindi.africa/competitions/adbot-ad-engagement-forecasting-challenge 15 MAY
 - [ ] UG DEV SUMMIT https://ugdevsummit.io/summit-program/ 18TH JULY
 - [ ] BLOCKCHAIN DEVFEST https://devfestkampala.com/-  SAT 29 JUNE
+- [ ] Global AI Summit https://c4ir.rw/global-ai-summit-on-africa/ 7TH OCT
+- [ ] INTEL VISION SEPT 15
+- [ ] ICT SUMMIT - https://summit.ictau.ug/ 09TH SEPT
 - [ ] Google IO MBARARA - https://tinyurl.com/5judm8zt JULY 13
+- [ ] 
 - [ ] PyCon Uganda 2024 -  https://ug.pycon.org/2024 9-13 OCT
 - [ ] WTO Young Traders - https://tinyurl.com/3a2ckb8t JUNE 30
 - [ ] REMOTE ROLES - SITES - https://tinyurl.com/4e3e5srf
@@ -649,9 +669,13 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] How To Get Startup Ideas https://paulgraham.com/startupideas.html
 - [ ] Bitcoin is not a threat, it is a boon https://hackernoon.com/bitcoin-is-not-a-threat-it-is-a-boon-d2218a823db7
 - [ ] PROMPT ENGINEERING - https://tinyurl.com/43vm744w
+- [ ] MR PING https://freedium.cfd/https://medium.com/@yumaueno/chinese-developer-mr-ping-who-earns-25-5k-per-month-fc3dd096fd5c
+- [ ] 
 
 ## WEBSITES TO COPY
 - [ ] https://tribevibe.live/campus-ambassador.php
 - [ ] GPT 40 Business Ideas - https://tinyurl.com/pra5236w
+- [ ] ASHU - https://ashujha.xyz/
+- [ ] 
 
 
