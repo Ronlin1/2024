@@ -496,7 +496,10 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] WiDEF https://widef.global/funding/  MAY 3
 - [ ] Microsoft Climate Innovation Fund - https://tinyurl.com/43zvkrnk JUNE 1
 - [ ] JOY GRANTS - https://givingjoygrants.org/grant-application APR 28
-- [ ] Twilio Developer Voices https://tinyurl.com/2annwynv MAY 13
+- [ ] Twilio Developer Voices https://tinyurl.com/2annwynv AUG 5
+- [ ] Climate Change AI Innovation - https://tinyurl.com/283583fh SEPT 3
+- [ ] Innovate Africa Fund - https://tinyurl.com/3ev67bty AUG 9
+- [ ] Agri-SME Program Seed Lab - https://tinyurl.com/mtbssvdv AUG 3
 - [ ] Sustainable Energy Accelerator https://tinyurl.com/55bju5ev APR 24
 - [ ] YID Fellowship https://impacttoolbox.org/yidfellowship/
 - [ ] The Atlantic Dialogues Emerging Leaders https://tinyurl.com/5n6dww47 JUNE 10
