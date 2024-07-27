@@ -45,9 +45,11 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Commonwealth Professional Fellowships https://tinyurl.com/bdhkzahj AUG 1
 - [ ] SJ Fellowships - https://www.socialjusticeleadership.org/fellowships AUG 26
 - [ ] GYM - https://tinyurl.com/38s5weue JULY 16
+- [ ] SPC Founder Fellowship - https://tinyurl.com/mubtayz9 AUG 4
 - [ ] UNECA FELLOWSHIP https://www.uneca.org/node/423 AUG 14
 - [ ] XR Mentorship Program - https://xrinclusion.org/xr-mentorship-program/ JULY 30
 - [ ] HELLO TOMORROW - https://tinyurl.com/32ewrbja SEPT 10
+- [ ] Global Youth Climate Training - https://tinyurl.com/2p8fjmh3 AUG 7
 - [ ] AI Call for Essays - https://tinyurl.com/ymax2d86 AUG 19
 - [ ] Mercy Corps AI Soltns - https://tinyurl.com/47n42er9 JULY 16
 - [ ] HCDExchange Youth Spotlight - https://tinyurl.com/29prxd7e 05TH AUG
@@ -72,7 +74,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] MSME FORUM https://msmeforum.africa/ JULY 24
 - [ ] FUTURE 4 NATURE http://opd.to/3WAZJqI AUG 16
 - [ ] Postman Student API - https://tinyurl.com/bdhsvk6w ANY TIME
-- [ ] 
+- [ ] AUDA-NEPAD Competition - https://tinyurl.com/58bpcsm7 AUG 25
 - [ ] ICANN81 Annual General Meeting https://meetings.icann.org/en/meetings/icann81/ NOV 1
 - [ ] The Geomundus Conference - https://geomundus.org/2024/submission.html JULY 26
 - [ ] Devcon Scholars Program - https://blog.ethereum.org/2024/06/07/devcon7-scholars JULY 6
@@ -99,6 +101,8 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] YSAU - https://mail.google.com/mail/u/0/#all/FMfcgzQVxRCkgRbCmPqQgvFQfNPkzxnF JULY 25
 - [ ] https://github.com/SummerOfBitcoin/code-challenge-2024-Ronlin1 APR 20
 - [ ] SOBTC PROPOSAL - 30 MAR
+- [ ] Food Chain Innovation - https://tinyurl.com/2c55t545 SEPT 20
+- [ ] EIT Food Challenge - https://tinyurl.com/2v9rrz2c 15 DEC
 - [ ] AFRICA PRIZE ENGINEERING - https://africaprize.raeng.org.uk/ SEPT 30
 - [ ] Unipod Innovation Diagnostic - https://tinyurl.com/7f36dujn  JULY 3
 - [ ] Global Innovation Challenge https://tinyurl.com/k6ztrvrr JULY 10
@@ -111,6 +115,9 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ]  Opportunities Are Here'- Season 2 - https://tinyurl.com/2s3z85ut 31 JULY
 - [ ]  Enterprise African Network Fellowship Programme https://msmeforum.africa/ JULY 22
 - [ ]  LCOY Uganda 2024 https://tinyurl.com/3z8bprh5 JULY 14
+- [ ]  The Royal Society Entrepreneur in Residence - https://tinyurl.com/56pvpz6n SEPT 11
+- [ ]  EWC 2024 - https://www.genglobal.org/ewc/ JULY 30
+- [ ]  
 - [ ]  SOCIAL IMPACT AWARDS - https://apply.socialimpactaward.net/uganda/ AUG 1
 - [ ]  Generative AI to quantify uncertainty in weather - https://tinyurl.com/yckx3khh
 - [ ]  Using AI to expand global access to reliable flood forecasts - https://tinyurl.com/bdzck94b
