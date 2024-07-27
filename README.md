@@ -12,6 +12,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Global Innovation Fund, - https://tinyurl.com/4js8bbh8 AUG 5
 - [ ] FALCON AI - https://lablab.ai/event/falcon-hackathon AUG 2
 - [ ] Climate Finance Academy 2 - https://tinyurl.com/452a6ft3 JULY 26
+- [ ] GeoMundus 2024! https://tinyurl.com/yft38cfd AUG 1 
 - [ ] Twilio’s AI Startup Searchlight 2.0 https://tinyurl.com/5n7tdkak SEPT 10
 - [ ] Student Energy Chapters Program - MAR 20 (MAIL)
 - [ ] IEEE R8 AI Research Hub at GITEX - https://tinyurl.com/296hh68x AUG 3
