@@ -30,7 +30,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Falcon Hackathon - https://lablab.ai/event/falcon-hackathon JULY 24
 - [ ] Groundbreaker Talents - https://form.jotform.com/230782074011042 JULY 25
 - [ ] SIA - https://apply.socialimpactaward.net/uganda/ AUG 1
-- [ ] Digital ID Hackathon Africa - https://hackid-africa.devpost.com/ AUG 4
+- [ ] Digital ID Hackathon Africa - https://hackid-africa.devpost.com/ AUG 7
 - [ ] Wordcamp Jinja 2024 https://tinyurl.com/3xtxr2af AUG 20
 - [ ] The Africa Law Tech Fest - https://www.africalawtech.com/#/tickets?lang=en AUG 22
 - [ ] PLAI https://tinyurl.com/mrm36ahy JULY 20
