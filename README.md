@@ -16,6 +16,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Student Energy Chapters Program - MAR 20 (MAIL)
 - [ ] IEEE R8 AI Research Hub at GITEX - https://tinyurl.com/296hh68x AUG 3
 - [ ] World Usability Design Challenge - https://wudafrica.com/challenge/ AUG 31
+- [ ] LIMITLESS PHASE 3  https://tinyurl.com/3strthhj AUG 18
 - [ ] ETH Zurich Scholarship 2025 - NOV 20
 - [ ] African Social Innovation Fellowship https://dotakeaction.org/asif/ 29 JULY
 - [ ] Commonwealth Professional Fellowships https://tinyurl.com/bdhkzahj AUG 2
