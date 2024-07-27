@@ -648,6 +648,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] https://www.free-ebooks.net/poetry/The-Woman
 - [ ] https://www.free-ebooks.net/excerpt/Becoming-Your-Best-Self
 - [ ] https://www.free-ebooks.net/psychology/Failed-Intellect-Successful-Criminality-Doomed-Humanity
+- [ ] BTC IS HERE TO STAY https://hackernoon.com/bitcoin-is-not-a-threat-it-is-a-boon-d2218a823db7
 
 
 ## Ambassadorships
