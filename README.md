@@ -27,6 +27,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] DRILL Call for Applications - https://paradigmhq.org/drill-call-for-applications/ JULY 17
 - [ ] Africa Catalyst Phase 5  - https://tinyurl.com/5xfdpyy7 JULY 25
 - [ ] SDGs Campus Ambassador - https://tinyurl.com/3awrfsa3 AUG 18
+- [ ] Postman API Fundamentals https://tinyurl.com/ycmtxjca SEPT 15
 - [ ] Hult Prize - https://www.hultprize.org/cd-application/ JULY 17
 - [ ] Falcon Hackathon - https://lablab.ai/event/falcon-hackathon JULY 24
 - [ ] Groundbreaker Talents - https://form.jotform.com/230782074011042 JULY 25
