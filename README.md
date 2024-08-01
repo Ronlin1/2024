@@ -692,7 +692,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Bitcoin is not a threat, it is a boon https://hackernoon.com/bitcoin-is-not-a-threat-it-is-a-boon-d2218a823db7
 - [ ] PROMPT ENGINEERING - https://tinyurl.com/43vm744w
 - [ ] MR PING https://freedium.cfd/https://medium.com/@yumaueno/chinese-developer-mr-ping-who-earns-25-5k-per-month-fc3dd096fd5c
-- [ ] 
+- [ ] 18 Superstitions from Around the World - https://tinyurl.com/bde4j5wx
 
 ## WEBSITES TO COPY
 - [ ] https://tribevibe.live/campus-ambassador.php
