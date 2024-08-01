@@ -29,7 +29,10 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] SDGs Campus Ambassador - https://tinyurl.com/3awrfsa3 AUG 18
 - [ ] Postman API Fundamentals https://tinyurl.com/ycmtxjca SEPT 15
 - [ ] Hult Prize - https://www.hultprize.org/cd-application/ JULY 17
+- [ ] GitHub Campus Expert - https://tinyurl.com/yvkv4heh AUG 13
+- [ ] GitHub Campus Expert Experience Article - https://tinyurl.com/5n8d26x8  AUG 13
 - [ ] Falcon Hackathon - https://lablab.ai/event/falcon-hackathon JULY 24
+- [ ] Build Better on Stellar - https://dev.to/challenges/stellar AUG 8
 - [ ] Groundbreaker Talents - https://form.jotform.com/230782074011042 JULY 25
 - [ ] SIA - https://apply.socialimpactaward.net/uganda/ AUG 1
 - [ ] Digital ID Hackathon Africa - https://hackid-africa.devpost.com/ AUG 7
