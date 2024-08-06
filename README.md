@@ -62,6 +62,11 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] XR Mentorship Program - https://xrinclusion.org/xr-mentorship-program/ JULY 30
 - [ ] HELLO TOMORROW - https://tinyurl.com/32ewrbja SEPT 10
 - [ ] Global Youth Climate Training - https://tinyurl.com/2p8fjmh3 AUG 7
+- [ ] Green Fellows Program - https://greeninstitute.ng/fellows AUG 20
+- [ ] Coding Bits' Large-Scale International Hackathon - https://tinyurl.com/y3x9rjh2 AUG 20
+- [ ] IEEE XTREME - https://xtreme.vtools.ieee.org/tego_/teams/new AUG 18
+- [ ] 
+- [ ] COP29 Youth Delegates - https://tinyurl.com/2p9yxcdk AUG 27 
 - [ ] AI Call for Essays - https://tinyurl.com/ymax2d86 AUG 19
 - [ ] Mercy Corps AI Soltns - https://tinyurl.com/47n42er9 JULY 16
 - [ ] HCDExchange Youth Spotlight - https://tinyurl.com/29prxd7e 05TH AUG
