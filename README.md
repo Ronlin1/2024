@@ -11,7 +11,9 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] NOAA Young Changemakers https://tinyurl.com/3fcd474s JUNE 5
 - [ ] Global Youth Climate https://tinyurl.com/ywenwhmm AUG 6
 - [ ] Global Innovation Fund, - https://tinyurl.com/4js8bbh8 SEPT 15
+- [ ] Fast Forward Accelerator - https://www.ffwd.org/accelerator/ SEP 4
 - [ ] FALCON AI - https://lablab.ai/event/falcon-hackathon AUG 2
+- [ ] EQUALS in Tech Awards https://www.equalsintech.org/awards AUG 27
 - [ ] Climate Finance Academy 2 - https://tinyurl.com/452a6ft3 JULY 26
 - [ ] GeoMundus 2024! https://tinyurl.com/yft38cfd AUG 1 
 - [ ] Twilio’s AI Startup Searchlight 2.0 https://tinyurl.com/5n7tdkak SEPT 10
@@ -27,6 +29,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] DRILL Call for Applications - https://paradigmhq.org/drill-call-for-applications/ JULY 17
 - [ ] Africa Catalyst Phase 5  - https://tinyurl.com/5xfdpyy7 JULY 25
 - [ ] SDGs Campus Ambassador - https://tinyurl.com/3awrfsa3 AUG 18
+- [ ] Innovation Fellowships  - https://tinyurl.com/jhru8hcn  NOV 15
 - [ ] Postman API Fundamentals https://tinyurl.com/ycmtxjca SEPT 15
 - [ ] Hult Prize - https://www.hultprize.org/cd-application/ JULY 17
 - [ ] GitHub Campus Expert - https://tinyurl.com/yvkv4heh AUG 13
