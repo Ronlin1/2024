@@ -551,7 +551,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] SMART CDR - https://www.herox.com/SMARTCDR AUG 25
   
 ## Scholarships
-- [ ] Chavening -
+- [ ] Chavening - https://www.chevening.org/apply/ - https://tinyurl.com/bdemehmu SEPT 15
 - [ ] 
 
 ## Jobs & Gigs & Internships
