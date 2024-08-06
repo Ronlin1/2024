@@ -33,6 +33,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] GitHub Campus Expert Experience Article - https://tinyurl.com/5n8d26x8  AUG 13
 - [ ] Falcon Hackathon - https://lablab.ai/event/falcon-hackathon JULY 24
 - [ ] Build Better on Stellar - https://dev.to/challenges/stellar AUG 8
+- [ ] Youth Interfaith Leaders Fellowship on Climate Change  - https://tinyurl.com/jn8ebtpc AUG 26
 - [ ] Groundbreaker Talents - https://form.jotform.com/230782074011042 JULY 25
 - [ ] SIA - https://apply.socialimpactaward.net/uganda/ AUG 1
 - [ ] Digital ID Hackathon Africa - https://hackid-africa.devpost.com/ AUG 7
