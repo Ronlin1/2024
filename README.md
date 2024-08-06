@@ -205,10 +205,16 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ]  https://opportunitiesandcareers.com/2024/02/02/oecd-internship-programme/
 - [ ]  https://www.unesco.org/en/articles/unesco-opens-call-ipdc-project-proposals-2024
 - [ ]  https://grants.mfa.no/#call/3441/details
-- [ ] 
+- [ ]  DTH Lab - https://tinyurl.com/4bcaupds AUG 13
 - [ ]  https://indico.ictp.it/event/10494
 - [ ]  https://www.afox.ox.ac.uk/afox-catalyst-grants
 - [ ]  ARC Prize 2024 https://www.kaggle.com/competitions/arc-prize-2024/overview AUG 28
+- [ ]  The EPIC Air Quality Fund https://tinyurl.com/2vt3d2p8 SEPT 3
+- [ ]  Commonwealth Innovative Youth Essay https://tinyurl.com/ytmvpzw7 AUG 13
+- [ ]  Savvy Fellows - https://savvyfellows.com/ AUG 17
+- [ ]  Lwera Innovation Catalyst Fund - https://tinyurl.com/4k69ku94 AUG 15
+- [ ]  Purpose Earth Grants - https://www.purposeearth.org/apply-for-a-grant AUG 22
+- [ ]  Catapult: Inclusion Africa - https://tinyurl.com/2wvs6jse SEPT 3
 
 - [ ] https://hackp.ac/address MLH SWAG
 - [ ] Chegg student Award https://varkeyfoundation.awardsplatform.com/ - 25th APRIL
@@ -539,7 +545,9 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] WSA Young Innovators - https://tinyurl.com/ycxb87xs  OCT 1
 - [ ] SMART CDR - https://www.herox.com/SMARTCDR AUG 25
   
-
+## Scholarships
+- [ ] Chavening -
+- [ ] 
 
 ## Jobs & Gigs & Internships
 - [ ] UNHCR
@@ -657,7 +665,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] INTEL VISION SEPT 15
 - [ ] ICT SUMMIT - https://summit.ictau.ug/ 09TH SEPT
 - [ ] Google IO MBARARA - https://tinyurl.com/5judm8zt JULY 13
-- [ ] 
+- [ ] East Africa Internet Governance Forum (2024) - https://eaigf.sched.com/ AUG 30
 - [ ] PyCon Uganda 2024 -  https://ug.pycon.org/2024 9-13 OCT
 - [ ] WTO Young Traders - https://tinyurl.com/3a2ckb8t JUNE 30
 - [ ] REMOTE ROLES - SITES - https://tinyurl.com/4e3e5srf
