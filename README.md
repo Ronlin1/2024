@@ -65,7 +65,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Green Fellows Program - https://greeninstitute.ng/fellows AUG 20
 - [ ] Coding Bits' Large-Scale International Hackathon - https://tinyurl.com/y3x9rjh2 AUG 20
 - [ ] IEEE XTREME - https://xtreme.vtools.ieee.org/tego_/teams/new SEPT 05
-- [ ] 
+- [ ] NASA Space Apps Challenge Kampala https://tinyurl.com/bd728npx AUG 16
 - [ ] COP29 Youth Delegates - https://tinyurl.com/2p9yxcdk AUG 27 
 - [ ] AI Call for Essays - https://tinyurl.com/ymax2d86 AUG 19
 - [ ] Mercy Corps AI Soltns - https://tinyurl.com/47n42er9 JULY 16
@@ -75,11 +75,15 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Climate Finance Academy - https://tinyurl.com/yc2nnppv JULY 17
 - [ ] HEY Campaign - https://tinyurl.com/33wws7ep JULY 31
 - [ ] Youth Action Day - https://tinyurl.com/362tknx3 JULY 11
+- [ ] IPBES Youth Workshop 2024 - https://www.ipbes.net/ipbes-youth-workshop-2024 SEPT 3
 - [ ] ImpactAI Scholarship - https://tinyurl.com/2p9j5ywv JULY 29
+- [ ] Africa Climate Mobility Youth Survey - https://tinyurl.com/2v4nwxu5 AUG 26
+- [ ] Moonshot Awards - https://tinyurl.com/2f8pu4by SEPT 1
 - [ ] I4G Marketing Scholarship - https://tinyurl.com/5ca39krx AUG 07
 - [ ] Africa Sustainability News Room - https://tinyurl.com/yck528y4 AUG 20
 - [ ] Digital ID Hackathon Africa - https://hackid-africa.devpost.com/ AUG 1
 - [ ] XR Mentorship Program - https://tinyurl.com/ync4vu4s JULY 29
+- [ ] UN VolunteerS - https://app.unv.org/ ROLLING BASIS
 - [ ] Hello Tomorrow - https://tinyurl.com/yc29unkz SEPT 10
 - [ ] (GORILLA) 2024 - https://gorilla.mak.ac.ug/ 15 AUG
 - [ ] Canva AI - https://tinyurl.com/3b7a76hv AUG 3
@@ -552,7 +556,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
   
 ## Scholarships
 - [ ] Chavening - https://www.chevening.org/apply/ - https://tinyurl.com/bdemehmu SEPT 15
-- [ ] 
+- [ ] NL Scholarship - https://tinyurl.com/b7jdyye9 AUG 29
 
 ## Jobs & Gigs & Internships
 - [ ] UNHCR
