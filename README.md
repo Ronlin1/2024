@@ -14,6 +14,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Global Youth Climate https://tinyurl.com/ywenwhmm AUG 6
 - [ ] Global Innovation Fund, - https://tinyurl.com/4js8bbh8 SEPT 15
 - [ ] Fast Forward Accelerator - https://www.ffwd.org/accelerator/ SEP 4
+- [ ] Announce -- OutreachY - https://tinyurl.com/3je2j769 AUG 20
 - [ ] FALCON AI - https://lablab.ai/event/falcon-hackathon AUG 2
 - [ ] EQUALS in Tech Awards https://www.equalsintech.org/awards AUG 27
 - [ ] Climate Finance Academy 2 - https://tinyurl.com/452a6ft3 JULY 26
