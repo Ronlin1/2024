@@ -9,6 +9,8 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] UPCOMING - https://devpost.com/hackathons
 - [ ] Reversing Environmental Degradation in Africa and Asia - https://www.redaa.org/grant-call-2 -JUN 25
 - [ ] NOAA Young Changemakers https://tinyurl.com/3fcd474s JUNE 5
+- [ ] FlutterFlow AI - https://hackathon.ffdc.io/ AUG 21
+- [ ] Climate Content Creators Workshop - https://tinyurl.com/32b3p9m4 AUG 14
 - [ ] Global Youth Climate https://tinyurl.com/ywenwhmm AUG 6
 - [ ] Global Innovation Fund, - https://tinyurl.com/4js8bbh8 SEPT 15
 - [ ] Fast Forward Accelerator - https://www.ffwd.org/accelerator/ SEP 4
@@ -22,12 +24,16 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] World Usability Design Challenge - https://wudafrica.com/challenge/ AUG 31
 - [ ] LIMITLESS PHASE 3  https://tinyurl.com/3strthhj AUG 18
 - [ ] ETH Zurich Scholarship 2025 - NOV 20
+- [ ] EMPOWER360 - https://tinyurl.com/y47a83n8 AUG 27
+- [ ] WCRP 2024 https://tinyurl.com/wtatps7v SEPT 18
+- [ ] The World Around Young Climate Prize - https://theworldaround.com/ycp/ 
 - [ ] African Social Innovation Fellowship https://dotakeaction.org/asif/ 29 JULY
 - [ ] Commonwealth Professional Fellowships https://tinyurl.com/bdhkzahj AUG 2
 - [ ] SDG Digital Gamechangers - https://tinyurl.com/32nbv7xy AUG 6
 - [ ] The WIPO Young Experts Program (YEP) - https://tinyurl.com/54hssrn2 AUG 8
 - [ ] DRILL Call for Applications - https://paradigmhq.org/drill-call-for-applications/ JULY 17
 - [ ] Africa Catalyst Phase 5  - https://tinyurl.com/5xfdpyy7 JULY 25
+- [ ] Call for Tech Events Speakers - https://tinyurl.com/2yhxtrta AUG 18
 - [ ] SDGs Campus Ambassador - https://tinyurl.com/3awrfsa3 AUG 18
 - [ ] Innovation Fellowships  - https://tinyurl.com/jhru8hcn  NOV 15
 - [ ] Postman API Fundamentals https://tinyurl.com/ycmtxjca SEPT 15
@@ -72,9 +78,11 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] HCDExchange Youth Spotlight - https://tinyurl.com/29prxd7e 05TH AUG
 - [ ] (AFC) Fellowship - https://tinyurl.com/yc74abru SEPT 3
 - [ ] Journey to the Boardroom - https://jtboardroom.org/ JULY 15
+- [ ] 2024 YPP - https://tinyurl.com/4xxrfk72 10 SEPT
 - [ ] Climate Finance Academy - https://tinyurl.com/yc2nnppv JULY 17
 - [ ] HEY Campaign - https://tinyurl.com/33wws7ep JULY 31
 - [ ] Youth Action Day - https://tinyurl.com/362tknx3 JULY 11
+- [ ] African Climate Change Adaptation - https://tinyurl.com/8y5ehmud SEPT 11 
 - [ ] IPBES Youth Workshop 2024 - https://www.ipbes.net/ipbes-youth-workshop-2024 SEPT 3
 - [ ] ImpactAI Scholarship - https://tinyurl.com/2p9j5ywv JULY 29
 - [ ] Africa Climate Mobility Youth Survey - https://tinyurl.com/2v4nwxu5 AUG 26
@@ -557,6 +565,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 ## Scholarships
 - [ ] Chavening - https://www.chevening.org/apply/ - https://tinyurl.com/bdemehmu SEPT 15
 - [ ] NL Scholarship - https://tinyurl.com/b7jdyye9 AUG 29
+- [ ] International Parliamentary Scholarships https://tinyurl.com/5avffye8 - AUG 24
 
 ## Jobs & Gigs & Internships
 - [ ] UNHCR
