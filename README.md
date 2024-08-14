@@ -472,7 +472,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] PyCon Uganda 2024 CFP - https://tinyurl.com/yj6d555y APR 25
 - [ ] African Impact Challenge - https://tinyurl.com/3twjvyse APR 13
 - [ ] IEP Ambassador Program - https://tinyurl.com/bdzatnmb MAR 24
-- [ ] MANDELA Fellowship Resources - https://www.mandelawashingtonfellowship.org/resources/
+- [ ] MANDELA Fellowship Resources - https://apply.mandelawashingtonfellowship.org/Account/Login
 - [ ] Canada Africa Innovation Fellowship - https://ewb.applytojobs.ca/caif/22650 MAR 25
 - [ ] Cadence - https://www.cadence.com/en_US/home/company/careers.html
 - [ ] Responsible and Ethical AI - https://tinyurl.com/ywvmp5e9 MAR 26
