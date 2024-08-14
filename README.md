@@ -709,7 +709,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ]  Yale Young Global Scholars Fellowship  https://apply.globalscholars.yale.edu/
 - [ ]  GDSC LEAD - https://developers.google.com/community/gdsc/leads  25 MAR
 - [ ]  TFF AMBASSADOR - https://tinyurl.com/4fxakmw2 2025 JAN 01
-- [ ]  Mandela Washington Fellowship - https://www.mandelawashingtonfellowship.org/apply/ AUG 20
+- [ ]  Mandela Washington Fellowship - https://apply.mandelawashingtonfellowship.org/Account/Login AUG 20
 - [ ]  World Engineering Day Hackathon 2025
 - [ ]  CyberTalents Ambassadors - https://cybertalents.com/ambassadors APR 17
 - [ ]  IEEE Scholarship - https://tinyurl.com/62fkj8h3 20 AUG
