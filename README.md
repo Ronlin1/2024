@@ -73,7 +73,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Green Fellows Program - https://greeninstitute.ng/fellows AUG 20
 - [ ] Coding Bits' Large-Scale International Hackathon - https://tinyurl.com/y3x9rjh2 AUG 20
 - [ ] IEEE XTREME - https://xtreme.vtools.ieee.org/tego_/teams/new SEPT 05
-- [ ] NASA Space Apps Challenge Kampala https://tinyurl.com/bd728npx AUG 16
+- [ ] NASA Space Apps Challenge Kampala https://tinyurl.com/bd728npx AUG 20
 - [ ] COP29 Youth Delegates - https://tinyurl.com/2p9yxcdk AUG 27 
 - [ ] AI Call for Essays - https://tinyurl.com/ymax2d86 AUG 19
 - [ ] Mercy Corps AI Soltns - https://tinyurl.com/47n42er9 JULY 16
