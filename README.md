@@ -52,6 +52,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] The Africa Law Tech Fest - https://www.africalawtech.com/#/tickets?lang=en AUG 22
 - [ ] PLAI https://tinyurl.com/mrm36ahy JULY 20
 - [ ] Movement Leader Fellowship  https://tinyurl.com/5tpm5cyc AUG 26
+- [ ] EWC Top 250 https://tinyurl.com/4zr552fx AUG 22
 - [ ] YET4H https://tinyurl.com/4p47be5u JULY 26
 - [ ] WHRD and Feminist Bloggers https://tinyurl.com/46nyc3my AUG 21
 - [ ] AFCIA - https://tinyurl.com/4pkyu9hu JULY 30
