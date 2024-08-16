@@ -3,7 +3,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 
 -- The dates on each link refer to the respective deadlines. The dates I use here are usually a few days to the actual deadline to give you some time to prep for the opportunity you are applying for. Try to see/read eligibility first...
 
-## Hackathons & Competitions
+## Hackathons, Competitions + Fellowships
 - [ ] UPCOMING - https://www.openhackathons.org/s/upcoming-events
 - [ ] UPCOMING - https://mlh.io/seasons/2024/events
 - [ ] UPCOMING - https://devpost.com/hackathons
@@ -40,7 +40,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] The Dell STEM Aspire Mentorship Program - https://tinyurl.com/y335s83p SEPT 15
 - [ ] Africa Bitcoin Conference - https://tinyurl.com/mr2p3vdh SEPT 1
 - [ ] IGF 2024 Call for Travel Support https://tinyurl.com/4dcahfjb SEPT 3
-- [ ] 
+- [ ] Melton Foundation SDG Innovation Challenge - https://tinyurl.com/4bw6yhrm AUG 28
 - [ ] WCRP 2024 https://tinyurl.com/wtatps7v SEPT 18
 - [ ] The World Around Young Climate Prize - https://theworldaround.com/ycp/ 
 - [ ] African Social Innovation Fellowship https://dotakeaction.org/asif/ 29 JULY
@@ -163,7 +163,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ]  LCOY Uganda 2024 https://tinyurl.com/3z8bprh5 JULY 14
 - [ ]  The Royal Society Entrepreneur in Residence - https://tinyurl.com/56pvpz6n SEPT 11
 - [ ]  EWC 2024 - https://www.genglobal.org/ewc/ JULY 30
-- [ ]  
+- [ ]  Aftershoot Create Together Fund - https://aftershoot.com/create-together-fund/ AUG 21
 - [ ]  SOCIAL IMPACT AWARDS - https://apply.socialimpactaward.net/uganda/ AUG 1
 - [ ]  Generative AI to quantify uncertainty in weather - https://tinyurl.com/yckx3khh
 - [ ]  Using AI to expand global access to reliable flood forecasts - https://tinyurl.com/bdzck94b
@@ -583,6 +583,7 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Chavening - https://www.chevening.org/apply/ - https://tinyurl.com/bdemehmu SEPT 15
 - [ ] NL Scholarship - https://tinyurl.com/b7jdyye9 AUG 29
 - [ ] International Parliamentary Scholarships https://tinyurl.com/5avffye8 - AUG 24
+- [ ] African Development Bank-Japan - https://tinyurl.com/mr9t8jce SEPT 10
 
 ## Jobs & Gigs & Internships
 - [ ] UNHCR
