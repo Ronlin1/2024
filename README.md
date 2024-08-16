@@ -23,6 +23,13 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] Twilio’s AI Startup Searchlight 2.0 https://tinyurl.com/5n7tdkak SEPT 10
 - [ ] Student Energy Chapters Program - MAR 20 (MAIL)
 - [ ] IEEE R8 AI Research Hub at GITEX - https://tinyurl.com/296hh68x AUG 3
+- [ ] AFYEL - https://afyel.org/ AUG 27
+- [ ] MultiChoice Talent Factory Academy - https://tinyurl.com/3hp5c6sd SEPT 3
+- [ ] MIL Youth Hackathon - https://tinyurl.com/3fd37mz9 AUG 21
+- [ ] The Africa FinTech and AI Awards 2024 - https://fintechandaiawards.com/ AUG 27
+- [ ] GreSFET 2024 - https://gresfet.osc.int/en/about/competitions AUG 27
+- [ ] FFOP Youth Interfaith Leaders - https://faithforourplanet.org/youth-fellowship/ AUG 28
+- [ ] 
 - [ ] World Usability Design Challenge - https://wudafrica.com/challenge/ AUG 31
 - [ ] LIMITLESS PHASE 3  https://tinyurl.com/3strthhj AUG 18
 - [ ] ETH Zurich Scholarship 2025 - NOV 20
