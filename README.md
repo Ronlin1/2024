@@ -29,11 +29,18 @@ Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] The Africa FinTech and AI Awards 2024 - https://fintechandaiawards.com/ AUG 27
 - [ ] GreSFET 2024 - https://gresfet.osc.int/en/about/competitions AUG 27
 - [ ] FFOP Youth Interfaith Leaders - https://faithforourplanet.org/youth-fellowship/ AUG 28
-- [ ] 
+- [ ] Google Conference Scholarships - https://tinyurl.com/3dczebm5 SEPT 05
+- [ ] Llama 3.1 Impact Grants - https://tinyurl.com/mwwj6zre NOV 1
+- [ ] Agrinnovation Summit 1.0 - https://agrinnovationsummit.com/ SEPT 1
+- [ ] Startupbootcamp Energy - https://tinyurl.com/bdz5s44k AUG 20
 - [ ] World Usability Design Challenge - https://wudafrica.com/challenge/ AUG 31
 - [ ] LIMITLESS PHASE 3  https://tinyurl.com/3strthhj AUG 18
 - [ ] ETH Zurich Scholarship 2025 - NOV 20
 - [ ] EMPOWER360 - https://tinyurl.com/y47a83n8 AUG 27
+- [ ] The Dell STEM Aspire Mentorship Program - https://tinyurl.com/y335s83p SEPT 15
+- [ ] Africa Bitcoin Conference - https://tinyurl.com/mr2p3vdh SEPT 1
+- [ ] IGF 2024 Call for Travel Support https://tinyurl.com/4dcahfjb SEPT 3
+- [ ] 
 - [ ] WCRP 2024 https://tinyurl.com/wtatps7v SEPT 18
 - [ ] The World Around Young Climate Prize - https://theworldaround.com/ycp/ 
 - [ ] African Social Innovation Fellowship https://dotakeaction.org/asif/ 29 JULY
