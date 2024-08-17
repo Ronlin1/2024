@@ -55,6 +55,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] IGF 2024 Call for Travel Support https://tinyurl.com/4dcahfjb SEPT 3
 - [ ] Melton Foundation SDG Innovation Challenge - https://tinyurl.com/4bw6yhrm AUG 28
 - [ ] WCRP 2024 https://tinyurl.com/wtatps7v SEPT 18
+- [ ] RevenueCat Ship-a-ton - https://revenuecat-ship-a-ton.devpost.com/resources SEPT 5
 - [ ] The World Around Young Climate Prize - https://theworldaround.com/ycp/ 
 - [ ] African Social Innovation Fellowship https://dotakeaction.org/asif/ 29 JULY
 - [ ] Commonwealth Professional Fellowships https://tinyurl.com/bdhkzahj AUG 2
