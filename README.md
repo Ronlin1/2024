@@ -598,6 +598,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] NL Scholarship - https://tinyurl.com/b7jdyye9 AUG 29
 - [ ] International Parliamentary Scholarships https://tinyurl.com/5avffye8 - AUG 24
 - [ ] African Development Bank-Japan - https://tinyurl.com/mr9t8jce SEPT 10
+- [ ] 25 Scholarships - https://drive.google.com/file/d/1Hr8gWousyUMcp_V7vdMOG5ektMh8_dQf/view 
 
 ## Jobs & Gigs & Internships
 - [ ] UNHCR
