@@ -756,6 +756,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] PROMPT ENGINEERING - https://tinyurl.com/43vm744w
 - [ ] MR PING https://freedium.cfd/https://medium.com/@yumaueno/chinese-developer-mr-ping-who-earns-25-5k-per-month-fc3dd096fd5c
 - [ ] 18 Superstitions from Around the World - https://tinyurl.com/bde4j5wx
+- [ ] MLSA - https://tinyurl.com/2b563nju AUG 26
 
 ## WEBSITES TO COPY
 - [ ] https://tribevibe.live/campus-ambassador.php
