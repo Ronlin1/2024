@@ -49,6 +49,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] World Usability Design Challenge - https://wudafrica.com/challenge/ AUG 31
 - [ ] LIMITLESS PHASE 3  https://tinyurl.com/3strthhj AUG 18
 - [ ] ETH Zurich Scholarship 2025 - NOV 20
+- [ ] UAL Storytelling Fellowship https://tinyurl.com/3j52cfve SEPT 2
 - [ ] EMPOWER360 - https://tinyurl.com/y47a83n8 AUG 27
 - [ ] The Dell STEM Aspire Mentorship Program - https://tinyurl.com/y335s83p SEPT 15
 - [ ] Africa Bitcoin Conference - https://tinyurl.com/mr2p3vdh SEPT 1
