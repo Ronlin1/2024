@@ -766,6 +766,6 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] https://tribevibe.live/campus-ambassador.php
 - [ ] GPT 40 Business Ideas - https://tinyurl.com/pra5236w
 - [ ] ASHU - https://ashujha.xyz/
-- [ ] 
+- [ ] TADHack 2024 - https://tinyurl.com/ycxwk747 SEPT 11
 
 
