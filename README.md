@@ -45,6 +45,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Google Conference Scholarships - https://tinyurl.com/3dczebm5 SEPT 05
 - [ ] Llama 3.1 Impact Grants - https://tinyurl.com/mwwj6zre NOV 1
 - [ ] Agrinnovation Summit 1.0 - https://agrinnovationsummit.com/ SEPT 1
+- [ ] EAC Youth Fellowship - https://portal.youlead.africa/public/events# AUG 27
 - [ ] Startupbootcamp Energy - https://tinyurl.com/bdz5s44k AUG 20
 - [ ] World Usability Design Challenge - https://wudafrica.com/challenge/ AUG 31
 - [ ] LIMITLESS PHASE 3  https://tinyurl.com/3strthhj AUG 18
@@ -55,6 +56,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Africa Bitcoin Conference - https://tinyurl.com/mr2p3vdh SEPT 1
 - [ ] IGF 2024 Call for Travel Support https://tinyurl.com/4dcahfjb SEPT 3
 - [ ] Melton Foundation SDG Innovation Challenge - https://tinyurl.com/4bw6yhrm AUG 28
+- [ ] Accelerate Africa https://tinyurl.com/4n58fmfw SEPT 15
 - [ ] WCRP 2024 https://tinyurl.com/wtatps7v SEPT 18
 - [ ] RevenueCat Ship-a-ton - https://revenuecat-ship-a-ton.devpost.com/resources SEPT 5
 - [ ] The World Around Young Climate Prize - https://theworldaround.com/ycp/ 
@@ -599,7 +601,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] NL Scholarship - https://tinyurl.com/b7jdyye9 AUG 29
 - [ ] International Parliamentary Scholarships https://tinyurl.com/5avffye8 - AUG 24
 - [ ] African Development Bank-Japan - https://tinyurl.com/mr9t8jce SEPT 10
-- [ ] 25 Scholarships - https://drive.google.com/file/d/1Hr8gWousyUMcp_V7vdMOG5ektMh8_dQf/view 
+- [ ] 25 Scholarships - https://drive.google.com/file/d/1Hr8gWousyUMcp_V7vdMOG5ektMh8_dQf/view
+- [ ] Minds Scholarships - https://minds-africa.org/scholarship-program-for-leadership-development/ 
 
 ## Jobs & Gigs & Internships
 - [ ] UNHCR
