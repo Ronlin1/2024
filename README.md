@@ -127,7 +127,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Hello Tomorrow - https://tinyurl.com/yc29unkz SEPT 10
 - [ ] (GORILLA) 2024 - https://gorilla.mak.ac.ug/ 15 AUG
 - [ ] Canva AI - https://tinyurl.com/3b7a76hv AUG 3
-- [ ] Constellation Metagraph - https://tinyurl.com/47h4at4y AUG 25
+- [ ] Constellation Metagraph - https://tinyurl.com/47h4at4y SEPT 1
 - [ ] HUMAN PROTOTYPES - https://tinyurl.com/3yr43uk4 AUG 2
 - [ ] Eco-Champions - https://tinyurl.com/hksue739  AUG 12
 - [ ] Airbus Scholarship 2024 - https://www.oneyoungworld.com/scholarships/airbus/2024 JULY 29
