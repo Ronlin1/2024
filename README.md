@@ -58,6 +58,10 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Melton Foundation SDG Innovation Challenge - https://tinyurl.com/4bw6yhrm AUG 28
 - [ ] Accelerate Africa https://tinyurl.com/4n58fmfw SEPT 15
 - [ ] WCRP 2024 https://tinyurl.com/wtatps7v SEPT 18
+- [ ] Changemakers for the Planet - https://tinyurl.com/yppbvcyt SEPT 11
+- [ ] ICTworks - https://tinyurl.com/yy4sm2x4 SEPT 10
+- [ ] Commonwealth Youth Programme -https://thecommonwealth.org/our-work/youth https://tinyurl.com/jnmfpmhp 10 OCT
+- [ ] https://thecommonwealth.org/our-work/youth CYP 10 OCT
 - [ ] RevenueCat Ship-a-ton - https://revenuecat-ship-a-ton.devpost.com/resources SEPT 5
 - [ ] The World Around Young Climate Prize - https://theworldaround.com/ycp/ 
 - [ ] African Social Innovation Fellowship https://dotakeaction.org/asif/ 29 JULY
