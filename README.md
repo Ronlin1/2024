@@ -269,7 +269,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ]  DTH Lab - https://tinyurl.com/4bcaupds AUG 13
 - [ ]  https://indico.ictp.it/event/10494
 - [ ]  https://www.afox.ox.ac.uk/afox-catalyst-grants
-- [ ]  ARC Prize 2024 https://www.kaggle.com/competitions/arc-prize-2024/overview AUG 28
+- [ ]  ARC Prize 2024 https://www.kaggle.com/competitions/arc-prize-2024/overview SEPT 28
 - [ ]  The EPIC Air Quality Fund https://tinyurl.com/2vt3d2p8 SEPT 3
 - [ ]  Commonwealth Innovative Youth Essay https://tinyurl.com/ytmvpzw7 AUG 13
 - [ ]  Savvy Fellows - https://savvyfellows.com/ AUG 17
@@ -609,7 +609,7 @@ Stay connected and follow me on GitHub for more updates and resources.
   
 ## Scholarships
 - [ ] Chavening - https://www.chevening.org/apply/ - https://tinyurl.com/bdemehmu SEPT 15
-- [ ] NL Scholarship - https://tinyurl.com/b7jdyye9 AUG 29
+- [ ] NL Scholarship - https://tinyurl.com/b7jdyye9 SEPT 07
 - [ ] International Parliamentary Scholarships https://tinyurl.com/5avffye8 - AUG 24
 - [ ] African Development Bank-Japan - https://tinyurl.com/mr9t8jce SEPT 10
 - [ ] 25 Scholarships - https://drive.google.com/file/d/1Hr8gWousyUMcp_V7vdMOG5ektMh8_dQf/view
