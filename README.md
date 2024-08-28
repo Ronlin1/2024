@@ -51,6 +51,11 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] World Usability Design Challenge - https://wudafrica.com/challenge/ AUG 31
 - [ ] LIMITLESS PHASE 3  https://tinyurl.com/3strthhj AUG 18
 - [ ] ETH Zurich Scholarship 2025 - NOV 20
+- [ ] Lacuna Malaria Detection Challenge - https://tinyurl.com/4ntt8mbs 1st NOV
+- [ ] The CAN Data Science Fellowship - https://tinyurl.com/427nv2sb SEPT 3
+- [ ] Youth Interfaith Leaders - https://faithforourplanet.org/youth-fellowship/ AUG 29
+- [ ] SAIS Investment Readiness Programme  - https://tinyurl.com/3puuypb8 AUG 31
+- [ ] 
 - [ ] UAL Storytelling Fellowship https://tinyurl.com/3j52cfve SEPT 2
 - [ ] EMPOWER360 - https://tinyurl.com/y47a83n8 AUG 27
 - [ ] The Dell STEM Aspire Mentorship Program - https://tinyurl.com/y335s83p SEPT 15
@@ -296,6 +301,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] JEDI SCHOLARSHIP - https://ases.org/conference/jedischolarship/ - Feb 15
 - [ ] DHC+ Student Awards - https://www.judgify.me/dhcplus-student-awards 14 FEB
 - [ ] RES4Africa Academy
+- [ ] 
 - [ ] YCJF - Communication Manager - https://forms.gle/cQYq4yuKZFkuABzj7 FEB 14
 - [ ] ECOSOC Youth Forum - https://lnkd.in/dBa8AVX3 FEB 14
 - [ ] Net Zero Scholars - https://www.oneyoungworld.com/scholarships/net-zero/2024 - MAR 29
@@ -607,7 +613,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] International Parliamentary Scholarships https://tinyurl.com/5avffye8 - AUG 24
 - [ ] African Development Bank-Japan - https://tinyurl.com/mr9t8jce SEPT 10
 - [ ] 25 Scholarships - https://drive.google.com/file/d/1Hr8gWousyUMcp_V7vdMOG5ektMh8_dQf/view
-- [ ] Minds Scholarships - https://minds-africa.org/scholarship-program-for-leadership-development/ 
+- [ ] Minds Scholarships - https://minds-africa.org/scholarship-program-for-leadership-development/
+- [ ] University of Cape Town Scholarship (African Centre For Cities) - https://tinyurl.com/2b2zzkzx SEPT 3 
 
 ## Jobs & Gigs & Internships
 - [ ] UNHCR
