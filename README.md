@@ -56,7 +56,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] The CAN Data Science Fellowship - https://tinyurl.com/427nv2sb SEPT 3
 - [ ] Youth Interfaith Leaders - https://faithforourplanet.org/youth-fellowship/ AUG 29
 - [ ] SAIS Investment Readiness Programme  - https://tinyurl.com/3puuypb8 AUG 31
-- [ ] 
+- [ ] EnergyTech University Prize 2025 - https://www.herox.com/EnergyTechUP - SEPT 5
+- [ ] DataWorks! Prize 2024 - https://www.herox.com/dataworks OCT 5
 - [ ] UAL Storytelling Fellowship https://tinyurl.com/3j52cfve SEPT 2
 - [ ] EMPOWER360 - https://tinyurl.com/y47a83n8 AUG 27
 - [ ] The Dell STEM Aspire Mentorship Program - https://tinyurl.com/y335s83p SEPT 15
