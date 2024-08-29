@@ -47,6 +47,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Llama 3.1 Impact Grants - https://tinyurl.com/mwwj6zre NOV 1
 - [ ] Agrinnovation Summit 1.0 - https://agrinnovationsummit.com/ SEPT 1
 - [ ] EAC Youth Fellowship - https://portal.youlead.africa/public/events# AUG 27
+- [ ] Africa Climate Mobility Youth Survey - https://shorturl.at/qoByK SEPT 3
 - [ ] Startupbootcamp Energy - https://tinyurl.com/bdz5s44k AUG 20
 - [ ] World Usability Design Challenge - https://wudafrica.com/challenge/ AUG 31
 - [ ] LIMITLESS PHASE 3  https://tinyurl.com/3strthhj AUG 18
@@ -624,6 +625,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Internships with FES Uganda https://uganda.fes.de/about/internships-with-fes-uganda
 - [ ] MINISTRY OF GENDER, LABOUR AND SOCIAL DEVELOPMENT INTERNS - https://mglsd.go.ug/internship/
 - [ ] UBOS - https://www.ubos.org/internship/
+- [ ] the World Bank Treasury - https://shorturl.at/CPlzk OCT 1
 - [ ] WILSON INTERNS - https://tinyurl.com/bveee6ry 29TH JULY 
 - [ ] UN Careers - https://uncareer.net/country/Uganda/city/Kampala
 - [ ] BOA - https://boauganda.com/service/jobs-and-internships-application/
