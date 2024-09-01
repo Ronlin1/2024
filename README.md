@@ -83,6 +83,12 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Innovation Fellowships  - https://tinyurl.com/jhru8hcn  NOV 15
 - [ ] Postman API Fundamentals https://tinyurl.com/ycmtxjca SEPT 15
 - [ ] Hult Prize - https://www.hultprize.org/cd-application/ JULY 17
+- [ ] Chemistry for Climate Action Challenge - https://shorturl.at/6bjHa SEPT 8
+- [ ] WEGE PRIZE - http://www.wegeprize.org/apply SEPT 29
+- [ ] Halycon Climate Resilience https://www.halcyonhouse.org/programs/ OCT 3
+- [ ] NEC Innovation Challenge  https://shorturl.at/KasDZ SEPT 28
+- [ ] 
+- [ ] Duolingo 4 Students - https://careers.duolingo.com/students OPEN
 - [ ] GitHub Campus Expert - https://tinyurl.com/yvkv4heh AUG 13
 - [ ] GitHub Campus Expert Experience Article - https://tinyurl.com/5n8d26x8  AUG 13
 - [ ] Falcon Hackathon - https://lablab.ai/event/falcon-hackathon JULY 24
