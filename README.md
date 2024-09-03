@@ -29,6 +29,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Fast Forward Accelerator - https://www.ffwd.org/accelerator/ SEP 4
 - [ ] Announce -- OutreachY - https://tinyurl.com/3je2j769 AUG 20
 - [ ] BITCOIN Writing Contest by Rootstock - https://tinyurl.com/mvdv9ux3 SEPT 5
+- [ ] IBM TechXchange - https://tinyurl.com/v9h3vs8j SEPT 10
 - [ ] FALCON AI - https://lablab.ai/event/falcon-hackathon AUG 2
 - [ ] EQUALS in Tech Awards https://www.equalsintech.org/awards AUG 27
 - [ ] Climate Finance Academy 2 - https://tinyurl.com/452a6ft3 JULY 26
@@ -69,6 +70,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Accelerate Africa https://tinyurl.com/4n58fmfw SEPT 15
 - [ ] WCRP 2024 https://tinyurl.com/wtatps7v SEPT 18
 - [ ] Changemakers for the Planet - https://tinyurl.com/yppbvcyt SEPT 11
+- [ ] NGO CSW/NY Global Youth Fellows - https://tinyurl.com/4txeyram SEPT 06
 - [ ] ICTworks - https://tinyurl.com/yy4sm2x4 SEPT 10
 - [ ] Commonwealth Youth Programme -https://thecommonwealth.org/our-work/youth https://tinyurl.com/jnmfpmhp 10 OCT
 - [ ] https://thecommonwealth.org/our-work/youth CYP 10 OCT
@@ -82,6 +84,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Africa Catalyst Phase 5  - https://tinyurl.com/5xfdpyy7 JULY 25
 - [ ] Call for Tech Events Speakers - https://tinyurl.com/2yhxtrta AUG 18
 - [ ] SDGs Campus Ambassador - https://tinyurl.com/3awrfsa3 AUG 18
+- [ ] The Earth Prize - https://www.theearthprize.org/schools OCT 13
 - [ ] Innovation Fellowships  - https://tinyurl.com/jhru8hcn  NOV 15
 - [ ] Postman API Fundamentals https://tinyurl.com/ycmtxjca SEPT 15
 - [ ] Hult Prize - https://www.hultprize.org/cd-application/ JULY 17
@@ -89,7 +92,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] WEGE PRIZE - http://www.wegeprize.org/apply SEPT 29
 - [ ] Halycon Climate Resilience https://www.halcyonhouse.org/programs/ OCT 3
 - [ ] NEC Innovation Challenge  https://shorturl.at/KasDZ SEPT 28
-- [ ] 
+- [ ] WBG Young Professionals https://tinyurl.com/bbxkhunz SEPT 23
 - [ ] Duolingo 4 Students - https://careers.duolingo.com/students OPEN
 - [ ] GitHub Campus Expert - https://tinyurl.com/yvkv4heh AUG 13
 - [ ] GitHub Campus Expert Experience Article - https://tinyurl.com/5n8d26x8  AUG 13
@@ -117,6 +120,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Citizen Entrepreneurship https://tinyurl.com/4btxc8za AUG 27
 - [ ] SJ Fellowships - https://www.socialjusticeleadership.org/fellowships AUG 26
 - [ ] GYM - https://tinyurl.com/38s5weue JULY 16
+- [ ] Youth Zero Waste projects - https://tinyurl.com/4jvyay6y SEPT 21
 - [ ] SPC Founder Fellowship - https://tinyurl.com/mubtayz9 AUG 4
 - [ ] UNECA FELLOWSHIP https://www.uneca.org/node/423 AUG 14
 - [ ] XR Mentorship Program - https://xrinclusion.org/xr-mentorship-program/ JULY 30
@@ -454,7 +458,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Data Fellowships - https://tinyurl.com/52wfkvvv
 - [ ] Data Science Africa - https://tinyurl.com/2bfsrxa9 29 MAR
 - [ ] 2024 EAUMP-ICTP School - https://indico.ictp.it/event/10494 29 MAR
-- [ ] CALL 4 CODE IBM - https://developer.ibm.com/callforcode/  AUG 15
+- [ ] CALL 4 CODE IBM - https://developer.ibm.com/callforcode/  SEPT 15
 - [ ] AICV SUMMER https://www.acvss.ai/Attend  MAR 13
 - [ ] HiiL ACCELERATOR - https://tinyurl.com/ys96873b 30 MAR
 - [ ] Cartesi Grants Program - https://cartesi.io/governance/#get-funding
@@ -622,6 +626,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] NL Scholarship - https://tinyurl.com/b7jdyye9 SEPT 07
 - [ ] International Parliamentary Scholarships https://tinyurl.com/5avffye8 - AUG 24
 - [ ] African Development Bank-Japan - https://tinyurl.com/mr9t8jce SEPT 10
+- [ ] Schwarzman Scholars Program - https://tinyurl.com/2ncpr7e8 SEPT 8
 - [ ] 25 Scholarships - https://drive.google.com/file/d/1Hr8gWousyUMcp_V7vdMOG5ektMh8_dQf/view
 - [ ] Minds Scholarships - https://minds-africa.org/scholarship-program-for-leadership-development/
 - [ ] University of Cape Town Scholarship (African Centre For Cities) - https://tinyurl.com/2b2zzkzx SEPT 3 
@@ -633,6 +638,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] UN Cyber Sec JOB http://tinyurl.com/ydp66hbv  5MAR
 - [ ] Internships with FES Uganda https://uganda.fes.de/about/internships-with-fes-uganda
 - [ ] MINISTRY OF GENDER, LABOUR AND SOCIAL DEVELOPMENT INTERNS - https://mglsd.go.ug/internship/
+- [ ] Global Steering Committee  - https://tinyurl.com/57bku2ct SEPT 11
 - [ ] UBOS - https://www.ubos.org/internship/
 - [ ] the World Bank Treasury - https://shorturl.at/CPlzk OCT 1
 - [ ] WILSON INTERNS - https://tinyurl.com/bveee6ry 29TH JULY 
@@ -787,6 +793,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] 18 Superstitions from Around the World - https://tinyurl.com/bde4j5wx
 - [ ] MLSA - https://tinyurl.com/2b563nju AUG 26
 - [ ] FITSPA https://fitspa.ug/publications#policies
+- [ ] Dev RoadMap - https://roadmap.sh/ 
 
 ## WEBSITES TO COPY
 - [ ] https://tribevibe.live/campus-ambassador.php
