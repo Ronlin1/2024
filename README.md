@@ -755,7 +755,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] REMOTE ROLES - SITES - https://tinyurl.com/4e3e5srf
 - [ ] GenAi meetup Uganda https://lu.ma/b181l997 JULY 26
 - [ ] ELISA-Member-Relations-Coordinator - https://tinyurl.com/4fwd4ww2 SEPT 15
-- [ ] 
+- [ ] CERN Students Opportunities https://careers.smartrecruiters.com/CERN/students OCT 10
 - [ ] 
 
 ## Reads
