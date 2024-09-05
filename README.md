@@ -113,7 +113,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Wilson CenteR iNTERN - https://tinyurl.com/4yh34sfu July 28
 - [ ] African Social Innovation fellowship https://dotakeaction.org/asif/ AUG 1
 - [ ] I4G marketing mETA - https://ingressive.org/i4g-marketing-scholarship/ JULY 23
-- [ ] Brave Redemptive - https://braveredemptive.com/
+- [ ] Brave Redemptive - https://braveredemptive.com/ TRY AGAIN NEXT YEAR
+- [ ] EnergyTech - https://www.herox.com/EnergyTechUP SEPT 25
 - [ ] Innovation Open Challenge https://innovug.com/2024-open-challenge/ SEPT 10
 - [ ] Campaigner of the Year Award https://tinyurl.com/ykwus394 AUG 3
 - [ ] Commonwealth Professional Fellowships https://tinyurl.com/bdhkzahj AUG 1
