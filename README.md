@@ -69,6 +69,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Melton Foundation SDG Innovation Challenge - https://tinyurl.com/4bw6yhrm AUG 28
 - [ ] Accelerate Africa https://tinyurl.com/4n58fmfw SEPT 15
 - [ ] WCRP 2024 https://tinyurl.com/wtatps7v SEPT 18
+- [ ] VCT Hackathon - https://vcthackathon.devpost.com/rules OCT 1
+- [ ] 
 - [ ] Changemakers for the Planet - https://tinyurl.com/yppbvcyt SEPT 11
 - [ ] NGO CSW/NY Global Youth Fellows - https://tinyurl.com/4txeyram SEPT 06
 - [ ] ICTworks - https://tinyurl.com/yy4sm2x4 SEPT 10
