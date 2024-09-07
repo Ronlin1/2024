@@ -733,7 +733,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Humphrey Fellows https://www.humphreyfellowship.org/
 - [ ] WAYSPIRE INTERNSHIP - https://tinyurl.com/4rebw34f JUNE 05
 - [ ] Crane Cloud Survey https://tinyurl.com/3hr4aet9 JUNE 15
-- [ ] 
+- [ ] DevFest https://devfestmbarara.com/ SEPT 20
 
 
 ## Tech Events
