@@ -34,7 +34,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] EQUALS in Tech Awards https://www.equalsintech.org/awards AUG 27
 - [ ] Climate Finance Academy 2 - https://tinyurl.com/452a6ft3 JULY 26
 - [ ] GeoMundus 2024! https://tinyurl.com/yft38cfd AUG 1 
-- [ ] Twilio’s AI Startup Searchlight 2.0 https://tinyurl.com/5n7tdkak SEPT 10
+- [ ] Twilio’s AI Startup Searchlight 2.0 https://tinyurl.com/5n7tdkak SEPT 24
 - [ ] Student Energy Chapters Program - MAR 20 (MAIL)
 - [ ] IEEE R8 AI Research Hub at GITEX - https://tinyurl.com/296hh68x AUG 3
 - [ ] AFYEL - https://afyel.org/ AUG 27
@@ -77,7 +77,10 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Commonwealth Youth Programme -https://thecommonwealth.org/our-work/youth https://tinyurl.com/jnmfpmhp 10 OCT
 - [ ] https://thecommonwealth.org/our-work/youth CYP 10 OCT
 - [ ] RevenueCat Ship-a-ton - https://revenuecat-ship-a-ton.devpost.com/resources SEPT 5
-- [ ] The World Around Young Climate Prize - https://theworldaround.com/ycp/ 
+- [ ] The World Around Young Climate Prize - https://theworldaround.com/ycp/
+- [ ] The AFS Youth Assembly Program - https://www.youthassembly.org/ DEC 28
+- [ ] She Code Africa https://summit.shecodeafrica.org/ SEPT 12
+- [ ] Social Equity Program - https://jauganda.org/social-equity-program/ OPEN
 - [ ] African Social Innovation Fellowship https://dotakeaction.org/asif/ 29 JULY
 - [ ] Commonwealth Professional Fellowships https://tinyurl.com/bdhkzahj AUG 2
 - [ ] SDG Digital Gamechangers - https://tinyurl.com/32nbv7xy AUG 6
@@ -370,7 +373,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Max Campus Brand Manager = http://tinyurl.com/ys7a44u7   10MAR
 - [ ] HackWithInfy http://tinyurl.com/3tyzbmwz -15 MAR
 - [ ] FACIA AI - http://tinyurl.com/5erdvsyz 20 MAR
-- [ ] CIEE CAMPUS - http://tinyurl.com/3b2u8pkz SEPT 10
+- [ ] CIEE CAMPUS - http://tinyurl.com/3b2u8pkz NOV 10
 - [ ] iNeuBytes - http://tinyurl.com/uyek6xf2 15 MAR
 - [ ] Emertxe’s Campus Ambassador  - http://tinyurl.com/565apmjs 11 MAR
 - [ ] Only Office 11 MAR
