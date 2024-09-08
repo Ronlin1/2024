@@ -38,7 +38,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Student Energy Chapters Program - MAR 20 (MAIL)
 - [ ] IEEE R8 AI Research Hub at GITEX - https://tinyurl.com/296hh68x AUG 3
 - [ ] AFYEL - https://afyel.org/ AUG 27
-- [ ] Richard E. Merwin Student Scholarship - https://tinyurl.com/pucstses SEP 10
+- [ ] Richard E. Merwin Student Scholarship - https://tinyurl.com/pucstses SEP 20
 - [ ] MultiChoice Talent Factory Academy - https://tinyurl.com/3hp5c6sd SEPT 3
 - [ ] MIL Youth Hackathon - https://tinyurl.com/3fd37mz9 AUG 21
 - [ ] The Africa FinTech and AI Awards 2024 - https://fintechandaiawards.com/ AUG 27
