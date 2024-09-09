@@ -30,6 +30,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Announce -- OutreachY - https://tinyurl.com/3je2j769 AUG 20
 - [ ] BITCOIN Writing Contest by Rootstock - https://tinyurl.com/mvdv9ux3 SEPT 5
 - [ ] IBM TechXchange - https://tinyurl.com/v9h3vs8j SEPT 10
+- [ ] Shooting Stars Campus Ambassador  - https://tinyurl.com/36zcs9fx SEPT 14
+- [ ] HackAI - Dell and NVIDIA Challenge - SEPT 19
+- [ ] IBMZ Datahon - https://www.starhacks.org/2024-ssf-ibm-z-datathon SEPT 25
 - [ ] FALCON AI - https://lablab.ai/event/falcon-hackathon AUG 2
 - [ ] EQUALS in Tech Awards https://www.equalsintech.org/awards AUG 27
 - [ ] Climate Finance Academy 2 - https://tinyurl.com/452a6ft3 JULY 26
@@ -53,6 +56,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] World Usability Design Challenge - https://wudafrica.com/challenge/ AUG 31
 - [ ] LIMITLESS PHASE 3  https://tinyurl.com/3strthhj AUG 18
 - [ ] ETH Zurich Scholarship 2025 - NOV 20
+- [ ] MOSIP CREATE - https://tinyurl.com/mta5a7rh OCT 23
 - [ ] Lacuna Malaria Detection Challenge - https://tinyurl.com/4ntt8mbs 1st NOV
 - [ ] The CAN Data Science Fellowship - https://tinyurl.com/427nv2sb SEPT 3
 - [ ] Youth Interfaith Leaders - https://faithforourplanet.org/youth-fellowship/ AUG 29
@@ -95,6 +99,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Hult Prize - https://www.hultprize.org/cd-application/ JULY 17
 - [ ] Chemistry for Climate Action Challenge - https://shorturl.at/6bjHa SEPT 8
 - [ ] WEGE PRIZE - http://www.wegeprize.org/apply SEPT 29
+- [ ] Host a hackathon - https://garage48.edicy.co/host-a-hackathon SEPT 25
 - [ ] Halycon Climate Resilience https://www.halcyonhouse.org/programs/ OCT 3
 - [ ] NEC Innovation Challenge  https://shorturl.at/KasDZ SEPT 28
 - [ ] WBG Young Professionals https://tinyurl.com/bbxkhunz SEPT 23
