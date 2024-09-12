@@ -104,6 +104,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] NEC Innovation Challenge  https://shorturl.at/KasDZ SEPT 28
 - [ ] WBG Young Professionals https://tinyurl.com/bbxkhunz SEPT 23
 - [ ] Duolingo 4 Students - https://careers.duolingo.com/students OPEN
+- [ ] Climate Academy - https://tinyurl.com/4536fxfv SEPT 16
+- [ ] RAG Hack https://tinyurl.com/3mzfm4r2 SEPT 15
+- [ ] Innovator Series - https://tinyurl.com/54vwya6c OCT 1
 - [ ] GitHub Campus Expert - https://tinyurl.com/yvkv4heh AUG 13
 - [ ] GitHub Campus Expert Experience Article - https://tinyurl.com/5n8d26x8  AUG 13
 - [ ] Falcon Hackathon - https://lablab.ai/event/falcon-hackathon JULY 24
