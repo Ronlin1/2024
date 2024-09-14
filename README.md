@@ -96,7 +96,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] SDGs Campus Ambassador - https://tinyurl.com/3awrfsa3 AUG 18
 - [ ] The Earth Prize - https://www.theearthprize.org/schools OCT 13
 - [ ] Innovation Fellowships  - https://tinyurl.com/jhru8hcn  NOV 15
-- [ ] Postman API Fundamentals https://tinyurl.com/ycmtxjca SEPT 15
+- [ ] Postman API Fundamentals https://tinyurl.com/ycmtxjca OCT 15
 - [ ] Hult Prize - https://www.hultprize.org/cd-application/ JULY 17
 - [ ] Chemistry for Climate Action Challenge - https://shorturl.at/6bjHa SEPT 8
 - [ ] WEGE PRIZE - http://www.wegeprize.org/apply SEPT 29
