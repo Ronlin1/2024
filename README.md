@@ -98,6 +98,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Innovation Fellowships  - https://tinyurl.com/jhru8hcn  NOV 15
 - [ ] Postman API Fundamentals https://tinyurl.com/ycmtxjca OCT 15
 - [ ] Hult Prize - https://www.hultprize.org/cd-application/ JULY 17
+- [ ] AfriLabs Ambassadorial - https://tinyurl.com/4pk5r5r7 OCT 4
 - [ ] Chemistry for Climate Action Challenge - https://shorturl.at/6bjHa SEPT 8
 - [ ] WEGE PRIZE - http://www.wegeprize.org/apply SEPT 29
 - [ ] Host a hackathon - https://garage48.edicy.co/host-a-hackathon SEPT 25
@@ -106,6 +107,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] WBG Young Professionals https://tinyurl.com/bbxkhunz SEPT 23
 - [ ] Duolingo 4 Students - https://careers.duolingo.com/students OPEN
 - [ ] Climate Academy - https://tinyurl.com/4536fxfv SEPT 16
+- [ ] IRENA Youth Forum - https://tinyurl.com/kzpytx2n SEPT 21
+- [ ] Children’s Rights Innovation Fund - https://tinyurl.com/yshkvdfj SEPT 21
 - [ ] RAG Hack https://tinyurl.com/3mzfm4r2 SEPT 15
 - [ ] Innovator Series - https://tinyurl.com/54vwya6c OCT 1
 - [ ] GitHub Campus Expert - https://tinyurl.com/yvkv4heh AUG 13
@@ -116,6 +119,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Groundbreaker Talents - https://form.jotform.com/230782074011042 JULY 25
 - [ ] SIA - https://apply.socialimpactaward.net/uganda/ AUG 1
 - [ ] Digital ID Hackathon Africa - https://hackid-africa.devpost.com/ AUG 7
+- [ ] ABC 2024 - https://tinyurl.com/ybpk8mvx OCT 10
 - [ ] Wordcamp Jinja 2024 https://tinyurl.com/3xtxr2af AUG 20
 - [ ] The Africa Law Tech Fest - https://www.africalawtech.com/#/tickets?lang=en AUG 22
 - [ ] PLAI https://tinyurl.com/mrm36ahy JULY 20
@@ -643,7 +647,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] African Development Bank-Japan - https://tinyurl.com/mr9t8jce SEPT 10
 - [ ] Schwarzman Scholars Program - https://tinyurl.com/2ncpr7e8 SEPT 8
 - [ ] 25 Scholarships - https://drive.google.com/file/d/1Hr8gWousyUMcp_V7vdMOG5ektMh8_dQf/view
-- [ ] Minds Scholarships - https://minds-africa.org/scholarship-program-for-leadership-development/
+- [ ] Minds Scholarships - https://tinyurl.com/5y45pf5r OCT 13
 - [ ] University of Cape Town Scholarship (African Centre For Cities) - https://tinyurl.com/2b2zzkzx SEPT 3 
 
 ## Jobs & Gigs & Internships
@@ -771,6 +775,10 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] GenAi meetup Uganda https://lu.ma/b181l997 JULY 26
 - [ ] ELISA-Member-Relations-Coordinator - https://tinyurl.com/4fwd4ww2 SEPT 15
 - [ ] CERN Students Opportunities https://careers.smartrecruiters.com/CERN/students OCT 10
+- [ ] Freelancers Summit - 14th SEPT - MOTIV
+- [ ] DEV FEST MBRA
+- [ ] DEV FEST MAIN
+- [ ] AFRICA BTC - https://afrobitcoin.org/ OCT 13
 - [ ] 
 
 ## Reads
