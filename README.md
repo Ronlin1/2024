@@ -44,6 +44,12 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Richard E. Merwin Student Scholarship - https://tinyurl.com/pucstses SEP 20
 - [ ] MultiChoice Talent Factory Academy - https://tinyurl.com/3hp5c6sd SEPT 3
 - [ ] MIL Youth Hackathon - https://tinyurl.com/3fd37mz9 AUG 21
+- [ ] Microsoft Student Innovator Series - https://tinyurl.com/54vwya6c OCT 1
+- [ ] NoOnes Ambassador - https://tinyurl.com/5frzu7d7 OCT 17
+- [ ] World Bank Scholarships - https://tinyurl.com/5xev6a65 Jan 30
+- [ ] UNDP Research Fellow - https://tinyurl.com/y6twvy37 SEPT 21
+- [ ] Green Growth AgriHack  https://tinyurl.com/y342w3jw SEPT 28
+- [ ] IBM Z Datathon - https://tinyurl.com/bdh4kctf SEPT 27
 - [ ] The Africa FinTech and AI Awards 2024 - https://fintechandaiawards.com/ AUG 27
 - [ ] GreSFET 2024 - https://gresfet.osc.int/en/about/competitions AUG 27
 - [ ] FFOP Youth Interfaith Leaders - https://faithforourplanet.org/youth-fellowship/ AUG 28
@@ -648,6 +654,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Schwarzman Scholars Program - https://tinyurl.com/2ncpr7e8 SEPT 8
 - [ ] 25 Scholarships - https://drive.google.com/file/d/1Hr8gWousyUMcp_V7vdMOG5ektMh8_dQf/view
 - [ ] Minds Scholarships - https://tinyurl.com/5y45pf5r OCT 13
+- [ ] UG SCHOLARSHIPS - https://www.education.go.ug/scholarships/ VARIETY OCT 30
+- [ ] Switzerland Scholarships - https://tinyurl.com/2hsne3wt OPEN
 - [ ] University of Cape Town Scholarship (African Centre For Cities) - https://tinyurl.com/2b2zzkzx SEPT 3 
 
 ## Jobs & Gigs & Internships
