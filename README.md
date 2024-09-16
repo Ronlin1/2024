@@ -145,6 +145,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Citizen Entrepreneurship https://tinyurl.com/4btxc8za AUG 27
 - [ ] SJ Fellowships - https://www.socialjusticeleadership.org/fellowships AUG 26
 - [ ] GYM - https://tinyurl.com/38s5weue JULY 16
+- [ ] The Awesome Foundation - https://tinyurl.com/yksea9nc OCT 17
 - [ ] Youth Zero Waste projects - https://tinyurl.com/4jvyay6y SEPT 21
 - [ ] SPC Founder Fellowship - https://tinyurl.com/mubtayz9 AUG 4
 - [ ] UNECA FELLOWSHIP https://www.uneca.org/node/423 AUG 14
