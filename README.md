@@ -114,6 +114,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Duolingo 4 Students - https://careers.duolingo.com/students OPEN
 - [ ] Climate Academy - https://tinyurl.com/4536fxfv SEPT 16
 - [ ] IRENA Youth Forum - https://tinyurl.com/kzpytx2n SEPT 21
+- [ ] Call for AI Projects https://parispeaceforum.org/call-for-ai-projects/ OCT 2
 - [ ] Children’s Rights Innovation Fund - https://tinyurl.com/yshkvdfj SEPT 21
 - [ ] RAG Hack https://tinyurl.com/3mzfm4r2 SEPT 15
 - [ ] Innovator Series - https://tinyurl.com/54vwya6c OCT 1
@@ -661,6 +662,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] UG SCHOLARSHIPS - https://www.education.go.ug/scholarships/ VARIETY OCT 30
 - [ ] Switzerland Scholarships - https://tinyurl.com/2hsne3wt OPEN
 - [ ] Commonwealth Masters Scholarships 2025 - https://tinyurl.com/r3en5ak  OCT 4
+- [ ] Florida State University Scholarship - https://tinyurl.com/3utex3j8 NOV 25
+- [ ] IRENA - https://tinyurl.com/4e655mbw SEPT 21
 - [ ] University of Cape Town Scholarship (African Centre For Cities) - https://tinyurl.com/2b2zzkzx SEPT 3 
 
 ## Jobs & Gigs & Internships
