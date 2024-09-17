@@ -156,7 +156,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Coding Bits' Large-Scale International Hackathon - https://tinyurl.com/y3x9rjh2 AUG 20
 - [ ] IEEE XTREME - https://xtreme.vtools.ieee.org/tego_/teams/new SEPT 05
 - [ ] NASA Space Apps Challenge Kampala https://tinyurl.com/bd728npx AUG 20
-- [ ] COP29 Youth Delegates - https://tinyurl.com/2p9yxcdk AUG 27 
+- [ ] COP29 Youth Delegates - https://tinyurl.com/2p9yxcdk AUG 27
+- [ ] International Climate Protection Fellowship - https://tinyurl.com/44azy6fb SEPT 26
+- [ ] YOUTHTOPIA - https://tinyurl.com/5n86yksc OCT 2
 - [ ] AI Call for Essays - https://tinyurl.com/ymax2d86 AUG 19
 - [ ] Mercy Corps AI Soltns - https://tinyurl.com/47n42er9 JULY 16
 - [ ] HCDExchange Youth Spotlight - https://tinyurl.com/29prxd7e 05TH AUG
@@ -310,6 +312,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ]  https://indico.ictp.it/event/10494
 - [ ]  https://www.afox.ox.ac.uk/afox-catalyst-grants
 - [ ]  ARC Prize 2024 https://www.kaggle.com/competitions/arc-prize-2024/overview SEPT 28
+- [ ]  Swarovski Foundation Creatives https://www.sfcreatives.org/application OCT 10
 - [ ]  The EPIC Air Quality Fund https://tinyurl.com/2vt3d2p8 SEPT 3
 - [ ]  Commonwealth Innovative Youth Essay https://tinyurl.com/ytmvpzw7 AUG 13
 - [ ]  Savvy Fellows - https://savvyfellows.com/ AUG 17
@@ -657,6 +660,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Minds Scholarships - https://tinyurl.com/5y45pf5r OCT 13
 - [ ] UG SCHOLARSHIPS - https://www.education.go.ug/scholarships/ VARIETY OCT 30
 - [ ] Switzerland Scholarships - https://tinyurl.com/2hsne3wt OPEN
+- [ ] Commonwealth Masters Scholarships 2025 - https://tinyurl.com/r3en5ak  OCT 4
 - [ ] University of Cape Town Scholarship (African Centre For Cities) - https://tinyurl.com/2b2zzkzx SEPT 3 
 
 ## Jobs & Gigs & Internships
@@ -668,6 +672,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] MINISTRY OF GENDER, LABOUR AND SOCIAL DEVELOPMENT INTERNS - https://mglsd.go.ug/internship/
 - [ ] Global Steering Committee  - https://tinyurl.com/57bku2ct SEPT 11
 - [ ] UBOS - https://www.ubos.org/internship/
+- [ ] UN Decade Youth Task Force - https://tinyurl.com/yckbarp9 SEPT 21
+- [ ] UAF-Africa Internship - https://uafahrrec.peopleshr.com/ SEPT 28
 - [ ] the World Bank Treasury - https://shorturl.at/CPlzk OCT 1
 - [ ] WILSON INTERNS - https://tinyurl.com/bveee6ry 29TH JULY 
 - [ ] UN Careers - https://uncareer.net/country/Uganda/city/Kampala
