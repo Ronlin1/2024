@@ -834,7 +834,10 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] 18 Superstitions from Around the World - https://tinyurl.com/bde4j5wx
 - [ ] MLSA - https://tinyurl.com/2b563nju AUG 26
 - [ ] FITSPA https://fitspa.ug/publications#policies
-- [ ] Dev RoadMap - https://roadmap.sh/ 
+- [ ] Dev RoadMap - https://roadmap.sh/
+- [ ] GitHub Foundations Certification - https://education.github.com/experiences/foundations_certificate
+- [ ] GITHUB - https://test-takers.psiexams.com/github
+- [ ] GIT RESOURCES - https://tinyurl.com/57ywpy63
 
 ## WEBSITES TO COPY
 - [ ] https://tribevibe.live/campus-ambassador.php
