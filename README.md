@@ -221,7 +221,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] YSAU - https://mail.google.com/mail/u/0/#all/FMfcgzQVxRCkgRbCmPqQgvFQfNPkzxnF JULY 25
 - [ ] https://github.com/SummerOfBitcoin/code-challenge-2024-Ronlin1 APR 20
 - [ ] SOBTC PROPOSAL - 30 MAR
-- [ ] Food Chain Innovation - https://tinyurl.com/2c55t545 SEPT 20
+- [ ] Food Chain Innovation - https://tinyurl.com/2c55t545 SEPT 27
 - [ ] EIT Food Challenge - https://tinyurl.com/2v9rrz2c 15 DEC
 - [ ] AFRICA PRIZE ENGINEERING - https://africaprize.raeng.org.uk/ SEPT 30
 - [ ] Unipod Innovation Diagnostic - https://tinyurl.com/7f36dujn  JULY 3
