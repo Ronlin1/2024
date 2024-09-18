@@ -31,7 +31,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] BITCOIN Writing Contest by Rootstock - https://tinyurl.com/mvdv9ux3 SEPT 5
 - [ ] IBM TechXchange - https://tinyurl.com/v9h3vs8j SEPT 10
 - [ ] Shooting Stars Campus Ambassador  - https://tinyurl.com/36zcs9fx SEPT 14
-- [ ] HackAI - Dell and NVIDIA Challenge - SEPT 19
+- [ ] HackAI - Dell and NVIDIA Challenge - SEPT 25
 - [ ] IBMZ Datahon - https://www.starhacks.org/2024-ssf-ibm-z-datathon SEPT 25
 - [ ] FALCON AI - https://lablab.ai/event/falcon-hackathon AUG 2
 - [ ] EQUALS in Tech Awards https://www.equalsintech.org/awards AUG 27
@@ -279,7 +279,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Timbuktoo Fintech Startup Accelerator Programme - https://tinyurl.com/bddkzy5n JUNE 18
 - [ ] UNBS ARSO Essay - 29th FEB
 - [X] GMD Gender End GBV Essay - 15TH DEC 2023
-- [ ] DLI nvidia - OCT 20 https://www.nvidia.com/en-in/deep-learning-ai/education/ambassador-program/
+- [ ] DLI nvidia -  https://www.nvidia.com/en-in/deep-learning-ai/education/ambassador-program/ OCT 20
 - [ ] The Liveability Challenge 2024 - https://shorturl.at/cdvQ6 - Feb 9th
 - [x] The Headstream Accelerator - https://shorturl.at/bqsDT - JAN 24TH
 - [ ] Hacklab Foundation - https://connect.hacklabfoundation.org/ - 
