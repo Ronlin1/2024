@@ -112,7 +112,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] WEGE PRIZE - http://www.wegeprize.org/apply SEPT 29
 - [ ] Host a hackathon - https://garage48.edicy.co/host-a-hackathon SEPT 25
 - [ ] Halycon Climate Resilience https://www.halcyonhouse.org/programs/ OCT 3
-- [ ] NEC Innovation Challenge  https://shorturl.at/KasDZ SEPT 28
+- [ ] NEC Innovation Challenge  https://shorturl.at/KasDZ SEPT 30
 - [ ] WBG Young Professionals https://tinyurl.com/bbxkhunz SEPT 23
 - [ ] Duolingo 4 Students - https://careers.duolingo.com/students OPEN
 - [ ] Climate Academy - https://tinyurl.com/4536fxfv SEPT 16
@@ -253,7 +253,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ]  Global E-STEM Award - https://naaee.submittable.com/submit JULY 5
 - [ ]  IHL ESSAY - https://tinyurl.com/5ffknh6w JUNE 28
 - [ ]  Global Changemaker Fellowship - https://gccnetwork.org/gcf/ JULY 10
-- [ ]  UN SDSN  - https://www.sdsnyouth.org/initiatives/sdg-students-program 20 SEPT
+- [ ]  UN SDSN  - https://www.sdsnyouth.org/initiatives/sdg-students-program 20 OCT
 - [ ]  TotalEnergies Startupper https://startupper.totalenergies.com/en - JUNE 15
 - [ ]  FIT4Mentorship Programme https://bongohive.co.zm/fit4mentorship/ MAY 31
 - [ ]  WFP Accelerator - https://innovation.wfp.org/ OPEN
