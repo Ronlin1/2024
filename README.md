@@ -58,6 +58,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Agrinnovation Summit 1.0 - https://agrinnovationsummit.com/ SEPT 1
 - [ ] EAC Youth Fellowship - https://portal.youlead.africa/public/events# AUG 27
 - [ ] Africa Climate Mobility Youth Survey - https://shorturl.at/qoByK SEPT 3
+- [ ] Global Changers Recoupling Awards - https://tinyurl.com/mt4cwbbs OCT 18
+- [ ] UPG 2025 - https://tinyurl.com/y3ruz8hm DEC 22
+- [ ] The Earthshot Prize Youth https://commonpurpose.org/tep-youth SEP 27
 - [ ] Startupbootcamp Energy - https://tinyurl.com/bdz5s44k AUG 20
 - [ ] World Usability Design Challenge - https://wudafrica.com/challenge/ AUG 31
 - [ ] LIMITLESS PHASE 3  https://tinyurl.com/3strthhj AUG 18
@@ -79,7 +82,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] IGF 2024 Call for Travel Support https://tinyurl.com/4dcahfjb SEPT 3
 - [ ] Melton Foundation SDG Innovation Challenge - https://tinyurl.com/4bw6yhrm AUG 28
 - [ ] Accelerate Africa https://tinyurl.com/4n58fmfw SEPT 15
-- [ ] WCRP 2024 https://tinyurl.com/wtatps7v SEPT 18
+- [ ] WCRP 2024 https://tinyurl.com/wtatps7v SEPT 28
 - [ ] VCT Hackathon - https://vcthackathon.devpost.com/rules OCT 1
 - [ ] IBM Call For Code - https://tinyurl.com/3razfn3d SEPT 15
 - [ ] Changemakers for the Planet - https://tinyurl.com/yppbvcyt SEPT 11
@@ -148,6 +151,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] GYM - https://tinyurl.com/38s5weue JULY 16
 - [ ] The Awesome Foundation - https://tinyurl.com/yksea9nc OCT 17
 - [ ] Youth Zero Waste projects - https://tinyurl.com/4jvyay6y SEPT 21
+- [ ] The Girls Who Click Ambassador Program https://tinyurl.com/2k44msfd NOV 1
 - [ ] SPC Founder Fellowship - https://tinyurl.com/mubtayz9 AUG 4
 - [ ] UNECA FELLOWSHIP https://www.uneca.org/node/423 AUG 14
 - [ ] XR Mentorship Program - https://xrinclusion.org/xr-mentorship-program/ JULY 30
@@ -746,6 +750,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Turkiye Summer Research - https://tinyurl.com/57kzyht7 APR 19
 - [ ] Visit Korea - https://koreainvitesu.com/en/ APR 14
 - [ ] 2024 School CLIMATE - https://caterschools.net/2024-school APR 15
+- [ ] Social Progress Intern   https://tinyurl.com/mr2rkzj9 SEPT 29
+- [ ] Program Entrance Survey MCN - https://tinyurl.com/2euuxe67 SEPT 26
+- [ ] 
 - [ ] GoGettaz AGRIC - https://tinyurl.com/4uy5hw63 MAY 31
 - [ ] Matsumae International Foundation Fellowship
 - [ ] GLOBAL STARTUP AWARDS  - https://tinyurl.com/2fauc8fx 1 MAY
@@ -767,7 +774,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Humphrey Fellows https://www.humphreyfellowship.org/
 - [ ] WAYSPIRE INTERNSHIP - https://tinyurl.com/4rebw34f JUNE 05
 - [ ] Crane Cloud Survey https://tinyurl.com/3hr4aet9 JUNE 15
-- [ ] DevFest https://devfestmbarara.com/ SEPT 20
+- [ ] DevFest https://devfestmbarara.com/ SEPT 29
 
 
 ## Tech Events
@@ -836,8 +843,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] FITSPA https://fitspa.ug/publications#policies
 - [ ] Dev RoadMap - https://roadmap.sh/
 - [ ] GitHub Foundations Certification - https://education.github.com/experiences/foundations_certificate
-- [ ] GITHUB - https://test-takers.psiexams.com/github
+- [ ] GITHUB - https://test-takers.psiexams.com/github SEPT 26
 - [ ] GIT RESOURCES - https://tinyurl.com/57ywpy63
+- [ ] GEOSPATIAL DATA APIs + https://tinyurl.com/4jm327k8 OCT 3
 
 ## WEBSITES TO COPY
 - [ ] https://tribevibe.live/campus-ambassador.php
