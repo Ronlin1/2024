@@ -39,6 +39,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] GeoMundus 2024! https://tinyurl.com/yft38cfd AUG 1 
 - [ ] Twilio’s AI Startup Searchlight 2.0 https://tinyurl.com/5n7tdkak SEPT 24
 - [ ] Student Energy Chapters Program - MAR 20 (MAIL)
+- [ ] Echoing Green Fellowship - https://tinyurl.com/4jxr8ka2 OCT 3
 - [ ] IEEE R8 AI Research Hub at GITEX - https://tinyurl.com/296hh68x AUG 3
 - [ ] AFYEL - https://afyel.org/ AUG 27
 - [ ] Richard E. Merwin Student Scholarship - https://tinyurl.com/pucstses SEP 20
