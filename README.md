@@ -32,12 +32,12 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] IBM TechXchange - https://tinyurl.com/v9h3vs8j SEPT 10
 - [ ] Shooting Stars Campus Ambassador  - https://tinyurl.com/36zcs9fx SEPT 14
 - [ ] HackAI - Dell and NVIDIA Challenge - SEPT 25
-- [ ] IBMZ Datahon - https://www.starhacks.org/2024-ssf-ibm-z-datathon SEPT 25
+- [ ] IBMZ Datathon - https://www.starhacks.org/2024-ssf-ibm-z-datathon SEPT 28
 - [ ] FALCON AI - https://lablab.ai/event/falcon-hackathon AUG 2
 - [ ] EQUALS in Tech Awards https://www.equalsintech.org/awards AUG 27
 - [ ] Climate Finance Academy 2 - https://tinyurl.com/452a6ft3 JULY 26
 - [ ] GeoMundus 2024! https://tinyurl.com/yft38cfd AUG 1 
-- [ ] Twilio’s AI Startup Searchlight 2.0 https://tinyurl.com/5n7tdkak SEPT 24
+- [ ] Twilio’s AI Startup Searchlight 2.0 https://tinyurl.com/5n7tdkak SEPT 26
 - [ ] Student Energy Chapters Program - MAR 20 (MAIL)
 - [ ] Echoing Green Fellowship - https://tinyurl.com/4jxr8ka2 OCT 3
 - [ ] IEEE R8 AI Research Hub at GITEX - https://tinyurl.com/296hh68x AUG 3
@@ -151,7 +151,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] SJ Fellowships - https://www.socialjusticeleadership.org/fellowships AUG 26
 - [ ] GYM - https://tinyurl.com/38s5weue JULY 16
 - [ ] The Awesome Foundation - https://tinyurl.com/yksea9nc OCT 17
-- [ ] Youth Zero Waste projects - https://tinyurl.com/4jvyay6y SEPT 21
+- [ ] Youth Zero Waste projects - https://tinyurl.com/4jvyay6y SEPT 27
 - [ ] The Girls Who Click Ambassador Program https://tinyurl.com/2k44msfd NOV 1
 - [ ] SPC Founder Fellowship - https://tinyurl.com/mubtayz9 AUG 4
 - [ ] UNECA FELLOWSHIP https://www.uneca.org/node/423 AUG 14
