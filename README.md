@@ -71,12 +71,18 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Lacuna Malaria Detection Challenge - https://tinyurl.com/4ntt8mbs 1st NOV
 - [ ] The CAN Data Science Fellowship - https://tinyurl.com/427nv2sb SEPT 3
 - [ ] Youth Interfaith Leaders - https://faithforourplanet.org/youth-fellowship/ AUG 29
+- [ ] Global Change Summit - https://tinyurl.com/yfmeyhvv OCT 3
+- [ ] AfriLabs LLAMA AI - https://tinyurl.com/3j3zd589 SEPT 23
+- [ ] Roblox Community Apprenticeship - https://tinyurl.com/4tpwppab OCT 10
+- [ ] 2025 Mo Ibrahim Foundation Leadership - https://tinyurl.com/2x598fb6 NOV 10
 - [ ] SAIS Investment Readiness Programme  - https://tinyurl.com/3puuypb8 AUG 31
 - [ ] EnergyTech University Prize 2025 - https://www.herox.com/EnergyTechUP - SEPT 5
 - [ ] DataWorks! Prize 2024 - https://www.herox.com/dataworks OCT 5
 - [ ] Drone Grants - https://tinyurl.com/yv5zz3wc SEPT 11
 - [ ] UAL Storytelling Fellowship https://tinyurl.com/3j52cfve SEPT 2
 - [ ] EMPOWER360 - https://tinyurl.com/y47a83n8 AUG 27
+- [ ] JICA NINJA Acceleration - https://tinyurl.com/3tw58ky8 OCT 1
+- [ ] 
 - [ ] The Dell STEM Aspire Mentorship Program - https://tinyurl.com/y335s83p SEPT 15
 - [ ] Techstars Anywhere Accelerator - https://tinyurl.com/yc5ywthu NOV 1
 - [ ] Africa Bitcoin Conference - https://tinyurl.com/mr2p3vdh SEPT 1
@@ -670,6 +676,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Florida State University Scholarship - https://tinyurl.com/3utex3j8 NOV 25
 - [ ] IRENA - https://tinyurl.com/4e655mbw SEPT 21
 - [ ] (PSP) for the 2025 - https://tinyurl.com/5ynksm2s OCT 15
+- [ ] WAAW Foundation Scholarship - https://waawfoundation.org/scholarship/ NOV 15
+- [ ] 
 - [ ] University of Cape Town Scholarship (African Centre For Cities) - https://tinyurl.com/2b2zzkzx SEPT 3 
 
 ## Jobs & Gigs & Internships
