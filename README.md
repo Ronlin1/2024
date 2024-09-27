@@ -169,6 +169,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] IEEE XTREME - https://xtreme.vtools.ieee.org/tego_/teams/new SEPT 05
 - [ ] NASA Space Apps Challenge Kampala https://tinyurl.com/bd728npx AUG 20
 - [ ] COP29 Youth Delegates - https://tinyurl.com/2p9yxcdk AUG 27
+- [ ] Aya x Lisk Builder Incubation  https://tinyurl.com/3rxyp95x NOV 11
 - [ ] International Climate Protection Fellowship - https://tinyurl.com/44azy6fb SEPT 26
 - [ ] YOUTHTOPIA - https://tinyurl.com/5n86yksc OCT 2
 - [ ] AI Call for Essays - https://tinyurl.com/ymax2d86 AUG 19
