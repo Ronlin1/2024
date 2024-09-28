@@ -67,6 +67,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] LIMITLESS PHASE 3  https://tinyurl.com/3strthhj AUG 18
 - [ ] ETH Zurich Scholarship 2025 - NOV 20
 - [ ] SLINGSHOT 2024 - https://tinyurl.com/mr3r8nx2 SEPT 29
+- [ ] International Climate Protection Fellowship https://tinyurl.com/5yr4jrcn Dec 10
 - [ ] MOSIP CREATE - https://tinyurl.com/mta5a7rh OCT 23
 - [ ] Lacuna Malaria Detection Challenge - https://tinyurl.com/4ntt8mbs 1st NOV
 - [ ] The CAN Data Science Fellowship - https://tinyurl.com/427nv2sb SEPT 3
