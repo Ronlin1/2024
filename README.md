@@ -49,7 +49,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] NoOnes Ambassador - https://tinyurl.com/5frzu7d7 OCT 17
 - [ ] World Bank Scholarships - https://tinyurl.com/5xev6a65 Jan 30
 - [ ] UNDP Research Fellow - https://tinyurl.com/y6twvy37 SEPT 21
-- [ ] Green Growth AgriHack  https://tinyurl.com/y342w3jw SEPT 28
+- [ ] Green Growth AgriHack  https://tinyurl.com/y342w3jw OCT 1
 - [ ] IBM Z Datathon - https://tinyurl.com/bdh4kctf SEPT 27
 - [ ] The Africa FinTech and AI Awards 2024 - https://fintechandaiawards.com/ AUG 27
 - [ ] GreSFET 2024 - https://gresfet.osc.int/en/about/competitions AUG 27
@@ -116,8 +116,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Hult Prize - https://www.hultprize.org/cd-application/ JULY 17
 - [ ] AfriLabs Ambassadorial - https://tinyurl.com/4pk5r5r7 OCT 4
 - [ ] Chemistry for Climate Action Challenge - https://shorturl.at/6bjHa SEPT 8
-- [ ] WEGE PRIZE - http://www.wegeprize.org/apply SEPT 29
-- [ ] Host a hackathon - https://garage48.edicy.co/host-a-hackathon SEPT 25
+- [ ] WEGE PRIZE - http://www.wegeprize.org/apply OCT 3
+- [ ] Host a hackathon - https://garage48.edicy.co/host-a-hackathon OCT 11
 - [ ] Halycon Climate Resilience https://www.halcyonhouse.org/programs/ OCT 3
 - [ ] NEC Innovation Challenge  https://shorturl.at/KasDZ SEPT 30
 - [ ] WBG Young Professionals https://tinyurl.com/bbxkhunz SEPT 23
@@ -854,7 +854,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] FITSPA https://fitspa.ug/publications#policies
 - [ ] Dev RoadMap - https://roadmap.sh/
 - [ ] GitHub Foundations Certification - https://education.github.com/experiences/foundations_certificate
-- [ ] GITHUB - https://test-takers.psiexams.com/github SEPT 26
+- [ ] GITHUB - https://test-takers.psiexams.com/github OCT 16
 - [ ] GIT RESOURCES - https://tinyurl.com/57ywpy63
 - [ ] GEOSPATIAL DATA APIs + https://tinyurl.com/4jm327k8 OCT 3
 
