@@ -443,6 +443,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] WUR - 2024 Food Systems Innovation Challenge - http://tinyurl.com/3828pysd 05 MAR
 - [ ] The Spring 2024 Social Innovation Challenge - http://tinyurl.com/5hdp5m3m 1 APRIL
 - [ ] INNOVATE THE FUTURE http://tinyurl.com/ra3du2jp MAR 20
+- [ ] D PRIZE - https://tinyurl.com/ydsnw2wf OCT 25
 - [ ] Challenge for Zero Hunger - http://tinyurl.com/34df2ec7 - 30 MAR
 - [ ] IEEE - http://tinyurl.com/pxvfav4f
 - [ ] The Leadership Advancement Programme (LAP) - https://unifog.org/
