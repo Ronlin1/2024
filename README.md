@@ -77,7 +77,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Roblox Community Apprenticeship - https://tinyurl.com/4tpwppab OCT 10
 - [ ] 2025 Mo Ibrahim Foundation Leadership - https://tinyurl.com/2x598fb6 NOV 10
 - [ ] SAIS Investment Readiness Programme  - https://tinyurl.com/3puuypb8 AUG 31
-- [ ] EnergyTech University Prize 2025 - https://www.herox.com/EnergyTechUP - SEPT 5
+- [ ] EnergyTech University Prize 2025 - https://www.herox.com/EnergyTechUP - DEC 25
 - [ ] DataWorks! Prize 2024 - https://www.herox.com/dataworks OCT 5
 - [ ] Drone Grants - https://tinyurl.com/yv5zz3wc SEPT 11
 - [ ] UAL Storytelling Fellowship https://tinyurl.com/3j52cfve SEPT 2
