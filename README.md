@@ -83,7 +83,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] UAL Storytelling Fellowship https://tinyurl.com/3j52cfve SEPT 2
 - [ ] EMPOWER360 - https://tinyurl.com/y47a83n8 AUG 27
 - [ ] JICA NINJA Acceleration - https://tinyurl.com/3tw58ky8 OCT 1
-- [ ] 
+- [ ] World Robot Olympiad - https://tinyurl.com/yzrn7t4h OCT 23
 - [ ] The Dell STEM Aspire Mentorship Program - https://tinyurl.com/y335s83p SEPT 15
 - [ ] Techstars Anywhere Accelerator - https://tinyurl.com/yc5ywthu NOV 1
 - [ ] Africa Bitcoin Conference - https://tinyurl.com/mr2p3vdh SEPT 1
