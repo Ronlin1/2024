@@ -232,7 +232,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] SOBTC PROPOSAL - 30 MAR
 - [ ] Food Chain Innovation - https://tinyurl.com/2c55t545 SEPT 27
 - [ ] EIT Food Challenge - https://tinyurl.com/2v9rrz2c 15 DEC
-- [ ] AFRICA PRIZE ENGINEERING - https://africaprize.raeng.org.uk/ SEPT 30
+- [ ] AFRICA PRIZE ENGINEERING - https://africaprize.raeng.org.uk/ OCT 5
 - [ ] Unipod Innovation Diagnostic - https://tinyurl.com/7f36dujn  JULY 3
 - [ ] Global Innovation Challenge https://tinyurl.com/k6ztrvrr JULY 10
 - [ ] Millenium Oceans Prize - https://www.millenniumoceans.org/meet-the-students JUNE 15
