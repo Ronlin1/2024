@@ -146,6 +146,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] YET4H https://tinyurl.com/4p47be5u JULY 26
 - [ ] WHRD and Feminist Bloggers https://tinyurl.com/46nyc3my AUG 21
 - [ ] AFCIA - https://tinyurl.com/4pkyu9hu JULY 30
+- [ ] Imagine Cup - https://imaginecup.microsoft.com/en-us OCT 20
 - [ ] Wilson CenteR iNTERN - https://tinyurl.com/4yh34sfu July 28
 - [ ] African Social Innovation fellowship https://dotakeaction.org/asif/ AUG 1
 - [ ] I4G marketing mETA - https://ingressive.org/i4g-marketing-scholarship/ JULY 23
