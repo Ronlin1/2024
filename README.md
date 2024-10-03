@@ -39,6 +39,11 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] GeoMundus 2024! https://tinyurl.com/yft38cfd AUG 1 
 - [ ] Twilio’s AI Startup Searchlight 2.0 https://tinyurl.com/5n7tdkak SEPT 26
 - [ ] Student Energy Chapters Program - MAR 20 (MAIL)
+- [ ] NASPAA simulations - https://tinyurl.com/vf5aeh53 DEC 12
+- [ ] Redpanda AI Hackathon - https://tinyurl.com/4ezhxufz OCT 15
+- [ ] dif hackathon2024 https://difhackathon2024.devpost.com/  OCT 22
+- [ ] Google Photorealistic 3D Maps Challenge - https://google3dmaps.devpost.com/ NOV 4
+- [ ] Google Chrome Built-in AI Challenge  https://googlechromeai.devpost.com/ NOV 21
 - [ ] Echoing Green Fellowship - https://tinyurl.com/4jxr8ka2 OCT 3
 - [ ] IEEE R8 AI Research Hub at GITEX - https://tinyurl.com/296hh68x AUG 3
 - [ ] AFYEL - https://afyel.org/ AUG 27
