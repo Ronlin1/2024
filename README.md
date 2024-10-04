@@ -32,6 +32,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] IBM TechXchange - https://tinyurl.com/v9h3vs8j SEPT 10
 - [ ] Shooting Stars Campus Ambassador  - https://tinyurl.com/36zcs9fx SEPT 14
 - [ ] HackAI - Dell and NVIDIA Challenge - SEPT 25
+- [ ] Cadence Innovation Projects - 07 OCT
+- [ ] GBSN Logistics Challenge https://gbsn.org/conference/slc/ OCT 06
 - [ ] IBMZ Datathon - https://www.starhacks.org/2024-ssf-ibm-z-datathon OCT 11
 - [ ] FALCON AI - https://lablab.ai/event/falcon-hackathon AUG 2
 - [ ] EQUALS in Tech Awards https://www.equalsintech.org/awards AUG 27
