@@ -32,7 +32,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] IBM TechXchange - https://tinyurl.com/v9h3vs8j SEPT 10
 - [ ] Shooting Stars Campus Ambassador  - https://tinyurl.com/36zcs9fx SEPT 14
 - [ ] HackAI - Dell and NVIDIA Challenge - SEPT 25
-- [ ] IBMZ Datathon - https://www.starhacks.org/2024-ssf-ibm-z-datathon SEPT 28
+- [ ] IBMZ Datathon - https://www.starhacks.org/2024-ssf-ibm-z-datathon OCT 11
 - [ ] FALCON AI - https://lablab.ai/event/falcon-hackathon AUG 2
 - [ ] EQUALS in Tech Awards https://www.equalsintech.org/awards AUG 27
 - [ ] Climate Finance Academy 2 - https://tinyurl.com/452a6ft3 JULY 26
@@ -729,6 +729,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] GIST Internship - https://ipa.gist.ac.kr/ipa/html/sub03/030101.html MAR 7
 - [ ] IDEA DEV https://tinyurl.com/2xrb6h2e 7 MAR
 - [ ] Mozida Foundation Scholarship Program
+- [ ] Knowledge Leadership Programme Intern - https://uafahrrec.peopleshr.com/ NOV 15
 - [ ] Data Collection on Innovations that Engender Meaningful - https://tinyurl.com/3ja9jhf4
 - [ ] IFRC Limitless YouthInnovation Academy Water Prize - https://tinyurl.com/n7bn4dz4
 - [ ] AISEC- https://aiesec.org/search?earliest_start_date=2024-03-05&programmes=8
