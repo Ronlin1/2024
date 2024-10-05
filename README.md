@@ -141,6 +141,11 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Falcon Hackathon - https://lablab.ai/event/falcon-hackathon JULY 24
 - [ ] Build Better on Stellar - https://dev.to/challenges/stellar AUG 15
 - [ ] Youth Interfaith Leaders Fellowship on Climate Change  - https://tinyurl.com/jn8ebtpc AUG 26
+- [ ] Emerging Climate Leaders Fellowship - https://tinyurl.com/34kpux9f NOV 1
+- [ ] Kectil https://kectil.com/ OPEN
+- [ ] Based Africa Buildathon - https://based-africa.devfolio.co/overview OCT 9
+- [ ] AVSthon https://tinyurl.com/3wfznktr OCT 8
+- [ ] Microsoft Fabric Hackathon  https://microsoftfabric.devpost.com/ OCT 25
 - [ ] Groundbreaker Talents - https://form.jotform.com/230782074011042 JULY 25
 - [ ] SIA - https://apply.socialimpactaward.net/uganda/ AUG 1
 - [ ] Digital ID Hackathon Africa - https://hackid-africa.devpost.com/ AUG 7
@@ -687,6 +692,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Florida State University Scholarship - https://tinyurl.com/3utex3j8 NOV 25
 - [ ] IRENA - https://tinyurl.com/4e655mbw SEPT 21
 - [ ] (PSP) for the 2025 - https://tinyurl.com/5ynksm2s OCT 15
+- [ ] Ministry of Sports - https://www.education.go.ug/scholarships/ OPEN
 - [ ] WAAW Foundation Scholarship - https://waawfoundation.org/scholarship/ NOV 15
 - [ ] 
 - [ ] University of Cape Town Scholarship (African Centre For Cities) - https://tinyurl.com/2b2zzkzx SEPT 3 
