@@ -55,6 +55,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] MIL Youth Hackathon - https://tinyurl.com/3fd37mz9 AUG 21
 - [ ] Microsoft Student Innovator Series - https://tinyurl.com/54vwya6c SEPT 28
 - [ ] NoOnes Ambassador - https://tinyurl.com/5frzu7d7 OCT 17
+- [ ] Africa Innovation Fellowship https://tinyurl.com/2498exc2 OCT 20
 - [ ] World Bank Scholarships - https://tinyurl.com/5xev6a65 Jan 30
 - [ ] IEEE Region 8 Climate Challenge - https://tinyurl.com/26khw3we OCT 23
 - [ ] UNDP Research Fellow - https://tinyurl.com/y6twvy37 SEPT 21
