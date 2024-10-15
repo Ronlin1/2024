@@ -56,6 +56,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Microsoft Student Innovator Series - https://tinyurl.com/54vwya6c SEPT 28
 - [ ] NoOnes Ambassador - https://tinyurl.com/5frzu7d7 OCT 17
 - [ ] Africa Innovation Fellowship https://tinyurl.com/2498exc2 OCT 20
+- [ ] GSEA 2024-2025  - https://gsea.org/APPLY NOV 10
 - [ ] World Bank Scholarships - https://tinyurl.com/5xev6a65 Jan 30
 - [ ] IEEE Region 8 Climate Challenge - https://tinyurl.com/26khw3we OCT 23
 - [ ] UNDP Research Fellow - https://tinyurl.com/y6twvy37 SEPT 21
@@ -418,6 +419,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Acumen Fellows - https://fellowship.acumenacademy.org/east-africa
 - [ ] IDEX Fellows - https://graymatterscap.com/idex-global-fellowship/
 - [ ] POSTMAN ACADEMY - http://tinyurl.com/39fer5rp 10 APR
+- [ ] Redsalt Angel Investment - https://www.rain-redsalt.org/joinus NOV 13
 - [ ] POSTMAN LEADER - https://www.postman.com/student-program/student-leader/
 - [ ] GITEX PITCH - https://gitexafrica.com/africa-supernova-challenge 5 APRIL
 - [ ] UiPath - https://community.uipath.com/get-involved/start-a-chapter/ 5 MAR
