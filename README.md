@@ -49,6 +49,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Echoing Green Fellowship - https://tinyurl.com/4jxr8ka2 OCT 3
 - [ ] IEEE R8 AI Research Hub at GITEX - https://tinyurl.com/296hh68x AUG 3
 - [ ] AFYEL - https://afyel.org/ AUG 27
+- [ ] Hack MIT https://hackmit.org/ SEP 9
+- [ ] META Hacker https://www.facebook.com/codingcompetitions/hacker-cup/ Cup DEC 10
 - [ ] ISFiT 2025 - https://www.isfit.org/copy-of-theme OCT 12
 - [ ] Richard E. Merwin Student Scholarship - https://tinyurl.com/pucstses SEP 20
 - [ ] MultiChoice Talent Factory Academy - https://tinyurl.com/3hp5c6sd SEPT 3
