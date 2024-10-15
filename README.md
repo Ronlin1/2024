@@ -56,6 +56,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Microsoft Student Innovator Series - https://tinyurl.com/54vwya6c SEPT 28
 - [ ] NoOnes Ambassador - https://tinyurl.com/5frzu7d7 OCT 17
 - [ ] World Bank Scholarships - https://tinyurl.com/5xev6a65 Jan 30
+- [ ] IEEE Region 8 Climate Challenge - https://tinyurl.com/26khw3we OCT 23
 - [ ] UNDP Research Fellow - https://tinyurl.com/y6twvy37 SEPT 21
 - [ ] Green Growth AgriHack  https://tinyurl.com/y342w3jw OCT 1
 - [ ] IBM Z Datathon - https://tinyurl.com/bdh4kctf SEPT 27
