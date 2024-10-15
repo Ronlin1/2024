@@ -103,6 +103,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Accelerate Africa https://tinyurl.com/4n58fmfw SEPT 15
 - [ ] WCRP 2024 https://tinyurl.com/wtatps7v SEPT 28
 - [ ] VCT Hackathon - https://vcthackathon.devpost.com/rules OCT 1
+- [ ] 𝗚𝗼𝗼𝗴𝗹𝗲 𝗖𝗹𝗼𝘂𝗱 𝗚𝗲𝗺𝗶𝗻𝗶 𝗛𝗮𝗰𝗸𝗮𝘁𝗵𝗼𝗻 - https://lnkd.in/dSWeehKT NOV 1
 - [ ] IBM Call For Code - https://tinyurl.com/3razfn3d SEPT 15
 - [ ] Changemakers for the Planet - https://tinyurl.com/yppbvcyt SEPT 11
 - [ ] NGO CSW/NY Global Youth Fellows - https://tinyurl.com/4txeyram SEPT 06
