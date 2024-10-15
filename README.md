@@ -58,7 +58,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] World Bank Scholarships - https://tinyurl.com/5xev6a65 Jan 30
 - [ ] IEEE Region 8 Climate Challenge - https://tinyurl.com/26khw3we OCT 23
 - [ ] UNDP Research Fellow - https://tinyurl.com/y6twvy37 SEPT 21
+- [ ] Community Food Systems Fellowship - https://tinyurl.com/4jxp7wyh NOV 1
 - [ ] Green Growth AgriHack  https://tinyurl.com/y342w3jw OCT 1
+- [ ] beVisioneers Fellowship - https://tinyurl.com/dwuhp87t DEC 15
 - [ ] IBM Z Datathon - https://tinyurl.com/bdh4kctf SEPT 27
 - [ ] The Africa FinTech and AI Awards 2024 - https://fintechandaiawards.com/ AUG 27
 - [ ] GreSFET 2024 - https://gresfet.osc.int/en/about/competitions AUG 27
@@ -351,7 +353,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ]  Lwera Innovation Catalyst Fund - https://tinyurl.com/4k69ku94 AUG 15
 - [ ]  Purpose Earth Grants - https://www.purposeearth.org/apply-for-a-grant AUG 22
 - [ ]  Catapult: Inclusion Africa - https://tinyurl.com/2wvs6jse SEPT 3
-
+- [ ]  India Acumen Fellowship https://tinyurl.com/5dunwrwk OCT 20
+- [ ]  Yale University Emerging Climate Leaders https://tinyurl.com/52w5pjwp NOV 1
 - [ ] https://hackp.ac/address MLH SWAG
 - [ ] Chegg student Award https://varkeyfoundation.awardsplatform.com/ - 25th APRIL
 - [ ] Annual Student Research Symposium https://abctstudent.wixsite.com/abct-student-special/general-9 25 MARCH
@@ -376,7 +379,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] JEDI SCHOLARSHIP - https://ases.org/conference/jedischolarship/ - Feb 15
 - [ ] DHC+ Student Awards - https://www.judgify.me/dhcplus-student-awards 14 FEB
 - [ ] RES4Africa Academy
-- [ ] 
+- [ ] WWF Russell E. Train Fellowships https://tinyurl.com/yz7ruyn6 DEC 11
 - [ ] YCJF - Communication Manager - https://forms.gle/cQYq4yuKZFkuABzj7 FEB 14
 - [ ] ECOSOC Youth Forum - https://lnkd.in/dBa8AVX3 FEB 14
 - [ ] Net Zero Scholars - https://www.oneyoungworld.com/scholarships/net-zero/2024 - MAR 29
@@ -461,7 +464,16 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] WUR - 2024 Food Systems Innovation Challenge - http://tinyurl.com/3828pysd 05 MAR
 - [ ] The Spring 2024 Social Innovation Challenge - http://tinyurl.com/5hdp5m3m 1 APRIL
 - [ ] INNOVATE THE FUTURE http://tinyurl.com/ra3du2jp MAR 20
+- [ ] Poverty Action Peace and Recovery Initiative - https://tinyurl.com/mctmvueu NOV 10
+- [ ] (PPIA) Fellowship https://tinyurl.com/5xpvjkwa OCT 25
+- [ ] BMO Fellowship https://tinyurl.com/5dxmw8yy DEC 27
+- [ ] Harvard WECode 2025 https://tinyurl.com/wheftd6d OCT 27
+- [ ] Greenberg World fellows  - https://worldfellows.yale.edu/ NOV 10
+- [ ] Breakthrough Energy Fellows Cohort 5 https://tinyurl.com/4h3utf2p NOV 26 
 - [ ] D PRIZE - https://tinyurl.com/ydsnw2wf OCT 25
+- [ ] MOPGA https://tinyurl.com/2xh44n7u NOV 29
+- [ ] Solvers Accelerator Program https://tinyurl.com/ynrb9w5z DEC 5
+- [ ] MountainTop Standard Fellowship  https://tinyurl.com/3bnzp6tu NOV 10
 - [ ] Challenge for Zero Hunger - http://tinyurl.com/34df2ec7 - 30 MAR
 - [ ] IEEE - http://tinyurl.com/pxvfav4f
 - [ ] The Leadership Advancement Programme (LAP) - https://unifog.org/
@@ -693,6 +705,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Minds Scholarships - https://tinyurl.com/5y45pf5r OCT 13
 - [ ] UG SCHOLARSHIPS - https://www.education.go.ug/scholarships/ VARIETY OCT 30
 - [ ] Switzerland Scholarships - https://tinyurl.com/2hsne3wt OPEN
+- [ ] Digital Governance Scholarship in Berlin - https://tinyurl.com/mpmnfktp DEC 25
 - [ ] Commonwealth Masters Scholarships 2025 - https://tinyurl.com/r3en5ak  OCT 4
 - [ ] Florida State University Scholarship - https://tinyurl.com/3utex3j8 NOV 25
 - [ ] IRENA - https://tinyurl.com/4e655mbw SEPT 21
