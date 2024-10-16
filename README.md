@@ -130,6 +130,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Call for Tech Events Speakers - https://tinyurl.com/2yhxtrta AUG 18
 - [ ] SDGs Campus Ambassador - https://tinyurl.com/3awrfsa3 AUG 18
 - [ ] The Earth Prize - https://www.theearthprize.org/schools OCT 13
+- [ ] Digital Democracy Initiative - https://tinyurl.com/3wbhckyk OCT 19
 - [ ] Innovation Fellowships  - https://tinyurl.com/jhru8hcn  NOV 15
 - [ ] Postman API Fundamentals https://tinyurl.com/ycmtxjca OCT 15
 - [ ] Hult Prize - https://www.hultprize.org/cd-application/ JULY 17
@@ -708,6 +709,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Schwarzman Scholars Program - https://tinyurl.com/2ncpr7e8 SEPT 8
 - [ ] 25 Scholarships - https://drive.google.com/file/d/1Hr8gWousyUMcp_V7vdMOG5ektMh8_dQf/view
 - [ ] Minds Scholarships - https://tinyurl.com/5y45pf5r OCT 13
+- [ ] 2025 Innovation and Technology - https://tinyurl.com/yzt53w5b OCT 21
 - [ ] UG SCHOLARSHIPS - https://www.education.go.ug/scholarships/ VARIETY OCT 30
 - [ ] Switzerland Scholarships - https://tinyurl.com/2hsne3wt OPEN
 - [ ] Digital Governance Scholarship in Berlin - https://tinyurl.com/mpmnfktp DEC 25
