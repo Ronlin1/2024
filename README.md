@@ -718,6 +718,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Ministry of Sports - https://www.education.go.ug/scholarships/ OPEN
 - [ ] WAAW Foundation Scholarship - https://waawfoundation.org/scholarship/ NOV 15
 - [ ] Scholarships 4 Ugandans - https://tinyurl.com/43bfwua7 NOV 10
+- [ ] Honjo JPY https://tinyurl.com/epbhhfuj OCT 21
+- [ ] Slovak Government  https://greatyop.com/slovak-government-scholarship/ OCT 21
+- [ ] 
 - [ ] University of Cape Town Scholarship (African Centre For Cities) - https://tinyurl.com/2b2zzkzx SEPT 3 
 
 ## Jobs & Gigs & Internships
