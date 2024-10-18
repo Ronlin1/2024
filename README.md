@@ -74,7 +74,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Agrinnovation Summit 1.0 - https://agrinnovationsummit.com/ SEPT 1
 - [ ] EAC Youth Fellowship - https://portal.youlead.africa/public/events# AUG 27
 - [ ] Africa Climate Mobility Youth Survey - https://shorturl.at/qoByK SEPT 3
-- [ ] Global Changers Recoupling Awards - https://tinyurl.com/mt4cwbbs OCT 18
+- [ ] Global Changers Recoupling Awards - https://tinyurl.com/mt4cwbbs OCT 26
 - [ ] UPG 2025 - https://tinyurl.com/y3ruz8hm DEC 22
 - [ ] Nasdaq - https://tinyurl.com/y9fm88n3 OCT 24
 - [ ] The Earthshot Prize Youth https://commonpurpose.org/tep-youth SEP 27
