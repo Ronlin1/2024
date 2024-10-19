@@ -41,6 +41,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] GeoMundus 2024! https://tinyurl.com/yft38cfd AUG 1 
 - [ ] Twilio’s AI Startup Searchlight 2.0 https://tinyurl.com/5n7tdkak SEPT 26
 - [ ] Student Energy Chapters Program - MAR 20 (MAIL)
+- [ ] Mountaintop International Fellowship - https://tinyurl.com/mwfvnmmz NOV 3
 - [ ] NASPAA simulations - https://tinyurl.com/vf5aeh53 DEC 12
 - [ ] Redpanda AI Hackathon - https://tinyurl.com/4ezhxufz OCT 15
 - [ ] dif hackathon2024 https://difhackathon2024.devpost.com/  OCT 22
@@ -50,6 +51,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] IEEE R8 AI Research Hub at GITEX - https://tinyurl.com/296hh68x AUG 3
 - [ ] AFYEL - https://afyel.org/ AUG 27
 - [ ] Hack MIT https://hackmit.org/ SEP 9
+- [ ] (RGS)-IBG Fieldwork Grants - https://tinyurl.com/39nc42xf NOV 15
 - [ ] META Hacker https://www.facebook.com/codingcompetitions/hacker-cup/ Cup DEC 10
 - [ ] ISFiT 2025 - https://www.isfit.org/copy-of-theme OCT 12
 - [ ] Richard E. Merwin Student Scholarship - https://tinyurl.com/pucstses SEP 20
@@ -91,6 +93,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Global Change Summit - https://tinyurl.com/yfmeyhvv OCT 3
 - [ ] AfriLabs LLAMA AI - https://tinyurl.com/3j3zd589 SEPT 23
 - [ ] Roblox Community Apprenticeship - https://tinyurl.com/4tpwppab OCT 10
+- [ ] ILO’s Global Media Competition - https://tinyurl.com/2p6asvh5 OCT 27
+- [ ] Commonwealth Short Story https://tinyurl.com/k4kstj9x OCT 28
+- [ ] ‘Network Solutions’ Grant - https://tinyurl.com/4cmzvwvf OCT 21
 - [ ] 2025 Mo Ibrahim Foundation Leadership - https://tinyurl.com/2x598fb6 NOV 10
 - [ ] SAIS Investment Readiness Programme  - https://tinyurl.com/3puuypb8 AUG 31
 - [ ] EnergyTech University Prize 2025 - https://www.herox.com/EnergyTechUP - DEC 25
@@ -111,10 +116,14 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] WCRP 2024 https://tinyurl.com/wtatps7v SEPT 28
 - [ ] VCT Hackathon - https://vcthackathon.devpost.com/rules OCT 1
 - [ ] 𝗚𝗼𝗼𝗴𝗹𝗲 𝗖𝗹𝗼𝘂𝗱 𝗚𝗲𝗺𝗶𝗻𝗶 𝗛𝗮𝗰𝗸𝗮𝘁𝗵𝗼𝗻 - https://lnkd.in/dSWeehKT NOV 1
+- [ ] Youth Awards for Excellence - https://tinyurl.com/yy6vrcpp OCT 26
+- [ ] Girls Belong Here https://tinyurl.com/54z7jdm2 NOV 1 
 - [ ] IBM Call For Code - https://tinyurl.com/3razfn3d SEPT 15
 - [ ] Changemakers for the Planet - https://tinyurl.com/yppbvcyt SEPT 11
 - [ ] NGO CSW/NY Global Youth Fellows - https://tinyurl.com/4txeyram SEPT 06
 - [ ] ICTworks - https://tinyurl.com/yy4sm2x4 SEPT 10
+- [ ] AILA International Fellowship - https://tinyurl.com/4a8tms9v JAN 1
+- [ ] 
 - [ ] Commonwealth Youth Programme -https://thecommonwealth.org/our-work/youth https://tinyurl.com/jnmfpmhp 10 OCT
 - [ ] https://thecommonwealth.org/our-work/youth CYP 10 OCT
 - [ ] RevenueCat Ship-a-ton - https://revenuecat-ship-a-ton.devpost.com/resources SEPT 5
@@ -219,6 +228,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] XR Mentorship Program - https://tinyurl.com/ync4vu4s JULY 29
 - [ ] UN VolunteerS - https://app.unv.org/ ROLLING BASIS
 - [ ] Hello Tomorrow - https://tinyurl.com/yc29unkz SEPT 10
+- [ ] Youth Design Challenge https://tinyurl.com/689edstm NOV 23
+- [ ] KAICIID https://tinyurl.com/akycnrk8 NOV 2
+- [ ] 
 - [ ] (GORILLA) 2024 - https://gorilla.mak.ac.ug/ 15 AUG
 - [ ] Canva AI - https://tinyurl.com/3b7a76hv AUG 3
 - [ ] Constellation Metagraph - https://tinyurl.com/47h4at4y SEPT 1
@@ -707,9 +719,11 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] NL Scholarship - https://tinyurl.com/b7jdyye9 SEPT 07
 - [ ] International Parliamentary Scholarships https://tinyurl.com/5avffye8 - AUG 24
 - [ ] African Development Bank-Japan - https://tinyurl.com/mr9t8jce SEPT 10
+- [ ] Earth University’s MasterCard Foundation - https://tinyurl.com/yr3bz8pk DEC 23
 - [ ] Schwarzman Scholars Program - https://tinyurl.com/2ncpr7e8 SEPT 8
 - [ ] 25 Scholarships - https://drive.google.com/file/d/1Hr8gWousyUMcp_V7vdMOG5ektMh8_dQf/view
 - [ ] Minds Scholarships - https://tinyurl.com/5y45pf5r OCT 13
+- [ ] DAAD Scholarships - https://tinyurl.com/46en9dyb NOV 10
 - [ ] 2025 Innovation and Technology - https://tinyurl.com/yzt53w5b OCT 21
 - [ ] UG SCHOLARSHIPS - https://www.education.go.ug/scholarships/ VARIETY OCT 30
 - [ ] Switzerland Scholarships - https://tinyurl.com/2hsne3wt OPEN
