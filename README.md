@@ -66,6 +66,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] UNDP Research Fellow - https://tinyurl.com/y6twvy37 SEPT 21
 - [ ] Community Food Systems Fellowship - https://tinyurl.com/4jxp7wyh NOV 1
 - [ ] Green Growth AgriHack  https://tinyurl.com/y342w3jw OCT 1
+- [ ] Commonwealth Youth Award - https://tinyurl.com/yp2vparb OCT 24
 - [ ] beVisioneers Fellowship - https://tinyurl.com/dwuhp87t DEC 15
 - [ ] IBM Z Datathon - https://tinyurl.com/bdh4kctf SEPT 27
 - [ ] ATLANTIC FELLOWS https://tinyurl.com/4su9n9m8 JAN 1
@@ -269,6 +270,10 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] YSAU - https://mail.google.com/mail/u/0/#all/FMfcgzQVxRCkgRbCmPqQgvFQfNPkzxnF JULY 25
 - [ ] https://github.com/SummerOfBitcoin/code-challenge-2024-Ronlin1 APR 20
 - [ ] SOBTC PROPOSAL - 30 MAR
+- [ ] MenaML - https://www.mena.ml/ OCT 27
+- [ ] Global China Fellows https://tinyurl.com/593k2zj4 NOV 2
+- [ ] MCW Young Leaders Fellowship https://tinyurl.com/3uphysup NOV 4
+- [ ] Harvard Environmental Fellows - https://tinyurl.com/mu6z4mef DEC 29
 - [ ] Food Chain Innovation - https://tinyurl.com/2c55t545 SEPT 27
 - [ ] EIT Food Challenge - https://tinyurl.com/2v9rrz2c 15 DEC
 - [ ] AFRICA PRIZE ENGINEERING - https://africaprize.raeng.org.uk/ OCT 5
@@ -307,7 +312,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ]  WFP Accelerator - https://innovation.wfp.org/ OPEN
 - [ ]  ESD Award - https://tinyurl.com/py5h6dj3 JULY 7
 - [ ]  AmplifyChange - https://amplifychange.org/apply/ ONGOING
-- [ ]  Student GSE https://www.gsea.org/ OCT 10
+- [ ]  Student GSE https://www.gsea.org/ NOV 15
 - [ ]  Social Shifters Global Innovation https://tinyurl.com/yckm7ssj JULY 25
 - [ ]  ELISA Scholars Training https://elisanetwork.com/scholars/ JUNE 22
 - [ ]  The Nobellum Innovator Program https://www.nobellum.com/program-criteria JUNE 20
@@ -315,6 +320,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ]  The Global Undergraduate Awards https://undergraduateawards.com/ JUNE 4
 - [ ]  PDMA Student - https://www.pdma.org/page/student-innovation-challenge MAY 31
 - [ ]  YPFP-Fellowship - https://tinyurl.com/ytaatu7m - JUNE 4
+- [ ]  PJ - https://theirworld.org/join-our-team/ NOV 8
 - [ ]  A2SV Hackathon, 2024 - https://hackathon.a2sv.org/ JUNE 28
 - [ ]  Twilio Challenge - https://dev.to/challenges/twilio JUNE 12
 - [ ]  Ellison Scholars - https://eit.org/ellisonscholars/ AUG 15
@@ -520,6 +526,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Theirworld’s Global Youth Ambassador - https://theirworld.org/global-youth-ambassador/ MAR 10
 - [ ] Data-Pop Alliance Intern - https://www.globalsouthopportunities.com/2024/03/03/dpa/ MAR 7
 - [ ] AGYLE Young Leaders - https://tinyurl.com/bd42zn44 APRIL 1
+- [ ] New Generation Leaders Summit - https://tinyurl.com/3h4ee3dk NOV 20
 - [ ] LLDC3 Young Storytellers - https://www.un.org/en/landlocked/fellows MAR 7
 - [ ] The Club of Rome Communications Fellowship - https://tinyurl.com/3msf8xnv APRIL 3
 - [ ] CCES - https://tinyurl.com/49rfj7y5 14 MAR
@@ -730,6 +737,10 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Switzerland Scholarships - https://tinyurl.com/2hsne3wt OPEN
 - [ ] Digital Governance Scholarship in Berlin - https://tinyurl.com/mpmnfktp DEC 25
 - [ ] Commonwealth Masters Scholarships 2025 - https://tinyurl.com/r3en5ak  OCT 4
+- [ ] MAPP Scholarship - https://tinyurl.com/y4z8v92 - DEC 29
+- [ ] Hanjo Foundation https://tinyurl.com/3zhe2d7w OCT 25
+- [ ] MORE OPPORTUNITIES - https://opportunitiescorners.com/
+- [ ] Gates Cambridge  - https://tinyurl.com/y24djkxd NOV 21
 - [ ] Florida State University Scholarship - https://tinyurl.com/3utex3j8 NOV 25
 - [ ] IRENA - https://tinyurl.com/4e655mbw SEPT 21
 - [ ] (PSP) for the 2025 - https://tinyurl.com/5ynksm2s OCT 15
