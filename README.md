@@ -68,6 +68,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Green Growth AgriHack  https://tinyurl.com/y342w3jw OCT 1
 - [ ] beVisioneers Fellowship - https://tinyurl.com/dwuhp87t DEC 15
 - [ ] IBM Z Datathon - https://tinyurl.com/bdh4kctf SEPT 27
+- [ ] ATLANTIC FELLOWS https://tinyurl.com/4su9n9m8 JAN 1
 - [ ] The Africa FinTech and AI Awards 2024 - https://fintechandaiawards.com/ AUG 27
 - [ ] GreSFET 2024 - https://gresfet.osc.int/en/about/competitions AUG 27
 - [ ] FFOP Youth Interfaith Leaders - https://faithforourplanet.org/youth-fellowship/ AUG 28
@@ -745,6 +746,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] https://morganstanley.tal.net/vx/candidate/apply/15935
 - [ ] Digital Africa Talent 4 Startups - https://talent4startups.digital-africa.co/ - 20th FEB
 - [ ] UN Cyber Sec JOB http://tinyurl.com/ydp66hbv  5MAR
+- [ ] RISE Summer Internship https://tinyurl.com/3bbmyfz7 NOV 15
 - [ ] Internships with FES Uganda https://uganda.fes.de/about/internships-with-fes-uganda
 - [ ] MINISTRY OF GENDER, LABOUR AND SOCIAL DEVELOPMENT INTERNS - https://mglsd.go.ug/internship/
 - [ ] Global Steering Committee  - https://tinyurl.com/57bku2ct SEPT 11
