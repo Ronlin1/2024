@@ -337,7 +337,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Timbuktoo Fintech Startup Accelerator Programme - https://tinyurl.com/bddkzy5n JUNE 18
 - [ ] UNBS ARSO Essay - 29th FEB
 - [X] GMD Gender End GBV Essay - 15TH DEC 2023
-- [ ] DLI nvidia -  https://www.nvidia.com/en-in/deep-learning-ai/education/ambassador-program/ OCT 20
+- [ ] DLI nvidia -  https://www.nvidia.com/en-in/deep-learning-ai/education/ambassador-program/ DEC 20
 - [ ] The Liveability Challenge 2024 - https://shorturl.at/cdvQ6 - Feb 9th
 - [x] The Headstream Accelerator - https://shorturl.at/bqsDT - JAN 24TH
 - [ ] Hacklab Foundation - https://connect.hacklabfoundation.org/ - 
