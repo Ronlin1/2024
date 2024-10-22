@@ -52,6 +52,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] IEEE R8 AI Research Hub at GITEX - https://tinyurl.com/296hh68x AUG 3
 - [ ] AFYEL - https://afyel.org/ AUG 27
 - [ ] Hack MIT https://hackmit.org/ SEP 9
+- [ ] Aria Multimodal Hackathon - https://tinyurl.com/4jwpwejb OCT 30
 - [ ] (RGS)-IBG Fieldwork Grants - https://tinyurl.com/39nc42xf NOV 15
 - [ ] META Hacker https://www.facebook.com/codingcompetitions/hacker-cup/ Cup DEC 10
 - [ ] ISFiT 2025 - https://www.isfit.org/copy-of-theme OCT 12
