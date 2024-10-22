@@ -883,6 +883,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] WTO Young Traders - https://tinyurl.com/3a2ckb8t JUNE 30
 - [ ] REMOTE ROLES - SITES - https://tinyurl.com/4e3e5srf
 - [ ] GenAi meetup Uganda https://lu.ma/b181l997 JULY 26
+- [ ] AT Summit UG - 23-26
+- [ ] DAYTONA DEVS TOUR UG - 02 NOV
+- [ ] AI HEALTH CONFERENCE NOV 28
 - [ ] ELISA-Member-Relations-Coordinator - https://tinyurl.com/4fwd4ww2 SEPT 15
 - [ ] CERN Students Opportunities https://careers.smartrecruiters.com/CERN/students DEC 10
 - [ ] Freelancers Summit - 14th SEPT - MOTIV
