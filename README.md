@@ -41,6 +41,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] GeoMundus 2024! https://tinyurl.com/yft38cfd AUG 1 
 - [ ] Twilio’s AI Startup Searchlight 2.0 https://tinyurl.com/5n7tdkak SEPT 26
 - [ ] Student Energy Chapters Program - MAR 20 (MAIL)
+- [ ] aria-multimodal-hackathon https://lablab.ai/event/aria-multimodal-hackathon OCT 30
 - [ ] Mountaintop International Fellowship - https://tinyurl.com/mwfvnmmz NOV 3
 - [ ] NASPAA simulations - https://tinyurl.com/vf5aeh53 DEC 12
 - [ ] Redpanda AI Hackathon - https://tinyurl.com/4ezhxufz OCT 15
