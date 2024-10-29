@@ -760,7 +760,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Scholarships 4 Ugandans - https://tinyurl.com/43bfwua7 NOV 10
 - [ ] Honjo JPY https://tinyurl.com/epbhhfuj OCT 21
 - [ ] Slovak Government  https://greatyop.com/slovak-government-scholarship/ OCT 21
-- [ ] 
+- [ ] Michigan State University (MSU) https://mfai-ug.com/msu-2/ ROLLING
 - [ ] University of Cape Town Scholarship (African Centre For Cities) - https://tinyurl.com/2b2zzkzx SEPT 3 
 
 ## Jobs & Gigs & Internships
@@ -847,7 +847,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] 2024 School CLIMATE - https://caterschools.net/2024-school APR 15
 - [ ] Social Progress Intern   https://tinyurl.com/mr2rkzj9 SEPT 29
 - [ ] Program Entrance Survey MCN - https://tinyurl.com/2euuxe67 SEPT 26
-- [ ] 
+- [ ] LWERA https://lwerasemiconductors.com/ 
 - [ ] GoGettaz AGRIC - https://tinyurl.com/4uy5hw63 MAY 31
 - [ ] Matsumae International Foundation Fellowship
 - [ ] GLOBAL STARTUP AWARDS  - https://tinyurl.com/2fauc8fx 1 MAY
@@ -895,7 +895,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] GenAi meetup Uganda https://lu.ma/b181l997 JULY 26
 - [ ] AT Summit UG - 23-26
 - [ ] DAYTONA DEVS TOUR UG - 02 NOV
-- [ ] AI HEALTH CONFERENCE NOV 28
+- [ ] AI HEALTH CONFERENCE https://makerereaihealthlab.com/conference.html NOV 28
 - [ ] ELISA-Member-Relations-Coordinator - https://tinyurl.com/4fwd4ww2 SEPT 15
 - [ ] CERN Students Opportunities https://careers.smartrecruiters.com/CERN/students DEC 10
 - [ ] Freelancers Summit - 14th SEPT - MOTIV
