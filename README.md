@@ -943,6 +943,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] GITHUB - https://test-takers.psiexams.com/github OCT 16
 - [ ] GIT RESOURCES - https://tinyurl.com/57ywpy63
 - [ ] GEOSPATIAL DATA APIs + https://tinyurl.com/4jm327k8 OCT 3
+- [ ] MY RESEARCH - https://dl.acm.org/doi/10.1145/3675888.3676060
 
 ## WEBSITES TO COPY
 - [ ] https://tribevibe.live/campus-ambassador.php
