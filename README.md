@@ -37,11 +37,15 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] GBSN Logistics Challenge https://gbsn.org/conference/slc/ OCT 06
 - [ ] IBMZ Datathon - https://www.starhacks.org/2024-ssf-ibm-z-datathon OCT 11
 - [ ] FALCON AI - https://lablab.ai/event/falcon-hackathon AUG 2
+- [ ] ECO SKILLS CHALLENGE - https://opportunegate.online/eco-skills-challenge-2025 DEC 30
+- [ ] ACIC 2024 - https://tinyurl.com/y2wa5yxs OCT 31
 - [ ] EQUALS in Tech Awards https://www.equalsintech.org/awards AUG 27
 - [ ] Climate Finance Academy 2 - https://tinyurl.com/452a6ft3 JULY 26
 - [ ] GeoMundus 2024! https://tinyurl.com/yft38cfd AUG 1 
 - [ ] Twilio’s AI Startup Searchlight 2.0 https://tinyurl.com/5n7tdkak SEPT 26
 - [ ] Student Energy Chapters Program - MAR 20 (MAIL)
+- [ ] TINY FELLOWSHIP -https://opportunegate.online/tiny-fellowship 28TH OCT
+- [ ] Satellites for Biodiversity Award  3 NOV
 - [ ] aria-multimodal-hackathon https://lablab.ai/event/aria-multimodal-hackathon OCT 30
 - [ ] Mountaintop International Fellowship - https://tinyurl.com/mwfvnmmz NOV 3
 - [ ] NASPAA simulations - https://tinyurl.com/vf5aeh53 DEC 12
