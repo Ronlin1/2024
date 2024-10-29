@@ -112,6 +112,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] SAIS Investment Readiness Programme  - https://tinyurl.com/3puuypb8 AUG 31
 - [ ] EnergyTech University Prize 2025 - https://www.herox.com/EnergyTechUP - DEC 25
 - [ ] UNCCD COP 16 - https://tinyurl.com/3c32wuct OCT 11
+- [ ] Global Social Impact House https://lnkd.in/dpmKaJVD DEC 31
 - [ ] IOC Young Leaders Programme - https://tinyurl.com/539nw68y DEC 11
 - [ ] DataWorks! Prize 2024 - https://www.herox.com/dataworks OCT 5
 - [ ] Drone Grants - https://tinyurl.com/yv5zz3wc SEPT 11
