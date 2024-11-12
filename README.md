@@ -52,6 +52,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Redpanda AI Hackathon - https://tinyurl.com/4ezhxufz OCT 15
 - [ ] dif hackathon2024 https://difhackathon2024.devpost.com/  OCT 22
 - [ ] ENS International Selection - https://tinyurl.com/38r8ku2t NOV 20
+- [ ] Peace Corps Ambassador https://tinyurl.com/25k9k888 NOV 14
 - [ ] Google Photorealistic 3D Maps Challenge - https://google3dmaps.devpost.com/ NOV 4
 - [ ] Google Chrome Built-in AI Challenge  https://googlechromeai.devpost.com/ NOV 21
 - [ ] Echoing Green Fellowship - https://tinyurl.com/4jxr8ka2 OCT 3
