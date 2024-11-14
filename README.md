@@ -493,6 +493,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] AFRIKA KOMMT https://afrika-kommt.de/become-a-fellow/ 20 MAR
 - [ ] UNFCCC Internship http://tinyurl.com/3mkacrv6 3 MAR
 - [ ] Global Student Innovation Challenge - 20 MAY
+- [ ] Peace Corps Ambassador - https://tinyurl.com/25k9k888 NOV 22
 - [ ] AirDrop labs http://tinyurl.com/mryah2hh - 04 MAR
 - [ ] CIEE UNHCR Student Challenge - https://www.globalinternshipconference.com/2024/student-challenge
 - [ ] CIOB Global Student Challenge - https://gsc.ciob.org/enter/
@@ -503,6 +504,11 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] WUR - 2024 Food Systems Innovation Challenge - http://tinyurl.com/3828pysd 05 MAR
 - [ ] The Spring 2024 Social Innovation Challenge - http://tinyurl.com/5hdp5m3m 1 APRIL
 - [ ] INNOVATE THE FUTURE http://tinyurl.com/ra3du2jp MAR 20
+- [ ] Mo Ibrahim Foundation - https://tinyurl.com/3794b2ph Nov 18
+- [ ] GSEA - https://gsea.org/APPLY NOV 24
+- [ ] RGS - https://tinyurl.com/m89rhp7s NOV 20
+- [ ] Cisco Youth Leadership Award - https://tinyurl.com/5pmb4m3t DEC 10
+- [ ] TCS - https://www.techstars.com/accelerators/anywhere NOV 18
 - [ ] Poverty Action Peace and Recovery Initiative - https://tinyurl.com/mctmvueu NOV 10
 - [ ] (PPIA) Fellowship https://tinyurl.com/5xpvjkwa OCT 25
 - [ ] BMO Fellowship https://tinyurl.com/5dxmw8yy DEC 27
@@ -770,7 +776,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] https://morganstanley.tal.net/vx/candidate/apply/15935
 - [ ] Digital Africa Talent 4 Startups - https://talent4startups.digital-africa.co/ - 20th FEB
 - [ ] UN Cyber Sec JOB http://tinyurl.com/ydp66hbv  5MAR
-- [ ] RISE Summer Internship https://tinyurl.com/3bbmyfz7 NOV 15
+- [ ] RISE Summer Internship https://tinyurl.com/3bbmyfz7 NOV 
 - [ ] Internships with FES Uganda https://uganda.fes.de/about/internships-with-fes-uganda
 - [ ] MINISTRY OF GENDER, LABOUR AND SOCIAL DEVELOPMENT INTERNS - https://mglsd.go.ug/internship/
 - [ ] Global Steering Committee  - https://tinyurl.com/57bku2ct SEPT 11
