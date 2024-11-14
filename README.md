@@ -49,6 +49,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] aria-multimodal-hackathon https://lablab.ai/event/aria-multimodal-hackathon OCT 30
 - [ ] Mountaintop International Fellowship - https://tinyurl.com/mwfvnmmz NOV 3
 - [ ] NASPAA simulations - https://tinyurl.com/vf5aeh53 DEC 12
+- [ ] CGI - https://tinyurl.com/rfysfaf5 NOV 17
 - [ ] Redpanda AI Hackathon - https://tinyurl.com/4ezhxufz OCT 15
 - [ ] dif hackathon2024 https://difhackathon2024.devpost.com/  OCT 22
 - [ ] ENS International Selection - https://tinyurl.com/38r8ku2t NOV 20
