@@ -28,6 +28,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Global Innovation Fund, - https://tinyurl.com/4js8bbh8 SEPT 15
 - [ ] Fast Forward Accelerator - https://www.ffwd.org/accelerator/ SEP 4
 - [ ] Announce -- OutreachY - https://tinyurl.com/3je2j769 AUG 20
+- [ ] Peace Corps Ambassador - https://tinyurl.com/yc4eykep DEC 8
 - [ ] aria-multimodal-hackathon https://lablab.ai/event/aria-multimodal-hackathon NOV 1
 - [ ] BITCOIN Writing Contest by Rootstock - https://tinyurl.com/mvdv9ux3 SEPT 5
 - [ ] Huawei ICT Competition - https://tinyurl.com/ykyhuhav DEC 6
