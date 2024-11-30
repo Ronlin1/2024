@@ -30,6 +30,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Announce -- OutreachY - https://tinyurl.com/3je2j769 AUG 20
 - [ ] aria-multimodal-hackathon https://lablab.ai/event/aria-multimodal-hackathon NOV 1
 - [ ] BITCOIN Writing Contest by Rootstock - https://tinyurl.com/mvdv9ux3 SEPT 5
+- [ ] Huawei ICT Competition - https://tinyurl.com/ykyhuhav DEC 6
 - [ ] IBM TechXchange - https://tinyurl.com/v9h3vs8j SEPT 10
 - [ ] Shooting Stars Campus Ambassador  - https://tinyurl.com/36zcs9fx SEPT 14
 - [ ] HackAI - Dell and NVIDIA Challenge - SEPT 25
