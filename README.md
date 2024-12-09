@@ -44,7 +44,10 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] ACIC 2024 - https://tinyurl.com/y2wa5yxs OCT 31
 - [ ] EQUALS in Tech Awards https://www.equalsintech.org/awards AUG 27
 - [ ] Climate Finance Academy 2 - https://tinyurl.com/452a6ft3 JULY 26
-- [ ] GeoMundus 2024! https://tinyurl.com/yft38cfd AUG 1 
+- [ ] GeoMundus 2024! https://tinyurl.com/yft38cfd AUG 1
+- [ ] CISCO YOUTH AWARD - https://tinyurl.com/mrdcc8kt DEC 14
+- [ ] Melton Foundation - https://tinyurl.com/y392yc9z DEC 12
+- [ ] CERN - https://tinyurl.com/rfx7mx7j DEC 20
 - [ ] Twilio’s AI Startup Searchlight 2.0 https://tinyurl.com/5n7tdkak SEPT 26
 - [ ] Student Energy Chapters Program - MAR 20 (MAIL)
 - [ ] TINY FELLOWSHIP -https://opportunegate.online/tiny-fellowship 28TH OCT
