@@ -26,6 +26,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Climate Content Creators Workshop - https://tinyurl.com/32b3p9m4 AUG 14
 - [ ] Global Youth Climate https://tinyurl.com/ywenwhmm AUG 6
 - [ ] Global Innovation Fund, - https://tinyurl.com/4js8bbh8 SEPT 15
+- [ ] - [ ] GITEX - https://event.gitexafrica.com/2025-startup-enquiry DEC 15
 - [ ] Fast Forward Accelerator - https://www.ffwd.org/accelerator/ SEP 4
 - [ ] Announce -- OutreachY - https://tinyurl.com/3je2j769 AUG 20
 - [ ] Peace Corps Ambassador - https://tinyurl.com/yc4eykep DEC 8
