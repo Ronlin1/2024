@@ -25,6 +25,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] FlutterFlow AI - https://hackathon.ffdc.io/ AUG 21
 - [ ] Climate Content Creators Workshop - https://tinyurl.com/32b3p9m4 AUG 14
 - [ ] Global Youth Climate https://tinyurl.com/ywenwhmm AUG 6
+- [ ] InsurAI Accelerator - https://tinyurl.com/2hdajtvw DEC 30
 - [ ] Global Innovation Fund, - https://tinyurl.com/4js8bbh8 SEPT 15
 - [ ] - [ ] GITEX - https://event.gitexafrica.com/2025-startup-enquiry DEC 15
 - [ ] RAG 'n' ROLL Amp  https://snowflake-mistral-rag.devpost.com/ DEC 31
