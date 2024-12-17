@@ -23,6 +23,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Reversing Environmental Degradation in Africa and Asia - https://www.redaa.org/grant-call-2 -JUN 25
 - [ ] NOAA Young Changemakers https://tinyurl.com/3fcd474s JUNE 5
 - [ ] FlutterFlow AI - https://hackathon.ffdc.io/ AUG 21
+- [ ] BINANCE https://tinyurl.com/56wwtux8 DEC 24
 - [ ] Climate Content Creators Workshop - https://tinyurl.com/32b3p9m4 AUG 14
 - [ ] Global Youth Climate https://tinyurl.com/ywenwhmm AUG 6
 - [ ] InsurAI Accelerator - https://tinyurl.com/2hdajtvw DEC 30
