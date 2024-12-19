@@ -42,6 +42,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Shooting Stars Campus Ambassador  - https://tinyurl.com/36zcs9fx SEPT 14
 - [ ] HackAI - Dell and NVIDIA Challenge - SEPT 25
 - [ ] Global CITIZEN CISCO AWARD
+- [ ] Global AI Safety Fellowship https://tinyurl.com/5b28k3wt DEC 26
 - [ ] Cadence Innovation Projects - 07 OCT
 - [ ] Istanbul Climate Action Forum - https://ecodialogueinstitute.com/ DEC 7
 - [ ] GBSN Logistics Challenge https://gbsn.org/conference/slc/ OCT 06
